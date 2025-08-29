@@ -1,0 +1,125 @@
+{
+  "name": "Ecru",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "effects": [],
+  "_id": "0hF1nTpJGLxXpcg9",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Coastal, Plains</em></p>\n<p>Small, red-leaved drooping palm trees that grow no more than 5-feet tall. The trees produce a small, red, crystalline growths, as a result of build-up of the Ecru&rsquo;s internal resins, called Ecru Crystal. This crystal can then be dissolved in a strong acid and consumed to induce a state of blissful relaxation for [[/roll 1d10]] minutes. In addition, during this time, there is a 25% chance that a spellcaster who consumes Ecru Crystal will receive a boost of [[/roll 1d4-1]] points to either Wisdom, Charisma, or Intelligence for a period of 24 hours. In addition, during this 24-hour period, the consumer&rsquo;s Dexterity is halved.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0,
+    "0dke80Cb9LhbPTyn": 3
+  },
+  "folder": null,
+  "sort": 900000,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "13.348",
+    "createdTime": null,
+    "modifiedTime": 1756493242358,
+    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!0hF1nTpJGLxXpcg9"
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Luhix",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium-plants-fungi/icons/powder-bag.svg",
+  "effects": [],
+  "_id": "a8tPjTqwb5ZG3DMi",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests, Underdark & Caves</em></p>\n<p>Wound-powder drug, made from stalks of Abyssal plants. Initial +1 bonus to all ability scores along with intense pain for [[/roll 1d8]] minutes. Second use grants a +2 bonus to all ability scores and excruciating pain that causes disadvantage on checks and saves of all kinds for [[/roll 2d8]] minutes. Third use causes the possibility of addiction (DC 20 Constitution Save) and a -3 to all ability scores and pain that renders the user incapable of doing anything and lowers movement speed to 1 foot for [[/roll 3d8]] hours. As long as the user is addicted and does not have access to more Luhix, they will take a -5 penalty to all checks and movement speed will be halved as they are too lethargic to do anything of importance.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0,
+    "0dke80Cb9LhbPTyn": 3
+  },
+  "folder": null,
+  "sort": 37800000,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "13.348",
+    "createdTime": null,
+    "modifiedTime": 1756493242358,
+    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!a8tPjTqwb5ZG3DMi"
+}

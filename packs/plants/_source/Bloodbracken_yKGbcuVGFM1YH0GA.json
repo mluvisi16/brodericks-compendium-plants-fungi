@@ -1,0 +1,125 @@
+{
+  "name": "Bloodbracken",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium-plants-fungi/icons/root.svg",
+  "effects": [],
+  "_id": "yKGbcuVGFM1YH0GA",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Forests</em></p>\n<p>A predatory plant that spends 95% of its life underground. The seeds sprout and spread underground, sending out parasitic roots and drawing in nutrients. A few thin tendrils with unremarkable green leaves reach the surface. The seedpod, growing to the size of a large melon over the course of a two-year period, strains and creaks just below the surface. If a creature of sufficient weight steps on the soil above it, it will burst, releasing a cone of red branches that sprays upwards like a land mine, impaling and shredding the target for [[/roll 10d8]] slashing damage. One moment, nothing. The next, a 6' tall red twiggy bush growing through the body of your friend. As the body rots, it provides nutrients for the Bloodbracken to grow and produce seeds. It's entirely safe in this short-lasting mature stage, living to reproduce and wilting after only a few months. If a mature Bloodbracken is found in the wild, the base can be searched to yield bones of unlucky explorers and occasional whatever loot they had on them.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0,
+    "0dke80Cb9LhbPTyn": 3
+  },
+  "folder": null,
+  "sort": 61500000,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "13.348",
+    "createdTime": null,
+    "modifiedTime": 1756493242358,
+    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!yKGbcuVGFM1YH0GA"
+}

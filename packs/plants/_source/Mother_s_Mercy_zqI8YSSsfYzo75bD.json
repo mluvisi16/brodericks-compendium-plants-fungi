@@ -1,0 +1,125 @@
+{
+  "name": "Mother's Mercy",
+  "type": "consumable",
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "img": "modules/brodericks-compendium-plants-fungi/icons/shrub.svg",
+  "effects": [],
+  "_id": "zqI8YSSsfYzo75bD",
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Mountains</em></p>\n<p>Mother&rsquo;s Mercy very closely resembles the plant Mother&rsquo;s Worry except for the presence of the small, white blooms that are present on Mother&rsquo;s Mercy during the late spring and early summer. A tall, woody-stemmed plant that when broken releases copious amounts of a thin, milky fluid. When the sap of Mother&rsquo;s Mercy is refined to a slightly thicker milky fluid, it becomes a peaceful but powerful poison. After ingestion, a creature subjected to this poison must succeed on a DC 14 Constitution saving throw, becoming poisoned on a failed save, and must repeat the saving throw at the start of each of its turns. While poisoned in this way, the creature's Constitution score decreases by 2. On each successive failed save, the creature's Constitution score is further reduced by 1. If a creature's Constitution score if reduced to 0 in this way, it dies. After two consecutive successful saves, the poisoning ends and the creature's Constitution score is restored.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "attuned": false
+  },
+  "ownership": {
+    "default": 0,
+    "0dke80Cb9LhbPTyn": 3
+  },
+  "folder": null,
+  "sort": 63900000,
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.1",
+    "coreVersion": "13.348",
+    "createdTime": null,
+    "modifiedTime": 1756493242358,
+    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zqI8YSSsfYzo75bD"
+}

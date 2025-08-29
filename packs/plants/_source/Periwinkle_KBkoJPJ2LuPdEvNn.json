@@ -1,0 +1,113 @@
+{
+  "name": "Periwinkle",
+  "type": "consumable",
+  "img": "assets/periwinkle.webp",
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "betterRolls5e": {
+      "critRange": {
+        "value": null
+      },
+      "critDamage": {
+        "value": ""
+      },
+      "quickDesc": {
+        "value": true,
+        "altValue": true
+      },
+      "quickProperties": {
+        "value": true,
+        "altValue": true
+      },
+      "quickOther": {
+        "value": true,
+        "altValue": true
+      },
+      "quickFlavor": {
+        "value": true,
+        "altValue": true
+      },
+      "quickCharges": {
+        "value": {
+          "quantity": false
+        },
+        "altValue": {
+          "quantity": false
+        }
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "dnd5e",
+    "systemVersion": "5.1.3",
+    "createdTime": 1756493242073,
+    "modifiedTime": 1756493242358,
+    "lastModifiedBy": "lQk7CCByj6wH9AQa"
+  },
+  "system": {
+    "description": {
+      "value": "<p><em>Biome: Cities, Plains</em></p>\n<p>The plant is a creeping vine with dark, green shiny leaves and pale blue flowers. The flowers must be crushed into a powder and administered orally. If used successfully the herb will stop all bleeding, both internal and external in one turn (+6 hit points recovered if administered within one turn of taking damage).</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "equipped": false,
+    "rarity": "veryCommon",
+    "identified": true,
+    "uses": {
+      "max": "0",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "attuned": false,
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "activities": {},
+    "identifier": "periwinkle",
+    "container": null,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "lQk7CCByj6wH9AQa": 3
+  },
+  "_id": "KBkoJPJ2LuPdEvNn",
+  "sort": 10900000,
+  "_key": "!items!KBkoJPJ2LuPdEvNn"
+}
