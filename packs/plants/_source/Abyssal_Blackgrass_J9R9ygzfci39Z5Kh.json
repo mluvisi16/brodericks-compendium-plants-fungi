@@ -2,7 +2,7 @@
   "_id": "J9R9ygzfci39Z5Kh",
   "name": "Abyssal Blackgrass",
   "type": "consumable",
-  "img": "assets/abyssal-blackgrass.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/images/abyssal-blackgrass.webp",
   "effects": [],
   "folder": null,
   "sort": 20600000,
