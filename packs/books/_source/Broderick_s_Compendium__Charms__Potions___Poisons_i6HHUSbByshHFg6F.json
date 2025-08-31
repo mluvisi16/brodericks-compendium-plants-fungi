@@ -8,7 +8,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>@UUID[Compendium.brodericks-compendium.plants.8Y1I8iNnWsyB5xKc]{Betrayer's Inception}</p><p>@UUID[Compendium.brodericks-compendium.plants.DRHKJ3LIY5JKQd17]{Nine Herbs Charm}</p><p>@UUID[Compendium.brodericks-compendium.plants.iRIvXdqL71moupdT]{Vortax}</p>",
+      "value": "<p>@UUID[Compendium.brodericks-compendium-plants-fungi.plants.8Y1I8iNnWsyB5xKc]{Betrayer's Inception}</p><p>@UUID[Compendium.brodericks-compendium-plants-fungi.plants.DRHKJ3LIY5JKQd17]{Nine Herbs Charm}</p><p>@UUID[Compendium.brodericks-compendium-plants-fungi.plants.iRIvXdqL71moupdT]{Vortax}</p>",
       "chat": "",
       "unidentified": ""
     },
