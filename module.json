@@ -27,33 +27,33 @@
         {
             "name": "monsters",
             "label": "Monsters (Broderick's Compendium)",
-            "path": "packs/monsters.db",
+            "path": "packs/monsters",
             "type": "Actor",
-            "module": "brodericks-compendium",
+            "module": "brodericks-compendium-plants-fungi",
             "system": "dnd5e"
         },
         {
             "name": "plants",
             "label": "Plants and Fungi (Broderick's Compendium)",
-            "path": "packs/plants.db",
+            "path": "packs/plants",
             "type": "Item",
-            "module": "brodericks-compendium",
+            "module": "brodericks-compendium-plants-fungi",
             "system": "dnd5e"
         },
         {
             "name": "books",
             "label": "Books (Broderick's Compendium)",
-            "path": "packs/books.db",
+            "path": "packs/books",
             "type": "Item",
-            "module": "brodericks-compendium",
+            "module": "brodericks-compendium-plants-fungi",
             "system": "dnd5e"
         },
         {
             "name": "planttables",
             "label": "Plant RollTables (Broderick's Compendium)",
-            "path": "packs/plantrolltables.db",
+            "path": "packs/plantrolltables",
             "type": "RollTable",
-            "module": "brodericks-compendium",
+            "module": "brodericks-compendium-plants-fungi",
             "system": "dnd5e"
         }
     ],
@@ -110,7 +110,7 @@
         }
     ],
     "relationships": {},
-    "url": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium",
-    "manifest": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium-pleants-fungi/releases/latest/download/module.json",
+    "url": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium-plants-fungi",
+    "manifest": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium-plants-fungi/releases/latest/download/module.json",
     "download": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium-plants-fungi/releases/latest/download/module.zip"
 }
