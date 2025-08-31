@@ -2,7 +2,7 @@ Hooks.once("init", function () {
     CONFIG.DND5E.itemRarity.veryCommon = "very common";
 });
 
-const MODULE_ID = "brodericks-compendium";
+const MODULE_ID = "brodericks-compendium-plants-fungi";
 
 Hooks.once("ready", async () => {
     if(game.modules.get("compendium-themer")?.active) {
