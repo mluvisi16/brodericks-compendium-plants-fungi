@@ -11,7 +11,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>@Compendium[brodericks-compendium.plants.0g2zpx50JjHSZ5bB]{Adamant Algae}</p><p>@Compendium[brodericks-compendium.plants.5zhTmHOEVHuPllO7]{Dratiddel}</p><p>@Compendium[brodericks-compendium.plants.4opU0udnysyPYz8C]{Entangle Weed}</p><p>@Compendium[brodericks-compendium.plants.OxplJDEI1pC4TJYQ]{Gylvir}</p><p>@Compendium[brodericks-compendium.plants.v3JzzrF1xfi1sswp]{Sand Vine}</p><p>@Compendium[brodericks-compendium.plants.uHMuP9L5iw7y1kRV]{Tangara Kelp}</p>",
+      "value": "<p>@Compendium[brodericks-compendium-plants-fungi.plants.0g2zpx50JjHSZ5bB]{Adamant Algae}</p><p>@Compendium[brodericks-compendium-plants-fungi.plants.5zhTmHOEVHuPllO7]{Dratiddel}</p><p>@Compendium[brodericks-compendium-plants-fungi.plants.4opU0udnysyPYz8C]{Entangle Weed}</p><p>@Compendium[brodericks-compendium-plants-fungi.plants.OxplJDEI1pC4TJYQ]{Gylvir}</p><p>@Compendium[brodericks-compendium-plants-fungi.plants.v3JzzrF1xfi1sswp]{Sand Vine}</p><p>@Compendium[brodericks-compendium-plants-fungi.plants.uHMuP9L5iw7y1kRV]{Tangara Kelp}</p>",
       "chat": "",
       "unidentified": ""
     },
