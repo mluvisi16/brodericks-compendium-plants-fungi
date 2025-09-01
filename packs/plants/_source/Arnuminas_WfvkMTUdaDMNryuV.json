@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/leaf.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/arnuminas.webp",
   "effects": [],
   "_id": "WfvkMTUdaDMNryuV",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>The leaf of this plant should be applied to the site of ligament, cartilage, or muscle damage. If used successfully, it will double the speed of healing for such damage.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\n<p>A small rotund ground plant with many leaves and a noticeable root structure holding it aloft. The leaf of this plant should be applied to the site of ligament, cartilage, or muscle damage. If used successfully, it will double the speed of healing for such damage.</p>",
       "chat": "",
       "unidentified": ""
     },

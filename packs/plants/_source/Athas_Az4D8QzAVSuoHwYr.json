@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/wood-stick.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/athas.webp",
   "effects": [],
   "_id": "Az4D8QzAVSuoHwYr",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>A simple, woody-stemmed plant that can be ground with mortar and pestle to yield a pale-yellow dust. This dust, when applied to the proper material, will fully corrode non-magical metal in [[/roll 1d4-1]] days.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\n<p>A simple, woody-stemmed plant with broad leaves that can be ground with mortar and pestle to yield a pale-yellow dust. This dust, when applied to the proper material, will fully corrode non-magical metal in [[/roll 1d4-1]] days.</p>",
       "chat": "",
       "unidentified": ""
     },

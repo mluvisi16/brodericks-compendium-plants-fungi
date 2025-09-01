@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Coastal, Deserts</em></p>\n<p>The leaf of Aloe applied to a wound, will double the natural healing rate of burns and minor cuts, adding +1 to total hit points recovered during a short rest.</p>",
+      "value": "<p><em>Biome: Cities, Coastal, Deserts</em></p>\n<p>The leaves of Aloe swell or shrivel depending on water availability. The leaf of Aloe applied to a wound, will double the natural healing rate of burns and minor cuts, adding +1 to total hit points recovered during a short rest.</p>",
       "chat": "",
       "unidentified": ""
     },

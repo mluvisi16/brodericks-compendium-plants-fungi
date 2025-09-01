@@ -35,7 +35,7 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/leaf.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/adgana.webp",
   "effects": [],
   "_id": "D1WOfiY31YnGgEmT",
   "system": {
@@ -115,7 +115,7 @@
     "systemVersion": "2.2.1",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
+    "modifiedTime": 1756764963424,
     "lastModifiedBy": "lQk7CCByj6wH9AQa",
     "compendiumSource": null,
     "duplicateSource": null,
