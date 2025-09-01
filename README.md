@@ -1,9 +1,10 @@
 # Broderick's Compendium: Plants and Fungi Across the Realm
 
-![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/foundryvtt-brodericks-compendium/module.zip?color=2b82fc&label=%20Downloads%20%28all%29&style=for-the-badge)
-![Latest Release Download Count](https://img.shields.io/github/downloads/mluvisi16/foundryvtt-brodericks-compendium/latest/module.zip?label=Downloads%20%28latest%20release%29&style=for-the-badge)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/mluvisi16/foundryvtt-brodericks-compendium?label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge)
-![Foundry Core Minimal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Ffoundryvtt-brodericks-compendium%2Fmaster%2Fmodule.json&label=Foundry%20Minimal%20Version&query=$.compatibility.minimum&colorB=orange&style=for-the-badge)
+![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/module.zip?color=2b82fc&label=%20Downloads%20%28all%29&style=for-the-badge)
+![Latest Release Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/latest/module.zip?label=Downloads%20%28latest%20release%29&style=for-the-badge)
+![Fork v13 Update Release Download Count](https://img.shields.io/github/downloads/mluvisi16/foundryvtt-brodericks-compendium/latest/module.zip?label=Downloads%20%28latest%20release%29&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mluvisi16/brodericks-compendium-plants-fungi?label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge)
+![Foundry Core Minimal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Fbrodericks-compendium-plants-fungi%2Fmaster%2Fmodule.json&label=Foundry%20Minimal%20Version&query=$.compatibility.minimum&colorB=orange&style=for-the-badge)
 ![Foundry Core Maximal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Ffoundryvtt-brodericks-compendium%2Fmaster%2Fmodule.json&label=Foundry%20Maximal%20Version&query=$.compatibility.maximum&colorB=orange&style=for-the-badge)
 
 A module for FoundryVTT that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the
@@ -29,9 +30,7 @@ searching in. Results will be added to a "Found Plants" loot actor for distribut
 
 ## Wait a minute... I've already seen this!
 
-This module is a fork of the
-wonderful [FoundryVTT-FantasyPlants](https://github.com/KyleBishop/FoundryVTT-FantasyPlants) module by Kyle Bishop, but
-has since received a ton of updates:
+This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github.com/KyleBishop/FoundryVTT-FantasyPlants) module by Kyle Bishop, but has since received a ton of updates by Marc Straub and his wonderful updates to this module for v10 [foundryvtt-brodericks-compendium](https://github.com/marcstraube/foundryvtt-brodericks-compendium) including the following
 
 * Cleaned-up CSS on item descriptions.
 * Picture or icon for every plant.
@@ -47,7 +46,7 @@ has since received a ton of updates:
 
 * Start Foundry and head to the Add-on Modules tab.
 * Click Install Module.
-* Search for "Broderick's Compendium"
+* Search for "Broderick's Compendium" or "Plants" or "Fungi"
 * Click the install button when it comes up.
 
 **Method 2:**
@@ -55,13 +54,12 @@ has since received a ton of updates:
 * Start Foundry and head to the Add-on Modules tab.
 * Click Install Module.
 * Paste the following link into the "Manifest URL" field at the
-  bottom: <https://github.com/marcstraube/foundryvtt-brodericks-compendium/releases/latest/download/module.json>
+  bottom: <https://github.com/mluvisi16/brodericks-compendium-plants-fungi/releases/latest/download/module.json>
 * Click Install
 
 ## Optional Dependencies
 
-Install [Better Rolltables](https://github.com/ultrakorne/better-rolltables)
-and [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) for enhanced functionality.
+Install [Better Rolltables](https://github.com/ultrakorne/better-rolltables) and [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) for enhanced functionality.
 
 Install [Compendium Themer](https://github.com/p4535992/foundryvtt-compendium-themer) to custom style the compendiums. 
 
@@ -69,22 +67,16 @@ Install [libChangelog](https://github.com/theripper93/libChangelogs) to see a ch
 
 ## Suggested Use
 
-I currently use this in my campaign to allow players to forage. If you use the included roll tables for the region(s)
-they are in, you can select the Generate Loot button on the table, it will create a new instance of the item on the
-Actor "Found Plants" in the Actors tab (it will create that loot actor if you don't have it already).
-
-I also
-have [Forien's Unidentified Items](https://github.com/League-of-Foundry-Developers/foundryvtt-forien-unidentified-items/)
-add-on and right-click the new plant and mystify before letting the players see it/access it. You can save a copy to
-your items for reference if you want.
+* I am planning to use this with TheRipper93s [Gatherer](https://theripper93.com/module/gatherer) and [Mastercrafted](https://theripper93.com/module/mastercrafted)
+* I will be creating another module for animal/monster parts as well as non plant/fungi reagents and potions specifically for integration with this and the above modules.
 
 ## What's to come?
 
-* <del>I hope, that someday I am able to add images (only free-to-use) to every plant in the compendium.</del> Replace
-  icons with images (AI image generation is a godsent for this!)
-* Add seasons and prices to the plants.
-* <del>Add a second compendium with potions and mixtures made from the plants (and their prices).</del>
-* Where needed, add more information on the appearance of the plants.
-* Add more plants, monsters and potions.
+* Add images for the 600+ plants/fungi that lack them
+* Add in game uses for some of the plants lacking a distinct usecase in game
+* Update visual description of some plants that have a use, but no description
+* Automate the foraging/crafting likely through integration with the suggested use section modules
+* Add more plants, get a followup module going for animal/monster parts and potion crafting.
 
-If you're interested to help, don't hesitate to create a pull request!
+Feel free to visit my repo or message me on discord "vitamorte" to report issues or create suggestions for future content or plant updates.
+Enjoy your wilderness foraging!
