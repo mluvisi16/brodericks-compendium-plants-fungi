@@ -78,5 +78,5 @@ Install [libChangelog](https://github.com/theripper93/libChangelogs) to see a ch
 * Automate the foraging/crafting likely through integration with the suggested use section modules
 * Add more plants, get a followup module going for animal/monster parts and potion crafting.
 
-Feel free to visit my repo to report issues or create suggestions for future content or plant updates.
+Feel free to visit my repo or message me on discord "vitamorte" to report issues or create suggestions for future content or plant updates.
 Enjoy your wilderness foraging!
