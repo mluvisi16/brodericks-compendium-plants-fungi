@@ -1,13 +1,3 @@
-2025/08/31-22:13:12.794 144c Log #3: 28 ops saved to Table #25 OK
-2025/08/31-22:13:12.794 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\books/000003.log: OK
-2025/08/31-22:13:12.794 144c Log #15: 0 ops saved to Table #26 OK
-2025/08/31-22:13:12.794 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\books/000015.log: OK
-2025/08/31-22:13:12.794 144c Log #24: 0 ops saved to Table #27 OK
-2025/08/31-22:13:12.794 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\books/000024.log: OK
-2025/08/31-22:13:12.794 144c Table #13: 14 entries OK
-2025/08/31-22:13:12.794 144c Table #22: 14 entries OK
-2025/08/31-22:13:12.795 144c Table #25: 28 entries OK
-2025/08/31-22:13:12.796 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\books/MANIFEST-000002: OK
-2025/08/31-22:13:12.796 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\books/MANIFEST-000014: OK
-2025/08/31-22:13:12.797 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\books/MANIFEST-000023: OK
-2025/08/31-22:13:12.798 144c **** Repaired leveldb C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\books; recovered 3 files; 149723 bytes. Some data may have been lost. ****
+2025/09/01-14:03:10.890 5bd4 Recovering log #37
+2025/09/01-14:03:10.892 5bd4 Delete type=0 #37
+2025/09/01-14:03:10.892 5bd4 Delete type=3 #35

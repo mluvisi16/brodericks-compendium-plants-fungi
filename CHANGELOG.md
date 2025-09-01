@@ -1,6 +1,6 @@
 2.1.0
 ------
-* Added images for all plants beginning with 'A'
+* Added images for all plants beginning with 'A' -- 41 images
 * Skipped version count to align with forked repos 2.0.37 to avoid confusion
 
 1.1.0
