@@ -1,14 +1,13 @@
-2025/08/29-17:41:06.247 2010 Recovering log #17
-2025/08/29-17:41:06.251 2010 Delete type=0 #17
-2025/08/29-17:41:06.251 2010 Delete type=3 #16
-2025/08/29-17:41:06.257 4544 Level-0 table #21: started
-2025/08/29-17:41:06.259 4544 Level-0 table #21: 168278 bytes OK
-2025/08/29-17:41:06.259 4544 Delete type=0 #19
-2025/08/29-17:41:06.260 4544 Manual compaction at level-0 from '!tables!DWjjLoI3rhdL00jH' @ 72057594037927935 : 1 .. '!tables.results!zAnjYNnJdKFwhprb.yBjlL8V3mj6qixSn' @ 0 : 0; will stop at '!tables.results!zAnjYNnJdKFwhprb.yBjlL8V3mj6qixSn' @ 2898 : 1
-2025/08/29-17:41:06.260 4544 Compacting 1@0 + 1@1 files
-2025/08/29-17:41:06.263 4544 Generated table #22@0: 913 keys, 168278 bytes
-2025/08/29-17:41:06.263 4544 Compacted 1@0 + 1@1 files => 168278 bytes
-2025/08/29-17:41:06.264 4544 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/29-17:41:06.264 4544 Delete type=2 #13
-2025/08/29-17:41:06.264 4544 Delete type=2 #21
-2025/08/29-17:41:06.264 4544 Manual compaction at level-0 from '!tables.results!zAnjYNnJdKFwhprb.yBjlL8V3mj6qixSn' @ 2898 : 1 .. '!tables.results!zAnjYNnJdKFwhprb.yBjlL8V3mj6qixSn' @ 0 : 0; will stop at (end)
+2025/08/31-22:13:12.810 144c Log #3: 1826 ops saved to Table #25 OK
+2025/08/31-22:13:12.811 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\plantrolltables/000003.log: OK
+2025/08/31-22:13:12.811 144c Log #15: 0 ops saved to Table #26 OK
+2025/08/31-22:13:12.811 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\plantrolltables/000015.log: OK
+2025/08/31-22:13:12.811 144c Log #24: 0 ops saved to Table #27 OK
+2025/08/31-22:13:12.812 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\plantrolltables/000024.log: OK
+2025/08/31-22:13:12.812 144c Table #13: 913 entries OK
+2025/08/31-22:13:12.813 144c Table #22: 913 entries OK
+2025/08/31-22:13:12.813 144c Table #25: 1826 entries OK
+2025/08/31-22:13:12.815 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\plantrolltables/MANIFEST-000002: OK
+2025/08/31-22:13:12.815 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\plantrolltables/MANIFEST-000014: OK
+2025/08/31-22:13:12.816 144c Archiving C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\plantrolltables/MANIFEST-000023: OK
+2025/08/31-22:13:12.817 144c **** Repaired leveldb C:\Users\Mluvi\AppData\Local\FoundryVTT\Data\modules\brodericks-compendium-plants-fungi\packs\plantrolltables; recovered 3 files; 592879 bytes. Some data may have been lost. ****
