@@ -6,7 +6,7 @@
 ![Foundry Core Minimal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Fbrodericks-compendium-plants-fungi%2Fmaster%2Fmodule.json&label=Foundry%20Minimal%20Version&query=$.compatibility.minimum&colorB=orange&style=for-the-badge)
 ![Foundry Core Maximal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Ffoundryvtt-brodericks-compendium%2Fmaster%2Fmodule.json&label=Foundry%20Maximal%20Version&query=$.compatibility.maximum&colorB=orange&style=for-the-badge)
 
-Previous Repo Stats
+
 ![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/foundryvtt-brodericks-compendium/module.zip?color=2b82fc&label=%20Downloads%20%28all%29&style=for-the-badge)
 ![Fork v13 Update Release Download Count](https://img.shields.io/github/downloads/mluvisi16/foundryvtt-brodericks-compendium/latest/module.zip?label=Downloads%20%28latest%20release%29&style=for-the-badge)
 
