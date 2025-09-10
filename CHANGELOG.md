@@ -1,3 +1,11 @@
+2.1.2
+------
+* Added images for all plants beginning with 'B' -- 34 images
+
+2.1.1
+------
+* Bugfixes
+
 2.1.0
 ------
 * Added images for all plants beginning with 'A' -- 41 images

@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/brelidar.webp",
   "effects": [],
   "_id": "1rQW7g0YsmUlQpTG",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic</em></p>\n<p>This flower, when eaten, alters the way a person judges distance for a period of one hour. While under the influence of the flower, a person can add a bonus of +2 to ranged combat attacks, while subtracting -2 from melee attacks.</p>",
+      "value": "<p><em>Biome: Arctic</em></p>\n<p>A small arctic plant that blooms a single iridescent flower. It is considered one of the most beautiful flowers in the realm. This flower, when eaten, alters the way a person judges distance for a period of one hour. While under the influence of the flower, a person can add a bonus of +2 to ranged combat attacks, while subtracting -2 from melee attacks.</p>",
       "chat": "",
       "unidentified": ""
     },
