@@ -36,7 +36,7 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flax.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/bishops-weed.webp",
   "effects": [],
   "system": {
     "description": {
@@ -115,7 +115,7 @@
     "systemVersion": "2.2.1",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
+    "modifiedTime": 1757528680466,
     "lastModifiedBy": "lQk7CCByj6wH9AQa",
     "compendiumSource": null,
     "duplicateSource": null,
