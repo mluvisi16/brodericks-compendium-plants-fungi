@@ -1,3 +1,7 @@
+2.1.3
+------
+* Added images for all plants beginning with 'C' -- 26 images
+
 2.1.2
 ------
 * Added images for all plants beginning with 'B' -- 34 images

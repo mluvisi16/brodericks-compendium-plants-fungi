@@ -32,18 +32,6 @@ I did not create any of the plants. This addon includes rolltables for the follo
 Roll tables and plants are included as compendiums. Open up the roll table and select the region type your party is
 searching in. Results will be added to a "Found Plants" loot actor for distribution to the players.
 
-## Wait a minute... I've already seen this!
-
-This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github.com/KyleBishop/FoundryVTT-FantasyPlants) module by Kyle Bishop, but has since received a ton of updates by Marc Straub and his wonderful updates to this module for v10 [foundryvtt-brodericks-compendium](https://github.com/marcstraube/foundryvtt-brodericks-compendium) including the following
-
-* Cleaned-up CSS on item descriptions.
-* Picture or icon for every plant.
-* Every plant description contains the biomes where to find it.
-* Some already legendary plants get an additional info, if they are "Exceedingly Rare".
-* Rebalanced roll tables.
-* Compatibility for the new rarity setting, which got introduced by the DND5E 1.4.0 system.
-* and more
-
 ## Installation
 
 **Method 1:**
@@ -73,6 +61,18 @@ Install [libChangelog](https://github.com/theripper93/libChangelogs) to see a ch
 
 * I am planning to use this with TheRipper93s [Gatherer](https://theripper93.com/module/gatherer) and [Mastercrafted](https://theripper93.com/module/mastercrafted)
 * I will be creating another module for animal/monster parts as well as non plant/fungi reagents and potions specifically for integration with this and the above modules.
+
+## Wait a minute... I've already seen this!
+
+This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github.com/KyleBishop/FoundryVTT-FantasyPlants) module by Kyle Bishop, but has since received a ton of updates by Marc Straub and his amazing updates to this module for v10 [foundryvtt-brodericks-compendium](https://github.com/marcstraube/foundryvtt-brodericks-compendium) including the following
+
+* Cleaned-up CSS on item descriptions.
+* Icons for all plants missing pictures
+* Every plant description contains the biomes where to find it.
+* Some already legendary plants get an additional info, if they are "Exceedingly Rare".
+* Rebalanced roll tables.
+* Compatibility for the new rarity setting, which got introduced by the DND5E 1.4.0 system.
+* and more
 
 ## What's to come?
 
