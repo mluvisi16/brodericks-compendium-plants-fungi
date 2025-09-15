@@ -1,3 +1,7 @@
+2.1.4
+------
+* Syntax bugfix for 2.1.3
+
 2.1.3
 ------
 * Added images for all plants beginning with 'C' -- 26 images
