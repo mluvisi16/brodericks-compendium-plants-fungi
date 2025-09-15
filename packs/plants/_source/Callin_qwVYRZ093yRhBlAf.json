@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/nut.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/callin.webp",
   "effects": [],
   "_id": "qwVYRZ093yRhBlAf",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>A dark nut that grows on the Callin tree in tropical jungles. When the husk is dried, ground and ingested, it thins the blood and strengthens internal organs, helping to prevent heart attacks, and has the side effect of reducing anxiety and panic.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>A dark nut that grows in clusters on a medium-sized tree in tropical jungles. When the husk is dried, ground and ingested, it thins the blood and strengthens internal organs, helping to prevent heart attacks, and has the side effect of reducing anxiety and panic.</p>",
       "chat": "",
       "unidentified": ""
     },
