@@ -132,7 +132,7 @@
       "lang": "en",
       "name": "English",
       "path": "lang/en.json",
-      "flags": {
+      "flags": {}
     }
   ],
   "url": "https://github.com/mluvisi16/brodericks-compendium-plants-fungi",
