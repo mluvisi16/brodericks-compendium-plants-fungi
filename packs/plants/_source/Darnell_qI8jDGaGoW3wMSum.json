@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/darnell.webp",
   "effects": [],
   "_id": "qI8jDGaGoW3wMSum",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>These tiny yellow flowers will, if eaten, cause dimness of the sight for [[/roll 1d12]] hours. This dimness means that in full light the character will see as if on a moonlit night. This herb does not affect those with truesight, but Darkvision range is reduced by half.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\n<p>A thin stemmed plant with green leaves near the base that can cause itching when touched. It can bloom tiny yellow flowers that will, if eaten, cause dimness of the sight for [[/roll 1d12]] hours. This dimness means that in full light the character will see as if on a moonlit night. This herb does not affect those with truesight, but Darkvision range is reduced by half.</p>",
       "chat": "",
       "unidentified": ""
     },

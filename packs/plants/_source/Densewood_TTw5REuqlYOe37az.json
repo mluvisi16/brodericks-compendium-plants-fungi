@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/densewood.webp",
   "effects": [],
   "_id": "TTw5REuqlYOe37az",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>Hard and sturdy tree native to tropical locales that, with a nature check of 20+, can be used to improve wooden weapons (ie quarterstaves and the like) to up the tier of dice that the weapon uses for damage.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>Hard and sturdy tree with a very wide trunk native to tropical locales that, with a nature check of 20+, can be used to improve wooden weapons (ie quarterstaves and the like) to up the tier of dice that the weapon uses for damage.</p>",
       "chat": "",
       "unidentified": ""
     },

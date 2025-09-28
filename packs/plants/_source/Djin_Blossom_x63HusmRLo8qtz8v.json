@@ -1,5 +1,5 @@
 {
-  "name": "Djin Blossom",
+  "name": "Djinn Blossom",
   "type": "consumable",
   "flags": {
     "betterRolls5e": {
@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/fern.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/djinn-blossom.webp",
   "effects": [],
   "_id": "x63HusmRLo8qtz8v",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts</em></p>\n<p>Fern native to the harsh conditions of the desert and commonly found in alchemy and herbalist shops. Wearing one of its petals grants a +2 bonus on saves against inhaled poisons and gas-based effects, and a DC 20 nature check allows one to make it into a perfume that grants a +2 bonus on all charisma-based skill checks for 24 hours.</p>",
+      "value": "<p><em>Biome: Deserts</em></p>\n<p>A white fern with leaves similar to a white to pink silk that blooms a few bulb-like light blue flowers. It is native to the harsh conditions of the desert and commonly found in alchemy and herbalist shops. Wearing one of its petals grants a +2 bonus on saves against inhaled poisons and gas-based effects, and a DC 20 nature check allows one to make it into a perfume that grants a +2 bonus on all charisma-based skill checks for 24 hours.</p>",
       "chat": "",
       "unidentified": ""
     },
