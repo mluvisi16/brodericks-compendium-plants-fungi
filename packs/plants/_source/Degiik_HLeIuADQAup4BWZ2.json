@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/leaf.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/degiik.webp",
   "effects": [],
   "_id": "HLeIuADQAup4BWZ2",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\n<p>Degiik leaves must be given to someone at the point of death (in the process of making death saving throws). The consumption of Degiik will count as two successes in the death save process.</p>",
+      "value": "<p><em>Biome: Jungles<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\n<p>A very small jungle floor plant that grows reddish pink leaves. These leaves must be given to someone at the point of death (in the process of making death saving throws). The consumption of Degiik will count as two successes in the death save process.</p>",
       "chat": "",
       "unidentified": ""
     },

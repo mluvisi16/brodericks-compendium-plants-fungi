@@ -1,3 +1,8 @@
+2.1.5
+------
+* Added images for all plants beginning with 'D' -- 35 images
+* Added visual descriptions to updated plants so far that were missing them
+
 2.1.4
 ------
 * Syntax bugfix for 2.1.3
