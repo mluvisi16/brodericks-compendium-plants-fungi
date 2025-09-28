@@ -11,10 +11,9 @@ Downloads (Previous Fork)
 ![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/foundryvtt-brodericks-compendium/module.zip?color=2b82fc&label=%20Downloads%20%28all%29&style=for-the-badge)
 ![Fork v13 Update Release Download Count](https://img.shields.io/github/downloads/mluvisi16/foundryvtt-brodericks-compendium/latest/module.zip?label=Downloads%20%28latest%20release%29&style=for-the-badge)
 
-A module for FoundryVTT that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the
-Realm (version 2.0)
+A module for FoundryVTT that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)
 (Source: <https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/>).
-I did not create any of the plants. This addon includes rolltables for the following regions as per the source material:
+I did not create any of the plants. This add-on includes roll tables for the following regions as per the source material:
 
 * Arctic
 * City
@@ -76,7 +75,7 @@ This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github
 
 ## What's to come?
 
-* Add images for the 600+ plants/fungi that lack them (Plants starting with ABCD completed, E in progress)
+* Add images for the 600+ plants/fungi that lack them (Plants starting with F in progress, all previous letters are completed.)
 * Add in game uses for some of the plants lacking a distinct usecase in game
 * Update visual description of some plants that have a use, but no description
 * Automate the foraging/crafting likely through integration with the suggested use section modules
