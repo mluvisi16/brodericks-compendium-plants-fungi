@@ -35,7 +35,7 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/slime.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/elora.webp",
   "effects": [],
   "_id": "pJEFFeP00wGt77fe",
   "system": {
@@ -115,8 +115,8 @@
     "systemVersion": "2.2.1",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
-    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "modifiedTime": 1759517112793,
+    "lastModifiedBy": "FHgt3MwGKSpo5rBU",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

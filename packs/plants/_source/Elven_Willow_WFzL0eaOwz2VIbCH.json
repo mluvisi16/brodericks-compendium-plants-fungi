@@ -35,7 +35,7 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/elven-willow.webp",
   "effects": [],
   "_id": "WFzL0eaOwz2VIbCH",
   "system": {
@@ -115,8 +115,8 @@
     "systemVersion": "2.2.1",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
-    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "modifiedTime": 1759517123194,
+    "lastModifiedBy": "FHgt3MwGKSpo5rBU",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null
