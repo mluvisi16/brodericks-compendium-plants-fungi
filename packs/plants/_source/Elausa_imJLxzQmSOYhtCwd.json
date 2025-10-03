@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/grass.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/elausa.webp",
   "effects": [],
   "_id": "imJLxzQmSOYhtCwd",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>A short, purple weed that grows in small patches of spiky grass among patches of wildflowers or in farm fields as an invasive. When consumed raw or in a tea, causes the character to lose its voice for [[/roll 2d10]] minutes, but in return, any symptoms of disease that normally affect the throat are cured.</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>A short, purple weed that grows in small patches of spiky grass among patches of wildflowers or in farm fields as an invasive species. When consumed raw or in a tea, causes the character to lose its voice for [[/roll 2d10]] minutes, but in return, any symptoms of disease that normally affect the throat are cured.</p>",
       "chat": "",
       "unidentified": ""
     },
@@ -112,11 +112,11 @@
   "sort": 45100000,
   "_stats": {
     "systemId": "dnd5e",
-    "systemVersion": "2.2.1",
+    "systemVersion": "5.1.9",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
-    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "modifiedTime": 1759517319298,
+    "lastModifiedBy": "FHgt3MwGKSpo5rBU",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

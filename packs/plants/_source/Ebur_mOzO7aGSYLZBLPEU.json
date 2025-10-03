@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/ebur.webp",
   "effects": [],
   "_id": "mOzO7aGSYLZBLPEU",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>The flowers of Ebur must be eaten each day. If the treatment is successful, the rate of healing for a sprain will be doubled for that day. In addition, successful application will increase movement speed by 5 for the day.</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>A grassland and temperate plains flower that grows in small patches. It has broad white petals surrounding a sunset yellow bulb. The flower petals of Ebur must be eaten each day. If the treatment is successful, the rate of healing for a sprain will be doubled for that day. In addition, successful application will increase movement speed by 5 for the day.</p>",
       "chat": "",
       "unidentified": ""
     },
@@ -112,11 +112,11 @@
   "sort": 48600000,
   "_stats": {
     "systemId": "dnd5e",
-    "systemVersion": "2.2.1",
+    "systemVersion": "5.1.9",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
-    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "modifiedTime": 1759517251630,
+    "lastModifiedBy": "FHgt3MwGKSpo5rBU",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

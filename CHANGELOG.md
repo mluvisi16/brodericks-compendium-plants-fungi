@@ -1,3 +1,8 @@
+2.1.6
+------
+* Added images for all plants beginning with 'E' -- 13 images
+* Added visual descriptions to two 'E' plants missing  them
+
 2.1.5
 ------
 * Added images for all plants beginning with 'D' -- 35 images

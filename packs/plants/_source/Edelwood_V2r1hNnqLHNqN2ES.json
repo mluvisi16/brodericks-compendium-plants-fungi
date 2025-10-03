@@ -2,7 +2,7 @@
   "_id": "V2r1hNnqLHNqN2ES",
   "name": "Edelwood",
   "type": "weapon",
-  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/edelwood.webp",
   "effects": [],
   "folder": null,
   "sort": 33500000,
@@ -78,7 +78,8 @@
     "range": {
       "value": null,
       "long": null,
-      "units": ""
+      "units": "",
+      "reach": null
     },
     "uses": {
       "value": 0,
@@ -98,7 +99,12 @@
     "critical": null,
     "damage": {
       "parts": [],
-      "versatile": ""
+      "versatile": "",
+      "base": {
+        "number": null,
+        "denomination": null,
+        "bonus": ""
+      }
     },
     "formula": "",
     "save": {
@@ -141,7 +147,8 @@
       "critOther": false
     },
     "proficient": true,
-    "attuned": false
+    "attuned": false,
+    "mastery": ""
   },
   "ownership": {
     "default": 0,
@@ -149,11 +156,11 @@
   },
   "_stats": {
     "systemId": "dnd5e",
-    "systemVersion": "2.2.1",
+    "systemVersion": "5.1.9",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
-    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "modifiedTime": 1759517035202,
+    "lastModifiedBy": "FHgt3MwGKSpo5rBU",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

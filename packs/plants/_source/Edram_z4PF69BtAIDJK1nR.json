@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/lichen-moss.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/edram.webp",
   "effects": [],
   "_id": "z4PF69BtAIDJK1nR",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Rivers</em></p>\n<p>Edram is a moss which when eaten will the consumer to heal at one and a half times their normal rate (amount normall healed + half the value of expended hit dice used during a short rest).</p>",
+      "value": "<p><em>Biome: Rivers</em></p><p>Edram is a forest green very textured river moss which when eaten will the consumer to heal at one and a half times their normal rate (amount normall healed + half the value of expended hit dice used during a short rest).</p>",
       "chat": "",
       "unidentified": ""
     },
@@ -112,11 +112,11 @@
   "sort": 62700000,
   "_stats": {
     "systemId": "dnd5e",
-    "systemVersion": "2.2.1",
+    "systemVersion": "5.1.9",
     "coreVersion": "13.348",
     "createdTime": null,
-    "modifiedTime": 1756493242358,
-    "lastModifiedBy": "lQk7CCByj6wH9AQa",
+    "modifiedTime": 1759517284690,
+    "lastModifiedBy": "FHgt3MwGKSpo5rBU",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null
