@@ -1,3 +1,9 @@
+2.1.7
+------
+* Added images for all plants beginning with 'F' -- 20 images
+* Added visual descriptions to four 'F' plants missing them
+* Fixed two typos in 'F' plants descriptions
+
 2.1.6
 ------
 * Added images for all plants beginning with 'E' -- 13 images
