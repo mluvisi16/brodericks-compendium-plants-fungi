@@ -40,7 +40,7 @@
   "_id": "HueCvM92V09D8EbL",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>Tree with a twisted and gnarled grain pattern and shape, and wands made from the wood retain this property. The wood is commonly used for short-term wands and staves, as magical items made from Eldritch Whorlwood are instilled with 4 charges of the spell Darkness. [[/roll 1d4]] charges can be recovered at dawn of every new day. IF all charges are expended, the wand/staff straigtens out and reduces the magical ability of casting with this item.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\\n<p>A tree with a twisted, gnarled grain; wands and staves made from this wood retain that pattern. The wood is commonly used for short-term wands and staves: magical items fashioned from Eldritch Whorlwood are imbued with 4 charges of the spell Darkness. [[/roll 1d4]] charges can be recovered at dawn each day. If all charges are expended, the wand or staff straightens and its magical casting ability is reduced.</p>",
       "chat": "",
       "unidentified": ""
     },

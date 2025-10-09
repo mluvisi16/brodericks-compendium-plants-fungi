@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Resembling Blackcorn in miniature, Brawler&rsquo;s Blackcorn is a hardy plant that grows without light in dark cave environs. The kernels of this corn can be dried and ground and mixed into hard liquors, typically a bourbon (Brawler&rsquo;s Bourbon). Brawler&rsquo;s Bourbon is typically used by cheating gamblers to give themselves an unfair advantage. Ingesting the bourbon makes the user immune to its secondary properties, and so cheating brawlers may take a swig of the bourbon and spill some on their hands. The poison works as a contact toxin that will then weaken the opponent of a bare-knuckle brawl. The target must make a DC 14 Cons. Save vs poison or be poisoned for 1 minute. If the saving throw is failed by 5 or more, the creature is then also knocked unconscious for the same amount of time. The target can be woken if they take damage or are shaken awake by another person. On a successful save, the target is then immune to the poison&rsquo;s effects for 12 hours.</p>",
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\\n<p>Resembling Blackcorn in miniature, Brawler’s Blackcorn grows in dark caves without light. The kernels can be dried, ground, and mixed into a strong liquor (Brawler’s Bourbon). The bourbon's contact toxin is sometimes used by cheating brawlers: after an opponent is exposed, they must make a DC 14 Constitution save or be poisoned for 1 minute; failing by 5 or more also knocks them unconscious for that minute. A successful save grants immunity to the toxin for 12 hours. An exposed target can be awakened by taking damage or being shaken.</p>",
       "chat": "",
       "unidentified": ""
     },

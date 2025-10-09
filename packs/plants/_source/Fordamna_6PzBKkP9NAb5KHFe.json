@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/mushroom.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/fordamna.webp",
   "effects": [],
   "_id": "6PzBKkP9NAb5KHFe",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\n<p>Found in only one place, a small fungus/plant hybrid bush sprouted after a Lich poisoned the earth which necrotic magic. This abomination of nature is immune to most types of physical damage and grows back in the same place 17 years after its destruction. Whenever the fordammar grows back in this manner, it begins to fruit a medium-sized, hard, black berry with a spiky outer shell. When these berries are consumed, it will cause instantaneous, incredibly painful and irreversible death. Nothing can be done to resurrect a character that dies in this manner.</p>",
+      "value": "<p><em>Biome: Underdark & Caves<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\\n<p>Found in only one place, this small fungus/plant hybrid bush sprouted after a lich poisoned the earth with necrotic magic. This abomination of nature is immune to most physical damage and regrows in the same place 17 years after its destruction. Whenever the Fordamna regrows in this manner, it fruits a medium-sized, hard, black berry with a spiky outer shell. When consumed, these berries cause instantaneous, incredibly painful, and irreversible death. Nothing can be done to resurrect a character that dies in this manner.</p>",
       "chat": "",
       "unidentified": ""
     },

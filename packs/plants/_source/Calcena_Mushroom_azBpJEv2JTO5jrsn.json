@@ -40,7 +40,7 @@
   "_id": "azBpJEv2JTO5jrsn",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Anyone who breathes in the spores of one of these small, pink mushrooms incurs a -3 penalty on all Wisdom saves vs illusions for [[/roll 2d12]] hours. The mushroom may be brewed into a potion by brewing tea and leaving the mushroom to stand in the tea for 2 weeks. The resultant concoction when drunk is a powerful hallucinogen. Anyone under the influence of it will see whatever the DM wants them to see. This effect lasts for [[/roll 1d4]] hours in which the player enters a trance and responds lazily to interaction with other characters or NPC&rsquo;s.</p>",
+      "value": "<p><em>Biome: Underdark &amp; Caves</em></p>\\n<p>Breathing the spores of these small pink mushrooms imposes a -3 penalty on Wisdom saving throws against illusions for [[/roll 2d12]] hours. Brewing a tea with the mushroom and letting it steep for two weeks produces a potent hallucinogen. Anyone under its influence experiences visions as determined by the DM. The hallucinatory trance lasts [[/roll 1d4]] hours, during which the affected character is sluggish and slow to respond to other characters or NPCs.</p>",
       "chat": "",
       "unidentified": ""
     },

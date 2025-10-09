@@ -40,7 +40,7 @@
   "_id": "AtUUey5YCVV7OP52",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>A somewhat stubborn vine plant that grows in open fields and along forest paths with a knack for regrowth. Every attempt to hack at the plant with any form of bladed instrument causes an increase in the vine&rsquo;s length and girth. Traditionally the plant grows very slowly, only gaining an inch or so in length and thickness annually, but with enough hacking and slashing, the vine can prove to be an incredible pest to farmers and travelers.</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p>\\n<p>A stubborn vine that grows in open fields and along forest paths with a knack for aggressive regrowth. Cutting or hacking the plant with any bladed instrument causes its vines to thicken and lengthen. Under normal circumstances the Callofex grows slowly—only an inch or so in length and thickness per year—but repeated slashing can make it a serious nuisance for farmers and travelers.</p>",
       "chat": "",
       "unidentified": ""
     },

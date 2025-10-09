@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/fey-cherry.webp",
   "effects": [],
   "_id": "9jdgZU8S8Xh6OdKn",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>Somewhat rare, but unbelievably massive cherry trees that can live forever. Area under its canopy is mystically protected, i.e. always temperate and windspeeds are dampened by 20 mph. It blossoms annually but only creates cherries every 10 years, and eating a cherry picked less than a day ago grants a Protection from Good and Evil effect for [[/roll 1d10]] hours. In addition, if the cherry is mashed and given via mouth to a corpse, the fruit grants the effects of Gentle Repose for 10 days.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\n<p>Somewhat rare, these unbelievably massive cherry trees can live indefinitely. The area under a tree's canopy is mystically protected: it is always temperate, and wind speeds are dampened by up to 20 mph. The tree blossoms annually but only produces cherries every 10 years; eating a cherry picked within the last day grants Protection from Good and Evil for [[/roll 1d10]] hours. In addition, if the cherry is mashed and fed to a corpse, the fruit grants the effects of Gentle Repose for 10 days.</p>",
       "chat": "",
       "unidentified": ""
     },

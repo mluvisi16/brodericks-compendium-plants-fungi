@@ -40,7 +40,7 @@
   "_id": "VSqv625UBr68MlFz",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Mountains, Underdark & Caves</em></p>\n<p>A pale white stalk plant that grows under rocky overhangs or deep within caves. The plant has a remarkably short lifecycle, sprouting, growing to maturity, and wilting within only one week following the Winter solstice. When broken open, the plant will ooze a black ichor that when injected directly into the bloodstream brings back characters from unconsciousness, catatonic and even comatose conditions. There is a 1% chance for each day over a week, that the recipient will slip back into their original state and that this plant will not work on them again.</p>",
+      "value": "<p><em>Biome: Mountains, Underdark & Caves</em></p>\\n<p>A pale, white-stemmed plant that grows under rocky overhangs or deep within caves. The plant has a remarkably short lifecycle, sprouting, maturing, and wilting within a week following the winter solstice. When broken, it oozes a black ichor that, if injected into the bloodstream, can revive characters from unconsciousness, catatonia, or coma. There is a 1% chance per day over the following week that the recipient will revert to their original state, and the plant will then fail to work on them again.</p>",
       "chat": "",
       "unidentified": ""
     },

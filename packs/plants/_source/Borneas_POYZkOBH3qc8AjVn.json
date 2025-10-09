@@ -40,7 +40,7 @@
   "_id": "POYZkOBH3qc8AjVn",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles, Plains</em></p>\n<p>A leafy, ground-cover plant found in forests all over the realm. Slightly resembles sage or salvia. When lit, the smoke will aid in sustaining meditation and trances for religious ceremonies, granting a +3 to religion checks made by Clerics or Paladins for [[/roll 1d8]] minutes after inhalation of the smoke.</p>",
+      "value": "<p><em>Biome: Forests, Jungles, Plains</em></p>\\n<p>A leafy groundcover resembling sage or salvia, found across many forests. When burned, its smoke aids meditation and trances, granting a +3 bonus to Religion checks made by clerics or paladins for [[/roll 1d8]] minutes after inhalation.</p>",
       "chat": "",
       "unidentified": ""
     },

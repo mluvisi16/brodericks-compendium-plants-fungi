@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>This plant has a thick root, with leaves that are white on the bottom and green on top, as well as showy yellow flowers. The root may be eaten in which case it will cause the recipient to vomit. This effect, while useful in removing ingested poisons from the system, will leave the recipient weak (-1d4 to Constitution for [[/roll 2d6]] hours). For this reason, it may be used as a mildly debilitating poison. If used as a poison, the recipient must succeed on a DC 18 Cons. Save vs. poison.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\\n<p>This plant has a thick root, leaves that are white beneath and green above, and showy yellow flowers. Eating the root induces vomiting; while useful for expelling ingested poisons, it leaves the eater weakened (–1d4 to Constitution for [[/roll 2d6]] hours). For this reason it can be used as a mildly debilitating poison. If applied as a poison, the recipient must succeed on a DC 18 Constitution save versus poison.</p>",
       "chat": "",
       "unidentified": ""
     },

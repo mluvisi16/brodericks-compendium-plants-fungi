@@ -40,7 +40,7 @@
   "_id": "6z5cJ6F6MpKLqC4M",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Mountains</em></p>\n<p>A smallish, evergreen bush that resembles a dwarf holly, but grows pale grey berries instead of the typical bright red holly berries. These berries can be juiced and applied to a weapon to create a strong paralytic poison. Target must make a DC (10 + Nature skill of the person who prepared the poison) Cons. Save at the end of each turn for 4 turns. For these 4 turns, the target is slowed as if by the spell Slow. On a failed save, the target is paralyzed for 4 rounds. Application on weapon only lasts for one successful hit.</p>",
+      "value": "<p><em>Biome: Arctic, Mountains</em></p>\\n<p>A small evergreen bush resembling dwarf holly that bears pale gray berries. The berries' juice creates a potent paralytic poison when applied to a weapon. Targets make a Constitution save (DC = 10 + the preparer's Nature modifier) at the end of each turn for 4 turns. While under the effect, targets are slowed (as the Slow spell). Failure results in paralysis for 4 rounds. A poisoned weapon's application persists for one successful hit.</p>",
       "chat": "",
       "unidentified": ""
     },

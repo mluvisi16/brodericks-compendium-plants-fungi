@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/root.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/febfendu.webp",
   "effects": [],
   "_id": "mOGJ2ncgRjFbVviE",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>The roots of this plant must be brewed over a low fire for one week, and the resulting distillation drunk. If used successfully, hearing will be restored to the recipient, even if the ears and internal parts have been fully destroyed. Effects only last for [[/roll 2d6]] days.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\n<p>The roots of this plant must be brewed over a low fire for one week, and the resulting distillation drunk. If used successfully, hearing is restored to the recipient, even if the ears and internal parts have been fully destroyed. Effects last for [[/roll 2d6]] days.</p>",
       "chat": "",
       "unidentified": ""
     },

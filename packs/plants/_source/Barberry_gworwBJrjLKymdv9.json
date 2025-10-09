@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>The Barberry plant has thin, sharp thorns on its twigs that very easily snap off and become embedded in flesh. It can obtain a height in excess of six feet. It has roughly oval shaped leaves, which are smooth with toothed edges. It has pale yellow flowers which produce ovalur red berries, with a small black dot at their tip. Barberries should be ground up in cold water and be left to stand in cold water, and then boiled quickly. This mixture should be drunk as a cure for liver disorders such as jaundice. If successfully administered the cure should take effect within two weeks. However, three failed applications mean that there is never any hope of cure by this method.</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p>\\n<p>Barberry is a shrub with thin, sharp thorns that easily break off and embed in flesh. It can grow taller than six feet and bears pale yellow flowers that produce oval red berries with a small black dot at the tip. Ground in cold water, then briefly boiled, a prepared barberry drink is used to treat liver disorders such as jaundice; a successful administration should take effect within two weeks. After three failed applications, this method is considered ineffective.</p>",
       "chat": "",
       "unidentified": ""
     },

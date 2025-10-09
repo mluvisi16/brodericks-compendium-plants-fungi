@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal, Rivers</em></p>\n<p>Cat's Tail is a small plant with long, thin, spear-shaped leaves rising from its base, and a single long, thin, soft flower at the top of the stalk. This herb, when made into a salve, will heal all damage to a person's feet if applied during a short rest.</p>",
+      "value": "<p><em>Biome: Coastal, Rivers</em></p>\\n<p>Cat's Tail is a small plant with long, spear-shaped leaves and a single soft, elongated flower atop its stalk. When prepared as a salve and applied during a short rest, it heals all damage to a creature's feet.</p>",
       "chat": "",
       "unidentified": ""
     },

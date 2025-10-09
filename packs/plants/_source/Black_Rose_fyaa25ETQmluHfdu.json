@@ -40,7 +40,7 @@
   "_id": "fyaa25ETQmluHfdu",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p>\n<p>This rare rose is easily identified by its black, velvety flower and long white thorns. The thorns are hollow and absorb liquids at a rate of a pint every 5 minutes. The liquid is stored in the plant's fibrous roots. The black rose's roots are often used to draw poison from wounds or, placed under the tongue, to absorb alcohol and prevent intoxication. Sometimes victims are tied down and pierced with the thorns to cause prolonged and painful exsanguination.</p>",
+      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p>\\n<p>This rare rose is known for its black, velvety petals and long white thorns. The hollow thorns absorb liquids at about a pint every five minutes, storing them in the plant's fibrous roots. The roots are used to draw poison from wounds or, when placed under the tongue, to absorb alcohol and prevent intoxication. These features have also been abused for torture, wherein victims are pierced and slowly bled.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "effects": [],
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Dungeon Fungus is a bio-luminescent giant mushroom. The largest specimens stand taller than a man, with caps broad enough for three to lay comfortably upon it. It only ever grows in locations that are frequented by oozes, and have bodies to feed upon. Ingestion of the fungus will cause the recipient to make a DC 14 Cons. Save vs poison or be violently ill for [[/roll 3d10]] rounds (no actions but 1/4 movement speed, -4 penalty to AC). Burning the fungus will produce an intoxicating effect on all those who breathe the fumes. Anyone under the effects of the fungus' smoke will be much more likely to regard others as a friend (+2 to rolls to persuade while under the fumes&rsquo; influence), unless they do something particularly harsh. After [[/roll 1d4]] hours the drug will cause anyone under its influence to fall into a deep sleep.</p>",
+      "value": "<p><em>Biome: Underdark &amp; Caves</em></p>\\n<p>Dungeon Fungus is a bioluminescent giant mushroom; the largest specimens stand taller than a person, with caps broad enough for three to lie upon. It grows only in places frequented by oozes and other carrion feeders. Ingesting the fungus forces a DC 14 Con save vs. poison or the subject becomes violently ill for [[/roll 3d10]] rounds (cannot take actions, moves at 1/4 speed, and suffers a -4 penalty to AC). Burning the fungus produces an intoxicating smoke that grants a +2 bonus to Persuasion rolls while its fumes are inhaled; after [[/roll 1d4]] hours those affected fall into a deep sleep.</p>",
       "chat": "",
       "unidentified": ""
     },

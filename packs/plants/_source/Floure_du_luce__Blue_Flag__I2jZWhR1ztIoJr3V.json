@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>Floure-du-luce has broad and flat leaves shaped rather like a sword. The flowers are purplish-blue and faintly glow, and the roots, which tend to stretch themselves along the surface of the ground, are reddish brown on the outside. The root must be mashed and boiled and then left to stand for at least twenty days before drinking. The resulting tincture removes bruises and other external blemishes from a body very quickly (within [[/roll 1d4]] hours).</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>Floure-du-luce has broad, flat leaves shaped like a sword. Its purplish-blue flowers faintly glow, and the roots, which tend to stretch along the surface of the ground, are reddish-brown externally. The root must be mashed and boiled, then left to stand for at least twenty days before drinking. The resulting tincture removes bruises and other external blemishes from the body very quickly (within [[/roll 1d4]] hours).</p>",
       "chat": "",
       "unidentified": ""
     },

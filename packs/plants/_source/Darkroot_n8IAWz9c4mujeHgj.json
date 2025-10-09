@@ -40,7 +40,7 @@
   "_id": "n8IAWz9c4mujeHgj",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Rivers</em></p>\n<p>Large black twisted root that grows up to 10 ft; found by waterfalls and similar damp areas. It tastes vile, so chewing/swallowing it induces vomiting. It can be made into Titan Gum, a strong and fast-setting glue that bonds in one round and requires a DC 20 Strength check to remove and works quite painfully on bonding anything with hair.</p>",
+      "value": "<p><em>Biome: Rivers</em></p>\\n<p>A large, black, twisted root that grows up to 10 ft, found near waterfalls and other damp places. It tastes vile; chewing or swallowing it induces vomiting. When processed it yields Titan Gum, a strong, fast-setting glue that bonds in one round. Removing bonded material requires a DC 20 Strength check, and the glue adheres painfully to anything with hair.</p>",
       "chat": "",
       "unidentified": ""
     },

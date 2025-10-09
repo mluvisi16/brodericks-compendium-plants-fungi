@@ -1,3 +1,9 @@
+2.1.7
+------
+* Added images for all plants beginning with 'F' -- 20 images
+* Added visual descriptions for any missing them
+* Fixed syntax and grammar for all plants until this patch
+
 2.1.6
 ------
 * Added images for all plants beginning with 'E' -- 13 images

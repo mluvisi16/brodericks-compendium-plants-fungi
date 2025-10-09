@@ -40,7 +40,7 @@
   "_id": "Ni4BBineG2G4ekG7",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Mountains</em></p>\n<p>A bright orange mushroom that grows only on mountains that were once or still are volcanically active. The mushroom can be dried and crushed into a highly volatile dust. The dust will ignite if it comes into contact with any other substance then glass, crystal or ceramic materials. It will ignite any flammable materials in a 2-meter radius and does [[/roll 3d6]] points of damage at the center and [[/roll 2d6]] damage in the rest. Small amounts can be used to start campfires and light torches</p>",
+      "value": "<p><em>Biome: Mountains</em></p>\\n<p>A bright orange mushroom that grows only on mountains that are or once were volcanically active. When dried and crushed, it yields a highly volatile dust that ignites on contact with most materials (excluding glass, crystal, or ceramic). The dust will ignite flammable materials in a 2-meter radius, dealing [[/roll 3d6]] points of damage at the center and [[/roll 2d6]] to those further out. Small amounts are useful for starting campfires and lighting torches.</p>",
       "chat": "",
       "unidentified": ""
     },

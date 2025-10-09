@@ -40,7 +40,7 @@
   "_id": "x63HusmRLo8qtz8v",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts</em></p>\n<p>A white fern with leaves similar to a white to pink silk that blooms a few bulb-like light blue flowers. It is native to the harsh conditions of the desert and commonly found in alchemy and herbalist shops. Wearing one of its petals grants a +2 bonus on saves against inhaled poisons and gas-based effects, and a DC 20 nature check allows one to make it into a perfume that grants a +2 bonus on all charisma-based skill checks for 24 hours.</p>",
+      "value": "<p><em>Biome: Deserts</em></p>\\n<p>A white fern with silk-like leaves that bloom a few bulb-like light-blue flowers. Native to harsh desert conditions, it is a staple in alchemy and herbalist shops. Wearing a petal grants +2 on saving throws against inhaled poisons and gas effects. A successful Nature check (DC 20) lets an alchemist turn a petal into a perfume that grants +2 to Charisma-based skill checks for 24 hours.</p>",
       "chat": "",
       "unidentified": ""
     },

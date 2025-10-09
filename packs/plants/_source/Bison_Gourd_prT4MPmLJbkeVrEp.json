@@ -40,7 +40,7 @@
   "_id": "prT4MPmLJbkeVrEp",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>A vine that grows along the ground, the plant has irregular shaped leaves, and during warmer months the plant produces large yellow flowers shaped like trumpets. The flowers later turn into yellow and orange fruit with a slightly salty taste. The plant&rsquo;s seeds can also be harvested to extract the oil that works well as an insect repellant. The odor from the oil is almost imperceptible to people, but is effective at repelling bothersome insects. (-2 to Rolls to hit&nbsp; for Insectoids)</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p>\\n<p>A creeping vine with irregular leaves that produces large, trumpet-shaped yellow flowers in warmer months. These mature into yellow-orange fruits with a slightly salty taste. The seeds yield an oil used as an insect repellent; its odor is nearly imperceptible to people but deters many pests, imposing a -2 penalty on attack rolls for insectoid creatures.</p>",
       "chat": "",
       "unidentified": ""
     },

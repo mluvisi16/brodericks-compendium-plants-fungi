@@ -40,7 +40,7 @@
   "_id": "5d0qRa9V1r4TdeJ3",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\n<p>A small-leafed ivy that hugs the ground. Entriste's leaves absorb liquid and, when crushed, may be used to draw poison from a wound. (1 leaf absorbs a quarter-pint of liquid. Causes [[/roll 1d4]] damage but draws 100% of poison from a wound if applied within 5 rounds of poisoning, ending the poison effect. Does not work on inhaled poisons.)</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p>\\n<p>A low-hugging ivy whose leaves absorb liquid; crushed and applied, they can draw poison from a wound. One leaf absorbs about a quarter-pint of liquid and causes [[/roll 1d4]] damage when applied, but if used within 5 rounds of poisoning it removes 100% of the poison, ending the effect. It does not work on inhaled poisons.</p>",
       "chat": "",
       "unidentified": ""
     },

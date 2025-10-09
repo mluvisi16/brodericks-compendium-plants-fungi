@@ -40,7 +40,7 @@
   "_id": "VvL5wMC05BksaMgh",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Forests</em></p>\n<p>A Fey-created variety of Hickory that reaches maturity in 2 decades and has properties identical to steel, except Fey and Druids can easily work with the wood without it affecting their magic. Items made from Coldwood require masterwork, making the raw material quite valuable.</p>",
+      "value": "<p><em>Biome: Arctic, Forests</em></p>\\n<p>Coldwood is a fey-created variety of hickory that reaches maturity in roughly two decades. Its wood has qualities similar to steel, yet fey and druids can work it easily without disrupting their magic. Because Coldwood requires masterwork to craft into items, the raw material is quite valuable.</p>",
       "chat": "",
       "unidentified": ""
     },

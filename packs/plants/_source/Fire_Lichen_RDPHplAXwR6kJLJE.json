@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/lichen-moss.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/fire-lichen.webp",
   "effects": [],
   "_id": "RDPHplAXwR6kJLJE",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Orange-white lichen that growths in warm underground areas, commonly found near volcanically active areas. Can be made into a spicy paste or fermented into a fiercely hot dwarven whiskey called Lichenball.</p>",
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\\n<p>Orange-white lichen that grows in warm underground areas, commonly found near volcanically active regions. It can be made into a spicy paste or fermented into a fiercely hot dwarven whiskey called Lichenball.</p>",
       "chat": "",
       "unidentified": ""
     },

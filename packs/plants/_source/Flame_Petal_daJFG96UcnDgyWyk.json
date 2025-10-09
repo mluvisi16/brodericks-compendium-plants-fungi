@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/flame-petal.webp",
   "effects": [],
   "_id": "daJFG96UcnDgyWyk",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>This large flower blooms in the height of summer, unfurling large red petals, and yellow-tipped orange tendrils which sway in the faintest of winds to give the illusion that the flower is on fire. As they often grow in large clumps, at first glance one might even believe that the ground was on fire. Such flowers are sought as decoration during the Summer Solstice and Midsummer celebrations in the Dalelands. Young women will wear them in their hair (+3 to Nature Checks while wearing the flower in this manner), and they are said to bring a bountiful crop to any person that would plant them near their front doors.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\\n<p>This large flower blooms at the height of summer, unfurling red petals and yellow-tipped orange tendrils that sway in the faintest breeze, giving the illusion the flower is on fire. As they often grow in large clumps, at first glance one might even believe the ground is aflame. Such flowers are sought as decorations during the Summer Solstice and Midsummer celebrations in the Dalelands. Young women wear them in their hair (+3 to Nature checks while wearing the flower), and they are said to bring a bountiful crop to anyone who plants them near their front doors.</p>",
       "chat": "",
       "unidentified": ""
     },

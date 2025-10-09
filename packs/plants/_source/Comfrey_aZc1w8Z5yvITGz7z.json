@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>Comfrey grows to a height of up to 3 feet. It has stiff, angular and hollow stalks which are covered with rough hairs. It has pink, mauve, white, or cream flowers. Its thick black root is the portion used in herbalism and should be boiled and mashed into a poultice which is then wrapped around a broken limb, increasing the speed of healing by fifty percent. It can also be added to a bath by women in order to give the impression that they are virgins on their wedding nights.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\\n<p>Comfrey grows up to three feet tall with stiff, hollow stalks covered in coarse hairs and flowers ranging from pink to mauve, white, or cream. Herbalists use its thick black root, which is boiled and mashed into a poultice and wrapped around a broken limb to speed healing (reducing healing time by roughly 50%). Folk remedies also claim the herb can be added to a bath to give the impression of virginity on a wedding night.</p>",
       "chat": "",
       "unidentified": ""
     },

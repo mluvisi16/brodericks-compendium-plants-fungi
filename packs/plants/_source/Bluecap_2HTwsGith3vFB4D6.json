@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Common underdark crop mushroom, dark blue with pale grey spots and a pale grey stalk. The fugus itself is inedible, but spores can be made into flour. Grows with or without natural light.</p>",
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\\n<p>A common underdark mushroom: dark blue with pale gray spots and a pale gray stalk. The fungus itself is inedible, but its spores can be processed into flour. Bluecaps grow with or without natural light.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Forests, Plains</em></p>\n<p>Similar in appearance and function to regular hops used in the production of ale, Dwarf Hops are much hardier in terms of cold and grow slightly shorter while producing the same number of hops throughout the Spring, Summer, and Fall. If harvested and preserved correctly, the hops can be worth quite a bit to someone who&rsquo;s trained in making Dwarven Ale.</p>",
+      "value": "<p><em>Biome: Cities, Forests, Plains</em></p>\\n<p>Resembling common hops, Dwarf Hops are hardier in cold climates and grow slightly shorter while producing comparable yields across spring, summer, and fall. When properly harvested and preserved, they are prized by brewers skilled in crafting Dwarven ale.</p>",
       "chat": "",
       "unidentified": ""
     },

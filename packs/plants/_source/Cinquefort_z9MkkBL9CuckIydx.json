@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>This small plant creeps along the ground on long slender stringlike stalks, slowly consuming small bits of detritus and water along its way. It has five or seven-part leaves, and small yellow flowers. The stalks must be boiled in white wine or vinegar and then drunk. The resulting potion will then act as an aphrodisiac, and increases the recipients Charisma by 1 for [[/roll 1d4]] hours.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\\n<p>This small plant creeps along the ground on long, stringlike stalks, slowly consuming detritus and moisture as it spreads. It bears five- or seven-part leaves and small yellow flowers. Boiling the stalks in white wine or vinegar and drinking the brew creates a potion that acts as an aphrodisiac, increasing the recipient's Charisma by 1 for [[/roll 1d4]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },
