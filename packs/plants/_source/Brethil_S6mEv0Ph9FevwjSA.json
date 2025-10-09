@@ -40,7 +40,7 @@
   "_id": "S6mEv0Ph9FevwjSA",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>Brethil Trees are a narrow evergreen that grow to heights of around 40 feet. With fan-shaped fronds of needles, the tree has a rough, deep-brown bark that can be scraped off in small sections with a knife. With proper preparation, the bark can be steeped in boiling water to create a dark brown, murky infusion. When a creature drinks the infusion, at the beginning of their next turn the charmed and frightened conditions are removed from them if applicable.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\\n<p>Brethil trees are narrow evergreens that reach around 40 feet. Their fan-shaped fronds and rough, deep-brown bark can be scraped in small sections. Steeping the prepared bark in boiling water yields a dark infusion; when a creature drinks it, any charmed or frightened conditions affecting them are removed at the start of their next turn.</p>",
       "chat": "",
       "unidentified": ""
     },

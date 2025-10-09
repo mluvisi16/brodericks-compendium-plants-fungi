@@ -40,7 +40,7 @@
   "_id": "tk30SlU1BubFsl4f",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps</em></p>\n<p>Floating on the surface of marshes, the plant consists of a cluster of broad, waxy leaves, and a single root that trails down into the water. The leaves are a bright green with red capillaries. During the warmer months a bright red flower sprouts from the top. Drying the plant causes it to turn into a flaky powder, which is often used in a distilled tincture to neutralize minor poisons. A single dose of Bloodpurge powder costs about 15 gold pieces, making the plant quite valuable.</p>",
+      "value": "<p><em>Biome: Swamps</em></p>\\n<p>Floating on marsh surfaces, this plant forms clusters of broad, waxy leaves with a single root trailing into the water. The leaves are bright green with red capillaries, and a vivid red flower appears in warmer months. When dried, the plant becomes a flaky powder often distilled into a tincture used to neutralize minor poisons. A single dose of Bloodpurge powder costs about 15 gold pieces, making the plant fairly valuable.</p>",
       "chat": "",
       "unidentified": ""
     },

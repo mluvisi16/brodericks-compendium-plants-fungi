@@ -40,7 +40,7 @@
   "_id": "ztiNeUJ1B86iAvpn",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Mountains, Plains</em></p>\n<p>A short, hardy, tea-like shrub that grows in the cold climates of the Dalelands and Northern mountains. Drinking this herbal brew will result in a warm tingling feeling inside; all the effects of being in extreme cold conditions will be negated for [[/roll 2d4]] hours.</p>",
+      "value": "<p><em>Biome: Arctic, Mountains, Plains</em></p>\\n<p>Ceran is a short, hardy shrub used as a tea in cold climates across the Dalelands and northern mountains. Drinking the herbal brew produces a warm tingling sensation and negates the effects of extreme cold for [[/roll 2d4]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

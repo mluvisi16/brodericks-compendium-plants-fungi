@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains, Plains</em></p>\n<p>A small white flower that grows close to the ground, and can be found across much of Faerun. The flower is often picked in spring and used for decoration among more rural folk. The petals are often used to combat poison (make another saving throw against the poison if already under its affects).</p>",
+      "value": "<p><em>Biome: Deserts, Mountains, Plains</em></p>\\n<p>A small white flower that grows close to the ground and is found across much of Faerûn. The flower is traditionally picked in spring and used for decoration by rural folk. The petals are used against poison: when consumed they allow the bearer to immediately attempt another saving throw against an ongoing poisoning effect.</p>",
       "chat": "",
       "unidentified": ""
     },

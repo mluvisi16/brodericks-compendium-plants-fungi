@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>A small shrub plant with small yellow flowers that grows predominantly in warmer climates. In the past, the flowers were brewed and fermented into a sickly-sweet beverage used in rituals designed to allow priests and participants to see &ldquo;visitors&rdquo; to the material plane. This recipe was lost to time, but if discovered, will grant the recipient truesight for 4 hours.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\\n<p>A small shrub with yellow flowers that grows in warm climates. Historically the flowers were brewed and fermented into a sickly-sweet concoction used in rituals to reveal perceived 'visitors' to the material plane. The original ritual recipe is lost to time; if reconstructed, the preparation is said to grant truesight for 4 hours.</p>",
       "chat": "",
       "unidentified": ""
     },

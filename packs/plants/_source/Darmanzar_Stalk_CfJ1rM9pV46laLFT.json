@@ -40,7 +40,7 @@
   "_id": "CfJ1rM9pV46laLFT",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>Growing as a singular stalk with pairs of leaves sprouting every few inches, the Darmanzar is covered in small thorns. Touching the plant without gloves causes small cuts which grow swollen and irritated, and remain that way for several hours. The top of the plant sprouts a large bushy bud which is a light gold color. The bud emits a curious sugary fragrance which seems to irritate and deter undead and attract the living. Living characters must make DC 8 Wisdom throw to avoid suffering [[/roll 1d4]] piercing damage and some very itchy swelling. Undead that wish to approach closer than 30 feet from the bud must make a DC 10 Wisdom saving throw.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\\n<p>Growing as a singular stalk with paired leaves every few inches, the Darmanzar is covered in small thorns. Touching the plant without gloves causes small cuts that become swollen and irritated for several hours. The plant's top sprouts a large bushy bud of light gold. The bud emits a curious sugary fragrance that deters undead and attracts the living. Living characters within range must make a DC 8 Wisdom saving throw or suffer [[/roll 1d4]] piercing damage and itchy swelling. Undead that approach closer than 30 feet of the bud must make a DC 10 Wisdom saving throw.</p>",
       "chat": "",
       "unidentified": ""
     },

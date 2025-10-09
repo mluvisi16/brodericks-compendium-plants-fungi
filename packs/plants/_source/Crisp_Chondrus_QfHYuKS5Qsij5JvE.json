@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal</em></p>\n<p>A hardy, red algae that commonly washes up on sandy coasts and stays fresh for several hours. After consuming the algae, the creature regains [[/roll 2d4]] hit points and must make a DC 12 Cons. Save vs. poison. On a failed save, the creature is charmed by the first creature that speaks to the creature in a language in which they are proficient.</p>",
+      "value": "<p><em>Biome: Coastal</em></p>\\n<p>A hardy red algae often washed up on sandy shores that remains fresh for several hours. A creature that eats the algae regains [[/roll 2d4]] hit points and must make a DC 12 Constitution saving throw against poison. On a failed save, the creature is charmed by the first creature that speaks to it in a language the creature understands.</p>",
       "chat": "",
       "unidentified": ""
     },

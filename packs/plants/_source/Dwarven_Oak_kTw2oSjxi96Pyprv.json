@@ -40,7 +40,7 @@
   "_id": "kTw2oSjxi96Pyprv",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Mountains</em></p>\n<p>Stunted, gnarled tree found on the slopes of temperate mountains that looks like a sitting Dwarf from a distance. Its bark can be made into a brown, milky fluid that can be added to poisons up to 1 hour before the poison is used to increase the poison's DC by 2.</p>",
+      "value": "<p><em>Biome: Forests, Mountains</em></p>\\n<p>A stunted, gnarled tree found on temperate mountain slopes—so squat it resembles a seated dwarf from a distance. Its bark yields a brown, milky fluid that, when added to a poison up to 1 hour before use, increases that poison's DC by 2.</p>",
       "chat": "",
       "unidentified": ""
     },

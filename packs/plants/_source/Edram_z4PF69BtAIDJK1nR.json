@@ -40,7 +40,7 @@
   "_id": "z4PF69BtAIDJK1nR",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Rivers</em></p><p>Edram is a forest green very textured river moss which when eaten will the consumer to heal at one and a half times their normal rate (amount normall healed + half the value of expended hit dice used during a short rest).</p>",
+      "value": "<p><em>Biome: Rivers</em></p>\\n<p>Edram is a forest-green, very textured river moss. When eaten, it causes the consumer to heal at one and a half times their normal rate (amount normally healed plus half the value of hit dice expended during a short rest).</p>",
       "chat": "",
       "unidentified": ""
     },

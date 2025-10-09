@@ -40,7 +40,7 @@
   "_id": "EBgL0qagF7kXgAvD",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>A dark-dependent moss, wilting in lighting brighter than Dim, that is grazed upon by giant vermin and cave creatures and commonly cultivated by underdark dwellers as a food source for pets and livestock.</p>",
+      "value": "<p><em>Biome: Underdark &amp; Caves</em></p>\\n<p>A dark-dependent moss that wilts in lighting brighter than dim. It is grazed upon by giant vermin and cave creatures and is commonly cultivated by Underdark dwellers as a food source for pets and livestock.</p>",
       "chat": "",
       "unidentified": ""
     },

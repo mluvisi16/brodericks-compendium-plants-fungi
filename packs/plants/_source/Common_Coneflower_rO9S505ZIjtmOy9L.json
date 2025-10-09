@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>A small flower (roughly 18&rdquo; or less) that blooms in the late sping or early summer and resembles a small, pink, sunflower. The coneflower is known for its ability to attract butterflies and honeybees, and if possessed/worn, will cause insect swarms to attack the person who is wearing the flower more frequently.</p>",
+  "value": "<p><em>Biome: Plains</em></p>\\n<p>A small flower (roughly 18&quot; or less) that blooms in late spring or early summer and resembles a small pink sunflower. The Common Coneflower attracts butterflies and honeybees; if carried or worn, it may increase the frequency of insect swarms targeting the bearer.</p>",
       "chat": "",
       "unidentified": ""
     },

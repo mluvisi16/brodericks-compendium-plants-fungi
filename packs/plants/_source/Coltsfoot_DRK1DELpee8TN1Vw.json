@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>The plant has a single golden yellow flower borne at the top of a six-inch-tall stem with long, pinkish woolly scales. These flowers are crushed and mixed with honey, and applied as a poultice to infected wounds in an effort to draw out the infection. It does not cure any damage.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\\n<p>Coltsfoot bears a single golden-yellow flower atop a six-inch stem covered in pinkish, woolly scales. The flowers are crushed and mixed with honey to form a poultice applied to infected wounds to help draw out infection; the plant does not heal physical damage directly.</p>",
       "chat": "",
       "unidentified": ""
     },

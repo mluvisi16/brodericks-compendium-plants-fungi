@@ -40,7 +40,7 @@
   "_id": "PVE7CCasTq1tW4Pv",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles, Mountains</em></p>\n<p>Similar to a bamboo shoot, but with plenty of light green leaves. It is a rare plant that grows about 3-4 feet tall on tropical mountaintops, Devarencia is an exceedingly fragile and picky plant in terms of water, humidity, temperature, and sunlight, meaning that many plants do not see maturity. This plant can be mixed into any potion and will prevent different potions from interacting. You can mix up to four potions into one vial. The potions all have their normal effect and no penalties are given.</p>",
+      "value": "<p><em>Biome: Jungles, Mountains</em></p>\\n<p>Resembling a bamboo shoot with many light-green leaves, Devarencia grows 3–4 feet tall on tropical mountaintops. It is exceedingly fragile—sensitive to water, humidity, temperature, and light—so few specimens reach maturity. When added to a potion, Devarencia prevents its effects from interacting with other potions: you may mix up to four potions in a single vial, and each retains its normal effect with no penalties.</p>",
       "chat": "",
       "unidentified": ""
     },

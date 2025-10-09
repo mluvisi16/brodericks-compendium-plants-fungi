@@ -40,7 +40,7 @@
   "_id": "MFt7ovGX4WMANYpq",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles, Mountains</em></p>\n<p>Bocraugh is a colossal truffle-like fungus that can be distilled down to a sticky black paste (one large truffle to produce 1 fl. Oz. of paste) causing any type of seed to grow to full maturity within [[/roll 1d4]] minutes. This applies to trees, herbs, plant creatures, and even plants that take hundreds of years to bloom.</p>",
+      "value": "<p><em>Biome: Jungles, Mountains</em></p>\\n<p>Bocraugh is a colossal truffle-like fungus that can be distilled into a sticky black paste (one large truffle yields about 1 fl. oz. of paste). Applied to a seed, the paste causes it to grow to full maturity within [[/roll 1d4]] minutes — this effect can apply to trees, herbs, plant creatures, and even species that normally take centuries to mature.</p>",
       "chat": "",
       "unidentified": ""
     },

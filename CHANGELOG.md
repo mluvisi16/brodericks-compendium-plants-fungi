@@ -1,8 +1,8 @@
 2.1.7
 ------
 * Added images for all plants beginning with 'F' -- 20 images
-* Added visual descriptions to six 'F' plants missing them
-* Fixed two typos in 'F' plants descriptions
+* Added visual descriptions for any missing them
+* Fixed syntax and grammar for all plants until this patch
 
 2.1.6
 ------

@@ -40,7 +40,7 @@
   "_id": "19Bq1B1etYqFuBGc",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles, Swamps</em></p>\n<p>Growing on rotting wood in moist climates, this black fungus is generally avoided by those gathering firewood. While the fungus is highly flammable, it emits poisonous fumes that burn the lungs. Once ignited, the cloud of fumes lingers in a 10-ft-radius centered on the burning fungus, and disperses in one minute in a calm wind (or a few seconds in a stiff breeze). Those within the cloud must make a DC 11 Constitution saving throw vs. poison or suffer 4 (1d6) poison damage and be poisoned. Each round those that are within the cloud must make the saving throw or suffer the damage.</p>",
+      "value": "<p><em>Biome: Jungles, Swamps</em></p>\\n<p>Growing on rotting wood in moist climates, the Choking Cinder Fungus is generally avoided by those gathering firewood. Although the fungus is highly flammable, it emits poisonous fumes that sear the lungs when ignited. Once lit, the cloud of fumes fills a 10-foot radius centered on the burning fungus and disperses after one minute in calm air (much faster in a stiff breeze). Creatures within the cloud must make a DC 11 Constitution saving throw against poison, suffering 4 (1d6) poison damage and the poisoned condition on a failed save. Each round a creature remains within the cloud, it must repeat the saving throw or take the damage again.</p>",
       "chat": "",
       "unidentified": ""
     },

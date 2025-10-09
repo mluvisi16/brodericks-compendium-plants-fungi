@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/leaf.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/felmather.webp",
   "effects": [],
   "_id": "pJ1M84tYW2sqDZG0",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal</em></p>\n<p>The leaves of this plant should be placed under the tongue of a person in a coma. Roll [[/roll 1d20]] upon a successful application, the person will awake in as many hours. If a roll of 20 is made, the persons mind will be permanently destroyed and wracked with insanity (Indefinite Madness Table DMG pg.260).</p>",
+      "value": "<p><em>Biome: Coastal</em></p>\n<p>The leaves of this plant should be placed under the tongue of a person in a coma. Roll [[/roll 1d20]]; on a successful application the person will awaken in that many hours. If a roll of 20 is made, the person's mind will be permanently destroyed and wracked with insanity (Indefinite Madness Table, DMG p.260).</p>",
       "chat": "",
       "unidentified": ""
     },

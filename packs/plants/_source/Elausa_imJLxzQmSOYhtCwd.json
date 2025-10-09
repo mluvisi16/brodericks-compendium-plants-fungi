@@ -40,7 +40,7 @@
   "_id": "imJLxzQmSOYhtCwd",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p><p>A short, purple weed that grows in small patches of spiky grass among patches of wildflowers or in farm fields as an invasive species. When consumed raw or in a tea, causes the character to lose its voice for [[/roll 2d10]] minutes, but in return, any symptoms of disease that normally affect the throat are cured.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\\n<p>A short, purple weed that grows in small patches of spiky grass among wildflowers or in farm fields as an invasive species. When consumed raw or brewed into a tea, it causes the consumer to lose their voice for [[/roll 2d10]] minutes; in return, any disease symptoms that affect the throat are cured.</p>",
       "chat": "",
       "unidentified": ""
     },

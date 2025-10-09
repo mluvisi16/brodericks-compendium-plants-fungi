@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Forests</em></p>\n<p>A leafy evergreen tree, the trunks grow about as round as a man can reach, and their boughs are often fashioned into brooms by common people. The seeds hold another use, and are often ground into a fine powder called Green Sleeping Dust. The dust is primarily used by mercenaries in service to the royal family of Pentillia and as a sleeping drug in higher society. When this powder is inhaled, it forces a target to make a DC 19 Constitution saving throw or fall unconscious for [[/roll 2d6]] minutes. If the drug is willingly consumed, the target does not have to make this throw and instead just falls unconscious.</p>",
+      "value": "<p><em>Biome: Arctic, Forests</em></p>\\n<p>A leafy evergreen tree with trunks about as wide as a man's reach; its boughs are commonly fashioned into brooms. The seeds are ground into a fine powder known as green sleeping dust, used by mercenaries and the wealthy. Inhalation forces a DC 19 Constitution save or the target falls unconscious for [[/roll 2d6]] minutes. If willingly consumed, the powder renders the user unconscious without a save.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "_id": "h7RKj24kkdp178R5",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Rivers</em></p>\n<p>A reedy hollow grass that smells like sweet hay and corn, found growing near rivers in mild climates. Dahkra must be added to water and boiled over a flame for a few minutes. The resulting somewhat slimy mixture can be fed to beasts and will put them to sleep for [[/roll 3d4]] hours.</p>",
+      "value": "<p><em>Biome: Rivers</em></p>\\n<p>A hollow, reedy grass that smells of sweet hay and corn, found along riverbanks in mild climates. Dahkra is boiled briefly in water to produce a somewhat slimy decoction; feeding this mixture to beasts typically puts them to sleep for [[/roll 3d4]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

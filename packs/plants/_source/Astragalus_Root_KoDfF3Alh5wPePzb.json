@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>A large ground plant, sometimes growing upwards of 7 feet tall, built on a strong root system that sinks deep into the soil. The root of Astragalus can be dried and ground into a mildly sweet powder and combined with wine to create an energy tonic, meaning a +5 bonus to movement speed for [[/roll 1d8]] hours and less sleep required for a full rest for 24 hours after consumption.</p>",
+  "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>A large ground plant, sometimes growing up to 7 feet tall, with a strong root system. The root of Astragalus can be dried and ground into a mildly sweet powder and combined with wine to create an energy tonic, granting a +5 bonus to movement speed for [[/roll 1d8]] hours and reducing the sleep required for a full rest for 24 hours after consumption.</p>",
       "chat": "",
       "unidentified": ""
     },

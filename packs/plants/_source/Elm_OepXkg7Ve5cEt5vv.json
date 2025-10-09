@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>Elm is a wide-spreading tree growing to about 30-feet tall with narrow, rounded leaves and a thick, light brown bark. Long used as a home-remedy for sore throats and aches, stripping the bark and soaking in boiling water, as if making tea, will make an infusion that, when consumed, heals for [[/roll 1d4]] hit points. The herb has no effect when used again until the creature completes a short rest.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\\n<p>Elm is a wide-spreading tree reaching about 30 feet, with narrow rounded leaves and thick, light-brown bark. Traditionally used as a home remedy for sore throats and aches, stripping the bark and steeping it in boiling water produces an infusion that heals [[/roll 1d4]] hit points when consumed. The infusion has no effect on the same creature again until they complete a short rest.</p>",
       "chat": "",
       "unidentified": ""
     },

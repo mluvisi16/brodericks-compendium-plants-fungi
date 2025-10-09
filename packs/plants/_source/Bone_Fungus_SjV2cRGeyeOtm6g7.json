@@ -40,7 +40,7 @@
   "_id": "SjV2cRGeyeOtm6g7",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Bulbous ivory-colored fungus that releases a 10 ft cloud of spores, in the presence of motion, that work as an inhaled poison (DC Constitution 15, [[/roll 1d8-1]] poison damage). If damage is taken, bone density is reduced, resulting in extra damage from bludgeoning in the form of an extra space for criticals against you (19 or 20 counts as a crit). The fungi are immune to acid and thunder, destroyed by cold or radiant damage, fire and electricity also destroy but release spores. Recovery from the reduced bone density is only capable in the consumption of magically created potions and through Lesser Restoration spells.</p>",
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\\n<p>Bulbous, ivory-colored fungus that releases a 10-foot cloud of spores when disturbed. The spores act as an inhaled poison (DC Constitution 15, [[/roll 1d8-1]] poison damage). If a target takes damage from the spores, their bone density is reduced, increasing vulnerability to bludgeoning—rolls of 19 or 20 count as critical hits against the affected creature. The fungi are immune to acid and thunder; they are destroyed by cold or radiant damage. Fire and electricity also destroy them but release spores. Recovery from reduced bone density requires magical remedies such as potion effects or the Lesser Restoration spell.</p>",
       "chat": "",
       "unidentified": ""
     },

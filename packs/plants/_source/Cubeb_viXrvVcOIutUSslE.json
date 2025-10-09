@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Swamps</em></p>\n<p>A climbing, vine plant with broad leaves and spikes of several small, white flowers. Cubeb is commonly believed to be repulsive to demons, especially and virulently to incubi and succubi. Whether the plant actually works for this purpose is unknown, but recipes for incense designed to ward off the demons are commonly exchanged among the superstitious.</p>",
+      "value": "<p><em>Biome: Forests, Swamps</em></p>\\n<p>A climbing vine with broad leaves and spikes of small white flowers. Cubeb is traditionally believed to repel demons—particularly incubi and succubi. Whether it truly works is uncertain, but recipes for demon-warding incense using Cubeb are commonly shared among the superstitious.</p>",
       "chat": "",
       "unidentified": ""
     },

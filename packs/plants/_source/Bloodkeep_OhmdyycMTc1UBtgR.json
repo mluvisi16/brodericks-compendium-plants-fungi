@@ -40,7 +40,7 @@
   "_id": "OhmdyycMTc1UBtgR",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles, Mountains</em></p>\n<p>Tall stalks with jagged leaves and purple-red flowers, bloodkeep's fresh leaves can be bound to a wound to stop bleeding at once and quicken coagulation (apply within 2 rounds of injury to stop bleeding; character regains 20% - rounded down - of lost hit points at once).</p>",
+      "value": "<p><em>Biome: Jungles, Mountains</em></p>\\n<p>Tall stalks with jagged leaves and purple-red flowers. Fresh bloodkeep leaves bound to a wound stop bleeding and speed coagulation if applied within 2 rounds of injury; the character immediately regains 20% (rounded down) of lost hit points.</p>",
       "chat": "",
       "unidentified": ""
     },

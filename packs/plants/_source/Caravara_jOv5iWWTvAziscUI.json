@@ -40,7 +40,7 @@
   "_id": "jOv5iWWTvAziscUI",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts</em></p>\n<p>A button sized, arid-environment fungi that produces spores that resemble black sand. If inhaled or ingested purposefully in large doses, these spores will allow the recipient to take an additional action in the place of a bonus action once per combat for [[/roll 1d8]] hours.</p>",
+      "value": "<p><em>Biome: Deserts</em></p>\\n<p>A button-sized desert fungus that produces spores resembling black sand. If intentionally inhaled or ingested in large doses, the spores grant the recipient the ability to take an extra action in lieu of a bonus action once per combat for [[/roll 1d8]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

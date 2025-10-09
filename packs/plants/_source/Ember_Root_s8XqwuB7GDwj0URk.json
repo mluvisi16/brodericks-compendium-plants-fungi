@@ -40,7 +40,7 @@
   "_id": "s8XqwuB7GDwj0URk",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal, Forests, Jungles, Mountains, Rivers</em></p>\n<p>A shriveled, coconut-looking plant native to the elemental plane of fire that grows on solid stone in areas of extremely sunny or hot conditions in the overworld. The flesh is poisonous, but the core contains drinkable liquid that never grows hotter than 70 degrees and one ounce of which equates to one day's worth of water. A typical ember-root contains [[/roll 1d4]] ounces of liquid.</p>",
+      "value": "<p><em>Biome: Coastal, Forests, Jungles, Mountains, Rivers</em></p>\\n<p>A shriveled, coconut-like plant native to the Elemental Plane of Fire that can grow on solid stone in extremely hot or sunny overworld locations. Its flesh is poisonous, but the core contains drinkable liquid that never exceeds 70 °F; one ounce provides roughly a day's worth of water. A typical ember-root contains [[/roll 1d4]] ounces of liquid.</p>",
       "chat": "",
       "unidentified": ""
     },

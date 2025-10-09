@@ -40,7 +40,7 @@
   "_id": "8EeplhyK0ZCfFb93",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\n<p>A small, leafy herb that is often found in gullies and ravines in arid regions and foothills. The herb has bright green leaves, and smells faintly like honey crossed with fresh rainfall. Grinding up the plant creates a powder that can be used on open wounds to quickly cause bleeding to slow or stop. Applying the herb to a bleeding wound grants the recipient recovery of 1 hit point and makes the recipient immune to bleed damage for [[/roll 1d4]] hours.</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p>\\n<p>A small leafy herb found in gullies and ravines. The bright green leaves smell faintly of honey and fresh rain. Ground into a powder and applied to open wounds, the herb quickly slows or stops bleeding: the recipient regains 1 hit point and is immune to bleed damage for [[/roll 1d4]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

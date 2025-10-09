@@ -40,7 +40,7 @@
   "_id": "ZFK0csEMrBLn9Vc7",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles, Underdark & Caves</em></p>\n<p>Short bushes with spindly branches and fluffy green leaves, the plant is known for the unusual berries that only a few of the bushes produce. The small purple berries contain essence from the Plane of Shadow, and the bushes are said to only grow where the Shadow Weave is strongest. When a Darkberry is split or crushed, it releases shadowstuff, creating a circle of magical darkness with a 5ft-radius. This darkness lasts for [[/roll 1d6]] rounds.</p>",
+      "value": "<p><em>Biome: Forests, Jungles, Underdark &amp; Caves</em></p>\\n<p>Short bushes with spindly branches and fluffy green leaves, these plants are prized for occasional small purple berries infused with shadow essence that very few of the bushes produce. They are said to grow where the Shadow Weave is strong. When a Darkberry is split or crushed it releases a cloud of shadow substance, creating a 5 ft radius of magical darkness that lasts [[/roll 1d6]] rounds.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "_id": "pMaqRBs4z1Q4AHyR",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Small tapered mushrooms that grow straight upward in large patches, the mushroom is quite rigid thanks to its extra-chitinous shell, and the black exterior makes it difficult to see in the winding caverns of the Underdark. The mushrooms have a slight musky aroma resembling that of dead leaves. Several races seed Blackthorn mushrooms at the bottom of pits, turning them into a lethal surprise for anyone falling down upon them. Add [[/roll 1d4]] piercing damage to any falling damage incurred when a character falls down a hole that has Blackhorn growing at the bottom.</p>",
+      "value": "<p><em>Biome: Underdark &amp; Caves</em></p>\\n<p>Small tapered mushrooms that grow in dense patches, Darkhorn is rigid thanks to an extra-chitinous shell and its black exterior makes it difficult to spot in winding caverns. The mushrooms have a slight musky aroma like dead leaves. Some groups seed Darkhorn at the bottoms of pits as a lethal surprise; add [[/roll 1d4]] piercing damage to any falling damage when a character lands on a patch of Darkhorn.</p>",
       "chat": "",
       "unidentified": ""
     },

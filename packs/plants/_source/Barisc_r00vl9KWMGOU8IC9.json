@@ -40,7 +40,7 @@
   "_id": "r00vl9KWMGOU8IC9",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p>\n<p>An extremely prickly bulb plant that, even when ground into a fine paste, retains some of its thorny nature. When this thorny paste is applied to any weapon it will add 4 piercing damage to the next attack.</p>",
+      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p>\\n<p>A very prickly bulb whose pulp remains thorny even when ground into a paste. Smearing this paste on a weapon adds +4 piercing damage to the next attack.</p>",
       "chat": "",
       "unidentified": ""
     },

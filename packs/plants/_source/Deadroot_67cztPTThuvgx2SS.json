@@ -40,7 +40,7 @@
   "_id": "67cztPTThuvgx2SS",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>A black, woody shrub that grows in deep-forest environments, far from civilization. The branches of the shrub can be broken off and chewed to make the character invisible to undead of CR 4 or lower for [[/roll 1d4]] hours.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p>\\n<p>A black, woody shrub found in deep forests, far from civilization. Chewing its branches grants invisibility to undead of CR 4 or lower for [[/roll 1d4]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

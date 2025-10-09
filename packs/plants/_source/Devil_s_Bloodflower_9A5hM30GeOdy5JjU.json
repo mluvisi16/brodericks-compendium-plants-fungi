@@ -40,7 +40,7 @@
   "_id": "9A5hM30GeOdy5JjU",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps, Underdark & Caves</em></p>\n<p>Only a few recorded instances of this red and yellow flower exist. This large and bold red leaf can be going back in history to the dawn of humankind. It was once a popular decoration around homes and gardens, but has become one of the rarest plants in the world. When the petals are consumed, they grant all boons of a Potion of Vitality (removes any exhaustion you are suffering, cures any disease or poison affecting you, and for the next 24 hours, you regain the maximum number of hit points for any hit die you expend). In addition, healing magic and potions heal you for +5 additional hit points for the same period of 24 hours.</p>",
+      "value": "<p><em>Biome: Swamps, Underdark &amp; Caves</em></p>\\n<p>Only a few specimens of this red-and-yellow flower are known. Once a common garden decoration in ancient times, it is now extremely rare. Consuming the petals grants the benefits of a Potion of Vitality (remove exhaustion, cure disease and poison, and for the next 24 hours regain the maximum number of hit points from any hit dice expended). Additionally, healing magic and potions restore +5 extra hit points for the same 24-hour period.</p>",
       "chat": "",
       "unidentified": ""
     },
