@@ -1,6 +1,6 @@
 2.1.8
 ------
-* Added images for all plants beginning with 'G' - 25 plants
+* Added images for half of the plants beginning with 'G' - 12 plants
 * Added visual descriptions, fixed typos, and corrected syntax for all plants
 
 
