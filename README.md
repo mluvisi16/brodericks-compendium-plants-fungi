@@ -75,7 +75,7 @@ This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github
 
 ## What's to come?
 
-* Add images for the 600+ plants/fungi that lack them (Plants starting with F in progress, all previous letters are completed.)
+* Add images for the 600+ plants/fungi that lack them (Plants starting with G in progress, all previous letters are completed.)
 * Add in game uses for some of the plants lacking a distinct usecase in game
 * Update visual description of some plants that have a use, but no description
 * Automate the foraging/crafting likely through integration with the suggested use section modules

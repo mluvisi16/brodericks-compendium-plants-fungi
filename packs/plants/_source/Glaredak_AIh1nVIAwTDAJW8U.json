@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/glaredak.webp",
   "effects": [],
   "_id": "AIh1nVIAwTDAJW8U",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>A coin-sized yellow-orange flower that grows along a climbing jungle vine. These flowers can be boiled in oil to create a potion that will protect a character from blinding effects for 8 hours.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>A coin-sized yellow-orange flower that grows on a climbing jungle vine. These flowers can be boiled in oil to create a potion that protects a character from blinding effects for 8 hours.</p>",
       "chat": "",
       "unidentified": ""
     },

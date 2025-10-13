@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/vines.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/glowvine.webp",
   "effects": [],
   "_id": "bDMaoNmNsB3oVzEv",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles, Underdark & Caves</em></p>\n<p>A morning glory derivative that gives off light as a torch at night. It grows 1 ft. every 2 weeks. Flowers can be harvested and provide to same light as a candle for [[/roll 1d12]] hours.</p>",
+      "value": "<p><em>Biome: Jungles, Underdark & Caves</em></p>\n<p>A morning-glory derivative that gives off light like a torch at night. It grows about 1 ft every two weeks. Flowers can be harvested and provide the same light as a candle for [[/roll 1d12]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

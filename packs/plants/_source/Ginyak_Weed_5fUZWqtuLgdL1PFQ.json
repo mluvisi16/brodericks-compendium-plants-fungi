@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/grass.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/ginyak.webp",
   "effects": [],
   "_id": "5fUZWqtuLgdL1PFQ",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Plains</em></p>\n<p>An invasive plague on many farmers is the weed that has been known to choke out large sections of crops if left unchecked. Many farmers curse the weed, as it has been one of the many factors that caused famine in recent years. Unfortunately, when burning Ginyak, the resulting smoke produces an acrid stench which lingers in the air for weeks afterward. Livestock dislike the smell and attempt to avoid it whenever possible (If burned, anyone in the presence of the smoke takes a -3 penalty to animal handling checks for 1 week).</p>",
+      "value": "<p><em>Biome: Cities, Plains</em></p>\n<p>An invasive weed that chokes out large sections of crops if left unchecked, Ginyak can grow in huge masses that quickly smother an entire field. Many farmers curse this plant, as it has contributed to famine in recent years. Unfortunately, when burned the resulting smoke produces an acrid stench that lingers for weeks. Livestock avoid the smell; if burned, anyone in the presence of the smoke takes a -3 penalty to Animal Handling checks for 1 week.</p>",
       "chat": "",
       "unidentified": ""
     },

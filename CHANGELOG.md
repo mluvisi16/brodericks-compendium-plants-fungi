@@ -1,3 +1,9 @@
+2.1.8
+------
+* Added images for half of the plants beginning with 'G' - 12 plants
+* Added visual descriptions, fixed typos, and corrected syntax for all plants
+
+
 2.1.7
 ------
 * Added images for all plants beginning with 'F' -- 20 images

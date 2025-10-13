@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/lichen-moss.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/gefnul.webp",
   "effects": [],
   "_id": "eQWObxg21oi2Ayzt",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Mountains</em></p><p>Gefnul is a lichen that is located in volcanic areas. It will totally cure and heal the recipient if eaten within one week of harvesting. However, a [[/roll 1d100]] penalty roll must be made. A roll of over the recipient’ hit points will automatically KO, putting the recipient into a death save scenario, and a roll of 100 will kill the recipient outright.</p>",
+      "value": "<p><em>Biome: Arctic, Mountains</em></p><p>Gefnul is a soot-colored lichen with orange-hued areas exposed to high heat, found in volcanic regions. It will fully heal the recipient if eaten within one week of harvesting. However, a [[/roll 1d100]] penalty roll must be made: a result greater than the recipient's current hit points causes an immediate KO (placing them into a death-save scenario), and a roll of 100 kills the recipient outright.</p>",
       "chat": "",
       "unidentified": ""
     },
