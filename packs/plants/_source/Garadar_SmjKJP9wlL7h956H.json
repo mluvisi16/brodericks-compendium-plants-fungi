@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/shrub.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/garadar.webp",
   "effects": [],
   "_id": "SmjKJP9wlL7h956H",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>A 5 to 8-foot shrub with waxy, hard leaves resembling those of a succulent. When this leaf is soaked in water, it will release a very pungent scent that will attract male ogres in a one-mile radius. The scent resembles that of a female ogre. The smell lingers for [[/roll 1d4]] hours.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\n<p>A 5-8 foot shrub with waxy, hard leaves resembling those of a succulent. When a leaf is soaked in water, it releases a very pungent scent that attracts male ogres within a one-mile radius. The scent resembles that of a female ogre and lingers for [[/roll 1d4]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

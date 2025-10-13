@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/cactus.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/golden-coin.webp",
   "effects": [],
   "_id": "xzmMBWyGD3VFfnD5",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\n<p>This hardy plant is a large yellow disk standing on end, slightly bulging in the center, and covered with small red spines. Several ragged leaves grow from the base of the plant, and the root system of the cactus reaches deep beneath the rocky soil. The red spines contain a mild toxin which kills smaller vermin, but provides a mild anesthetic to small creatures or larger. The nomads of the Shaarmid steep the spines in hot water to make a tea to sooth sore throats and pacify infants.</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p>\n<p>This hardy plant is a large yellow disk standing on end, slightly bulging in the center, and covered with small red spines. Several ragged leaves grow from the base, and the cactus's root system reaches deep beneath the rocky soil. The red spines contain a mild toxin that kills smaller vermin but provides a mild anesthetic to small creatures and larger. The nomads of the Shaarmid steep the spines in hot water to make a tea to soothe sore throats and pacify infants.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/cactus.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/gariig.webp",
   "effects": [],
   "_id": "PKqsiidA0YMFLqS3",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\n<p>Gariig is a small cactus. If diced and boiled in whisky, the resulting, astringent smelling potion will restore all hit points to a wounded person if consumed within two days of being harvested and prepared.</p>",
+      "value": "<p><em>Biome: Deserts<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\n<p>Gariig is a small cactus with medium-sized spines. If diced and boiled in whisky, the resulting astringent-smelling potion restores all hit points to a wounded person if consumed within two days of harvesting and preparation.</p>",
       "chat": "",
       "unidentified": ""
     },

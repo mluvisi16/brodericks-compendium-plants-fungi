@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/thorns.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/gallowbrush.webp",
   "effects": [],
   "_id": "QGdDLSuAZmsSCgFT",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>This briar is red in colour with bright crimson thorns. Any mammal pricked with these thorns must make a save vs poison. On a failed save, the target falls asleep for [[/roll 1d6]] x 10 minutes. On a successful save the victim still feels drowsy for the same period of time. The thorns can also be brewed into tea. Anyone drinking this concoction must make a Cons. Save vs. poison with a -4 penalty or fall asleep for [[/roll 1d6]] hours.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>This briar is red in colour with bright crimson thorns. Any mammal pricked by these thorns must make a saving throw vs. poison. On a failed save, the target falls asleep for [[/roll 1d6]] × 10 minutes. On a successful save, the victim still feels drowsy for the same period. The thorns can also be brewed into tea. Anyone drinking this concoction must make a Con. save vs. poison with a -4 penalty or fall asleep for [[/roll 1d6]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

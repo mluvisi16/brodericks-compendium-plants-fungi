@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/bush.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/goblin-rogue.webp",
   "effects": [],
   "_id": "lFCXupW3018KBjrt",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>Medium-sized bush with yellow-orange berries in autumn found in temperate regions. It can be made into Goblin Ink, which is waterproof.</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>A medium-sized bush with yellow-orange berries in autumn, found in temperate regions. The berries can be made into Goblin Ink, which is waterproof.</p>",
       "chat": "",
       "unidentified": ""
     },
