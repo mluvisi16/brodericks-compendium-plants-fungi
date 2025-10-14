@@ -48,6 +48,15 @@ searching in. Results will be added to a "Found Plants" loot actor for distribut
   bottom: <https://github.com/mluvisi16/brodericks-compendium-plants-fungi/releases/latest/download/module.json>
 * Click Install
 
+## What's to come?
+
+* Add images for the 600+ plants/fungi that lack them (Plants starting with G in progress, all previous letters are completed.)
+* Add PF2E Support (framework created, plants will steadily be added with each new update)
+* Add in game uses for some of the plants lacking a distinct usecase in game
+* Update visual description of some plants that have a use, but no description
+* Automate the foraging/crafting likely through integration with the suggested use section modules
+* Add more plants, get a followup module going for animal/monster parts and potion crafting.
+
 ## Optional Dependencies
 
 Install [Better Rolltables](https://github.com/ultrakorne/better-rolltables) and [Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e) for enhanced functionality.
@@ -72,14 +81,6 @@ This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github
 * Rebalanced roll tables.
 * Compatibility for the new rarity setting, which got introduced by the DND5E 1.4.0 system.
 * and more
-
-## What's to come?
-
-* Add images for the 600+ plants/fungi that lack them (Plants starting with G in progress, all previous letters are completed.)
-* Add in game uses for some of the plants lacking a distinct usecase in game
-* Update visual description of some plants that have a use, but no description
-* Automate the foraging/crafting likely through integration with the suggested use section modules
-* Add more plants, get a followup module going for animal/monster parts and potion crafting.
 
 Feel free to visit my repo or message me on discord "vitamorte" to report issues or create suggestions for future content or plant updates.
 Enjoy your wilderness foraging!

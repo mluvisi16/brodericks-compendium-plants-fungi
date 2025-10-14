@@ -1,3 +1,10 @@
+3.0.0
+------
+* Added PF2E support
+* Added plants for the letter "A" for PF2E
+* PF2E will be lagging behind due to priority #1 being getting images for all plants and recreating the data in a different system simply takes more time and effort
+* Cleaned up some unnecessary code Foundry V13 has made redundant
+
 2.1.8
 ------
 * Added images for half of the plants beginning with 'G' - 12 plants
