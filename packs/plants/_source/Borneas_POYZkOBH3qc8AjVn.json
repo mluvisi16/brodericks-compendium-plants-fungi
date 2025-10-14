@@ -40,7 +40,7 @@
   "_id": "POYZkOBH3qc8AjVn",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles, Plains</em></p>\\n<p>A leafy groundcover resembling sage or salvia, found across many forests. When burned, its smoke aids meditation and trances, granting a +3 bonus to Religion checks made by clerics or paladins for [[/roll 1d8]] minutes after inhalation.</p>",
+      "value": "<p><em>Biome: Forests, Jungles, Plains</em></p><p>A leafy groundcover resembling sage or salvia, found across many forests. When burned, its smoke aids meditation and trances, granting a +3 bonus to Religion checks made by clerics or paladins for [[/roll 1d8]] minutes after inhalation.</p>",
       "chat": "",
       "unidentified": ""
     },

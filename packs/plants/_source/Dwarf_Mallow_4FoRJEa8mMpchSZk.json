@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Mountains, Plains</em></p>\\n<p>This small plant has a main stem with shorter branch stems that end in leaves or small white-and-purple flowers. Crushed flowers mixed with honey and salt make a poultice that relieves bee-sting pain when applied successfully. Crushed flowers mixed with oil and smeared on the body also repel bees for [[/roll 1d10+2]] hours. At the DM's discretion, this effect may extend to other small insects.</p>",
+      "value": "<p><em>Biome: Mountains, Plains</em></p><p>This small plant has a main stem with shorter branch stems that end in leaves or small white-and-purple flowers. Crushed flowers mixed with honey and salt make a poultice that relieves bee-sting pain when applied successfully. Crushed flowers mixed with oil and smeared on the body also repel bees for [[/roll 1d10+2]] hours. At the DM's discretion, this effect may extend to other small insects.</p>",
       "chat": "",
       "unidentified": ""
     },

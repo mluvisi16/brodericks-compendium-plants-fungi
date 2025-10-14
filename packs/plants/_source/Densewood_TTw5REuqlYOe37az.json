@@ -40,7 +40,7 @@
   "_id": "TTw5REuqlYOe37az",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\\n<p>A hard, sturdy tree with a very wide trunk native to tropical locales. With a successful Nature check (DC 20), its wood can be used to upgrade wooden weapons (for example, improving the damage die of quarterstaffs and similar weapons).</p>",
+      "value": "<p><em>Biome: Jungles</em></p><p>A hard, sturdy tree with a very wide trunk native to tropical locales. With a successful Nature check (DC 20), its wood can be used to upgrade wooden weapons (for example, improving the damage die of quarterstaffs and similar weapons).</p>",
       "chat": "",
       "unidentified": ""
     },

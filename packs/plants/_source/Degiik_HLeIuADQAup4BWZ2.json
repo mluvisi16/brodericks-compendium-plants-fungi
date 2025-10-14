@@ -40,7 +40,7 @@
   "_id": "HLeIuADQAup4BWZ2",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p>\\n<p>A tiny jungle-floor plant with reddish-pink leaves. A leaf offered to someone on the brink of death (during death saving throws) counts as two successes for that creature's death saves when consumed.</p>",
+      "value": "<p><em>Biome: Jungles<br><span style=\"color:#f00;\">Exceedingly Rare</span></em></p><p>A tiny jungle-floor plant with reddish-pink leaves. A leaf offered to someone on the brink of death (during death saving throws) counts as two successes for that creature's death saves when consumed.</p>",
       "chat": "",
       "unidentified": ""
     },

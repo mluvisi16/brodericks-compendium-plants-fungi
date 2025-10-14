@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Mountains</em></p>\\n<p>Base mullein is easy to spot due to flower stalks that often reach 8 feet or more and fuzzy, soft leaves. Small yellow flowers form a spike near the stalk top. Applied to a burn within one hour, the leaves heal half the damage from the burn.</p>",
+      "value": "<p><em>Biome: Mountains</em></p><p>Base mullein is easy to spot due to flower stalks that often reach 8 feet or more and fuzzy, soft leaves. Small yellow flowers form a spike near the stalk top. Applied to a burn within one hour, the leaves heal half the damage from the burn.</p>",
       "chat": "",
       "unidentified": ""
     },

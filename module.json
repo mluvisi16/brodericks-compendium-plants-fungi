@@ -120,6 +120,7 @@
           "color": "#265408",
           "packs": [
             "plants",
+            "plants-pf2e",
             "books"
           ],
           "folders": []
@@ -129,7 +130,8 @@
           "sorting": "a",
           "color": "#265408",
           "packs": [
-            "planttables"
+            "planttables",
+            "planttables-pf2e"
           ],
           "folders": []
         }

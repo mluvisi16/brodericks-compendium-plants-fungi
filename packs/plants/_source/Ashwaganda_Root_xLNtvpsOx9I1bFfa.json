@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>A small ground plant growing from a large tuber a few inches under the soil that grows as ground cover in many jungles. The name Ashwaganda comes from an ancient phrase meaning &ldquo;horse&rsquo;s strength.&rdquo; The tubers can be cut up and dried and used as horse feed, granting horses increased movement speed (+15) and increased carry weight (+50).</p>",
+      "value": "<p><em>Biome: Jungles</em></p><p>A small ground plant growing from a large tuber a few inches under the soil that grows as ground cover in many jungles. The name Ashwaganda comes from an ancient phrase meaning &ldquo;horse&rsquo;s strength.&rdquo; The tubers can be cut up and dried and used as horse feed, granting horses increased movement speed (+15) and increased carry weight (+50).</p>",
       "chat": "",
       "unidentified": ""
     },

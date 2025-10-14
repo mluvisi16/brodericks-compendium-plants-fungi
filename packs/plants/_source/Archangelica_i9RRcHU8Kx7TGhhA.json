@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal</em></p>\n<p>This white-flowering plant has black seeds and a sharp-tasting root. When brewed, the root makes a hot, peppery decoction that helps alleviate common colds, flu, and congestion. It shortens recovery time and adds +2 to Constitution rolls to resist colds and diseases from bad weather.</p>",
+      "value": "<p><em>Biome: Coastal</em></p><p>This white-flowering plant has black seeds and a sharp-tasting root. When brewed, the root makes a hot, peppery decoction that helps alleviate common colds, flu, and congestion. It shortens recovery time and adds +2 to Constitution rolls to resist colds and diseases from bad weather.</p>",
       "chat": "",
       "unidentified": ""
     },

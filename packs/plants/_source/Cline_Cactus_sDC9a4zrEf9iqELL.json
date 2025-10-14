@@ -40,7 +40,7 @@
   "_id": "sDC9a4zrEf9iqELL",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts</em></p>\\n<p>A small, spherical cactus with few large spines. Its fleshy body contains a viscous green liquid that acts as a stealthy poison. A creature that fails a DC 16 Constitution saving throw against the poison takes [[/roll 1d4+1]] poison damage at the end of each round (half as much on a successful save). After 5 rounds the victim begins to feel burning internal pain centered on the kidneys and liver; continue resolving the ongoing damage as above.</p>",
+      "value": "<p><em>Biome: Deserts</em></p><p>A small, spherical cactus with few large spines. Its fleshy body contains a viscous green liquid that acts as a stealthy poison. A creature that fails a DC 16 Constitution saving throw against the poison takes [[/roll 1d4+1]] poison damage at the end of each round (half as much on a successful save). After 5 rounds the victim begins to feel burning internal pain centered on the kidneys and liver; continue resolving the ongoing damage as above.</p>",
       "chat": "",
       "unidentified": ""
     },

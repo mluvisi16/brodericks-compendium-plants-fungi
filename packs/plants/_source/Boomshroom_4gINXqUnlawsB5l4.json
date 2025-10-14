@@ -40,7 +40,7 @@
   "_id": "4gINXqUnlawsB5l4",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps</em></p>\\n<p>These mushrooms grow in patches across swamps and marshes, covering areas up to about 300 feet in radius. A successful Sleight of Hand check lets you harvest a specimen safely; harvesting one without that check renders it inert. If harvested unsuccessfully, it explodes with the force of an arcane blast. Boomshrooms regrow in the same spot 10 days after being triggered or destroyed.</p>",
+      "value": "<p><em>Biome: Swamps</em></p><p>These mushrooms grow in patches across swamps and marshes, covering areas up to about 300 feet in radius. A successful Sleight of Hand check lets you harvest a specimen safely; harvesting one without that check renders it inert. If harvested unsuccessfully, it explodes with the force of an arcane blast. Boomshrooms regrow in the same spot 10 days after being triggered or destroyed.</p>",
       "chat": "",
       "unidentified": ""
     },

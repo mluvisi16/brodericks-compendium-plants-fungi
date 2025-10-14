@@ -40,7 +40,7 @@
   "_id": "r00vl9KWMGOU8IC9",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p>\\n<p>A very prickly bulb whose pulp remains thorny even when ground into a paste. Smearing this paste on a weapon adds +4 piercing damage to the next attack.</p>",
+      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p><p>A very prickly bulb whose pulp remains thorny even when ground into a paste. Smearing this paste on a weapon adds +4 piercing damage to the next attack.</p>",
       "chat": "",
       "unidentified": ""
     },

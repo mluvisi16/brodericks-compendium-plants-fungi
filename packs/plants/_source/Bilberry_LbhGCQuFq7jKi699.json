@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\\n<p>Bilberries are small black berries that grow on leafy forest shrubs resembling blueberry bushes. When mixed with pure alcohol and left to infuse for fifteen days, the resulting draught grants truesight to a human for [[/roll 2d6]] days on a successful preparation. A failed preparation may be lethal: DC 17 Constitution save vs. poison or suffer [[/roll 6d6]] poison damage after [[/roll 1d4]] minutes.</p>",
+      "value": "<p><em>Biome: Forests</em></p><p>Bilberries are small black berries that grow on leafy forest shrubs resembling blueberry bushes. When mixed with pure alcohol and left to infuse for fifteen days, the resulting draught grants truesight to a human for [[/roll 2d6]] days on a successful preparation. A failed preparation may be lethal: DC 17 Constitution save vs. poison or suffer [[/roll 6d6]] poison damage after [[/roll 1d4]] minutes.</p>",
       "chat": "",
       "unidentified": ""
     },

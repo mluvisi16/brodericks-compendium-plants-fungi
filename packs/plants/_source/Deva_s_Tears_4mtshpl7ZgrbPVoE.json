@@ -40,7 +40,7 @@
   "_id": "4mtshpl7ZgrbPVoE",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\\n<p>A light-blue flower on a long rigid stalk often found in small forest clearings. The flower secretes a thick, sparkling sap when mature; bees are attracted to the sap, which contains tiny seeds. The sap (called 'tears') is mildly restorative: if consumed within 3 rounds of injury it heals [[/roll 1d4+1]] hit points. A creature can benefit from drinking Tears once per day; additional consumption requires a Constitution save (DC 5) or the drinker falls unconscious for [[/roll 2d4+1]] hours. The DC increases by 1 for each additional drink that same day. A mature plant yields up to 20 servings (roll [[/roll 1d20]] to determine) before it dries up.</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p><p>A light-blue flower on a long rigid stalk often found in small forest clearings. The flower secretes a thick, sparkling sap when mature; bees are attracted to the sap, which contains tiny seeds. The sap (called 'tears') is mildly restorative: if consumed within 3 rounds of injury it heals [[/roll 1d4+1]] hit points. A creature can benefit from drinking Tears once per day; additional consumption requires a Constitution save (DC 5) or the drinker falls unconscious for [[/roll 2d4+1]] hours. The DC increases by 1 for each additional drink that same day. A mature plant yields up to 20 servings (roll [[/roll 1d20]] to determine) before it dries up.</p>",
       "chat": "",
       "unidentified": ""
     },

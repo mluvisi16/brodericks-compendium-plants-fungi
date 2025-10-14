@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Mountains</em></p>\\n<p>Resembling a cluster of upward-curving spines, this insidious plant grows in rocky, inhospitable climates. Its roots dig through stone fissures; some legends claim ancient roots reach down into Hell. Said to originate on infernal planes, a few hardy seeds established the plant in a long-forgotten wasteland on Toril, from where it spread. The spines hold moisture as a thick red sap that causes nausea and vomiting if ingested. Coating a blade with the sap is rumored to make wounds especially painful for celestial creatures (if applied to weapons, +3 damage vs. celestials; affected celestials must then make a DC 13 Con save or be poisoned for [[/roll 1d4]] minutes).</p>",
+      "value": "<p><em>Biome: Mountains</em></p><p>Resembling a cluster of upward-curving spines, this insidious plant grows in rocky, inhospitable climates. Its roots dig through stone fissures; some legends claim ancient roots reach down into Hell. Said to originate on infernal planes, a few hardy seeds established the plant in a long-forgotten wasteland on Toril, from where it spread. The spines hold moisture as a thick red sap that causes nausea and vomiting if ingested. Coating a blade with the sap is rumored to make wounds especially painful for celestial creatures (if applied to weapons, +3 damage vs. celestials; affected celestials must then make a DC 13 Con save or be poisoned for [[/roll 1d4]] minutes).</p>",
       "chat": "",
       "unidentified": ""
     },

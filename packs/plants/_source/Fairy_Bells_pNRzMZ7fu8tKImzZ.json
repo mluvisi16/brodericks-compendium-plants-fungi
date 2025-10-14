@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\\n<p>A leafy green plant that grows in clusters; most of the plant is unremarkable except for its violet flowers, which bloom nearly year-round. When the wind blows through the flowers, loose seeds rattle inside and produce a curious ringing, much like tiny bells. Rural children often weave the flowers into garments so they jingle when running and twirling. Legend says the sound wards off evil spirits — partially true: a fiend attempting to come within 10 feet of fairy bells or someone wearing them must succeed on a DC 15 Wisdom save or be affected as if frightened (fear).</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>A leafy green plant that grows in clusters; most of the plant is unremarkable except for its violet flowers, which bloom nearly year-round. When the wind blows through the flowers, loose seeds rattle inside and produce a curious ringing, much like tiny bells. Rural children often weave the flowers into garments so they jingle when running and twirling. Legend says the sound wards off evil spirits — partially true: a fiend attempting to come within 10 feet of fairy bells or someone wearing them must succeed on a DC 15 Wisdom save or be affected as if frightened (fear).</p>",
       "chat": "",
       "unidentified": ""
     },

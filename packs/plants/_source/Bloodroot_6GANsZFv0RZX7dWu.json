@@ -40,7 +40,7 @@
   "_id": "6GANsZFv0RZX7dWu",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\\n<p>A short jungle plant with long pointed leaves and red, rose-like flowers. Beneath the soil lies a large crimson root with a faint copper scent. Consuming bloodroot forces a DC 15 Constitution save or the consumer is Paralyzed for 1 minute; afterward, they gain +2 to Constitution saves for [[/roll 1d4]] hours. Vampires prize the root: an undead that consumes it gains advantage on Charisma checks for [[/roll 1d4]] hours and may enter a berserk rage when smelling blood.</p>",
+      "value": "<p><em>Biome: Jungles</em></p><p>A short jungle plant with long pointed leaves and red, rose-like flowers. Beneath the soil lies a large crimson root with a faint copper scent. Consuming bloodroot forces a DC 15 Constitution save or the consumer is Paralyzed for 1 minute; afterward, they gain +2 to Constitution saves for [[/roll 1d4]] hours. Vampires prize the root: an undead that consumes it gains advantage on Charisma checks for [[/roll 1d4]] hours and may enter a berserk rage when smelling blood.</p>",
       "chat": "",
       "unidentified": ""
     },

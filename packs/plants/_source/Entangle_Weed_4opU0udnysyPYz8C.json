@@ -40,7 +40,7 @@
   "_id": "4opU0udnysyPYz8C",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Oceans, Rivers</em></p>\\n<p>A transparent seaweed that becomes nearly invisible when submerged (DC 20 Spot to notice from within 10 ft). It forms patches roughly 400 ft in diameter in large bodies of salt water. Entering a square containing the weed forces a DC 20 Dexterity save to avoid becoming entangled. On a failed Dexterity save, a DC 15 Strength check is required to escape; each failed attempt increases the Strength DC by +1 as the target becomes more entangled.</p>\\n<p>Each failed attempt to escape deals [[/roll 1d6]] nonlethal damage (see PHB p.198). Accumulating 20 points of this fatiguing damage causes one level of exhaustion. The seaweed instantly wilts when removed from the water.</p>",
+      "value": "<p><em>Biome: Oceans, Rivers</em></p><p>A transparent seaweed that becomes nearly invisible when submerged (DC 20 Spot to notice from within 10 ft). It forms patches roughly 400 ft in diameter in large bodies of salt water. Entering a square containing the weed forces a DC 20 Dexterity save to avoid becoming entangled. On a failed Dexterity save, a DC 15 Strength check is required to escape; each failed attempt increases the Strength DC by +1 as the target becomes more entangled.</p><p>Each failed attempt to escape deals [[/roll 1d6]] nonlethal damage (see PHB p.198). Accumulating 20 points of this fatiguing damage causes one level of exhaustion. The seaweed instantly wilts when removed from the water.</p>",
       "chat": "",
       "unidentified": ""
     },

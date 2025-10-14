@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\\n<p>Resembling Blackcorn in miniature, Brawler’s Blackcorn grows in dark caves without light. The kernels can be dried, ground, and mixed into a strong liquor (Brawler’s Bourbon). The bourbon's contact toxin is sometimes used by cheating brawlers: after an opponent is exposed, they must make a DC 14 Constitution save or be poisoned for 1 minute; failing by 5 or more also knocks them unconscious for that minute. A successful save grants immunity to the toxin for 12 hours. An exposed target can be awakened by taking damage or being shaken.</p>",
+      "value": "<p><em>Biome: Underdark & Caves</em></p><p>Resembling Blackcorn in miniature, Brawler’s Blackcorn grows in dark caves without light. The kernels can be dried, ground, and mixed into a strong liquor (Brawler’s Bourbon). The bourbon's contact toxin is sometimes used by cheating brawlers: after an opponent is exposed, they must make a DC 14 Constitution save or be poisoned for 1 minute; failing by 5 or more also knocks them unconscious for that minute. A successful save grants immunity to the toxin for 12 hours. An exposed target can be awakened by taking damage or being shaken.</p>",
       "chat": "",
       "unidentified": ""
     },

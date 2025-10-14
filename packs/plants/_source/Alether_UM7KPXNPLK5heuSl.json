@@ -40,7 +40,7 @@
   "_id": "UM7KPXNPLK5heuSl",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>A jungle vine that winds its way around tree trunks. The vine commonly grows deep green leaves and small orange berries.Eating a handful of these orange berries will add +1 to both a character&rsquo;s chance to hit, and to their damage rolls for [[/roll 2d6]] minutes. </p>The berries can be brewed in white wine to produce a drink that will add +2 to the recipient&rsquo;s chance to hit, and grant [[/roll 2d4]] temporary hit points until expended. This effect lasts for [[/roll 2d12]] minutes, and ends with the characters total collapse for [[/roll 1d3]] days unless they successfully save against poison (DC 15 Cons.). This brew will only be useful for one month after manufacture and then loses its potency.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p><p>A jungle vine that winds its way around tree trunks. The vine commonly grows deep green leaves and small orange berries.Eating a handful of these orange berries will add +1 to both a character&rsquo;s chance to hit, and to their damage rolls for [[/roll 2d6]] minutes. </p>The berries can be brewed in white wine to produce a drink that will add +2 to the recipient&rsquo;s chance to hit, and grant [[/roll 2d4]] temporary hit points until expended. This effect lasts for [[/roll 2d12]] minutes, and ends with the characters total collapse for [[/roll 1d3]] days unless they successfully save against poison (DC 15 Cons.). This brew will only be useful for one month after manufacture and then loses its potency.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "_id": "SVXbXvbONc00ctTc",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\\n<p>A wide-spreading succulent that produces small red flowers every six months. Dried and ground into a fine powder, the flowers can be applied to weapons; on a successful hit they set the target ablaze for [[/roll 1d6]] rounds, dealing [[/roll 1d6]] fire damage each round.</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p><p>A wide-spreading succulent that produces small red flowers every six months. Dried and ground into a fine powder, the flowers can be applied to weapons; on a successful hit they set the target ablaze for [[/roll 1d6]] rounds, dealing [[/roll 1d6]] fire damage each round.</p>",
       "chat": "",
       "unidentified": ""
     },

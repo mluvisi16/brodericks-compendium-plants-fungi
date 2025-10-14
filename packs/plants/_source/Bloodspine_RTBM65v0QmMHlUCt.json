@@ -40,7 +40,7 @@
   "_id": "RTBM65v0QmMHlUCt",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\\n<p>This succulent grows in rocky soil as a cluster of thick leaves that reach upward, their edges lined with sharp thorns and tipped with a single crimson spine. The spines secrete a mild toxin that can cause paralysis in small animals or the infirm. When exposed, a DC 5 Constitution save is required: failure results in complete paralysis for [[/roll 1d4]] hours; success produces only a brief euphoric effect for the same duration. Some seek the toxin for its mild euphoria despite the risk.</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p><p>This succulent grows in rocky soil as a cluster of thick leaves that reach upward, their edges lined with sharp thorns and tipped with a single crimson spine. The spines secrete a mild toxin that can cause paralysis in small animals or the infirm. When exposed, a DC 5 Constitution save is required: failure results in complete paralysis for [[/roll 1d4]] hours; success produces only a brief euphoric effect for the same duration. Some seek the toxin for its mild euphoria despite the risk.</p>",
       "chat": "",
       "unidentified": ""
     },

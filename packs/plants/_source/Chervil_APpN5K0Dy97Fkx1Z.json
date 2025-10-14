@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\\n<p>Chervil, a ground-cover herb similar to parsley, can be prepared as a tincture used to dissolve blood clots, helping to prevent complications after injury. Clots dissolve within [[/roll 1d4]] turns. If misused, the tincture can increase bleeding: for the next [[/roll 1d8]] hours, every successful attack against the consumer deals an additional +1 bleeding damage.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p><p>Chervil, a ground-cover herb similar to parsley, can be prepared as a tincture used to dissolve blood clots, helping to prevent complications after injury. Clots dissolve within [[/roll 1d4]] turns. If misused, the tincture can increase bleeding: for the next [[/roll 1d8]] hours, every successful attack against the consumer deals an additional +1 bleeding damage.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Rivers</em></p>\\n<p>Dragonwort has a gnarled, erect, cylindrical stem with wavy leaves—dark green above and bluish-green beneath—and pink flowers clustered in a spike atop the stem. Boil the root over low heat for three days and have afflicted people drink the infusion; it cures plague symptoms (60% chance to cure completely). Its value rises sharply during outbreaks.</p>",
+      "value": "<p><em>Biome: Rivers</em></p><p>Dragonwort has a gnarled, erect, cylindrical stem with wavy leaves—dark green above and bluish-green beneath—and pink flowers clustered in a spike atop the stem. Boil the root over low heat for three days and have afflicted people drink the infusion; it cures plague symptoms (60% chance to cure completely). Its value rises sharply during outbreaks.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "_id": "S6MkQp0PuaG6Nz4E",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts</em></p>\\n<p>A small succulent that, when crushed, repels parasitic insects such as mosquitoes and stirges (–2 penalty to attack rolls for insectoids). It has a pungent but not unpleasant odor and lasts [[/roll 1d6]] hours; the effect can be removed by washing or heavy sweating. The scent may be noticeable to tracking animals.</p>",
+      "value": "<p><em>Biome: Deserts</em></p><p>A small succulent that, when crushed, repels parasitic insects such as mosquitoes and stirges (–2 penalty to attack rolls for insectoids). It has a pungent but not unpleasant odor and lasts [[/roll 1d6]] hours; the effect can be removed by washing or heavy sweating. The scent may be noticeable to tracking animals.</p>",
       "chat": "",
       "unidentified": ""
     },

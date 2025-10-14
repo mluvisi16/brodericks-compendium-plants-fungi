@@ -40,7 +40,7 @@
   "_id": "kehLVWvBBulyLUaB",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic</em></p>\\n<p>This tall, blue-flowered plant with spiked leaves is a base for remedies against nausea, usually prepared as a bitter-smelling herbal tea. Eldaas counteracts nausea from hangovers, motion sickness, morning sickness, and similar causes. It grants a +2 bonus to Constitution saves against effects that cause nausea (poisons, strong odors, etc.) and lasts [[/roll 1d6]] hours.</p>",
+      "value": "<p><em>Biome: Arctic</em></p><p>This tall, blue-flowered plant with spiked leaves is a base for remedies against nausea, usually prepared as a bitter-smelling herbal tea. Eldaas counteracts nausea from hangovers, motion sickness, morning sickness, and similar causes. It grants a +2 bonus to Constitution saves against effects that cause nausea (poisons, strong odors, etc.) and lasts [[/roll 1d6]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

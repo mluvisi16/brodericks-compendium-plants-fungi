@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Forests</em></p>\\n<p>A leafy evergreen tree with trunks about as wide as a man's reach; its boughs are commonly fashioned into brooms. The seeds are ground into a fine powder known as green sleeping dust, used by mercenaries and the wealthy. Inhalation forces a DC 19 Constitution save or the target falls unconscious for [[/roll 2d6]] minutes. If willingly consumed, the powder renders the user unconscious without a save.</p>",
+      "value": "<p><em>Biome: Arctic, Forests</em></p><p>A leafy evergreen tree with trunks about as wide as a man's reach; its boughs are commonly fashioned into brooms. The seeds are ground into a fine powder known as green sleeping dust, used by mercenaries and the wealthy. Inhalation forces a DC 19 Constitution save or the target falls unconscious for [[/roll 2d6]] minutes. If willingly consumed, the powder renders the user unconscious without a save.</p>",
       "chat": "",
       "unidentified": ""
     },

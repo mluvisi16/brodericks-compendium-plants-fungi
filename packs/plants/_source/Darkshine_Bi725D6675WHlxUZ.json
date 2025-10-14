@@ -40,7 +40,7 @@
   "_id": "Bi725D6675WHlxUZ",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps, Underdark &amp; Caves</em></p>\\n<p>A glossy-black, crystallizing fungus that forms sharp shards up to 6 ft long. Areas containing Darkshine act like caltrops: creatures moving through such a patch take [[/roll 1d10]] damage, and damaged creatures cannot be healed magically for 1 minute. A Darkshine patch has 20 hit points, resists piercing and slashing (takes half damage), and suffers 1 point of damage per hour when exposed to any light source stronger than a candle.</p>",
+      "value": "<p><em>Biome: Swamps, Underdark &amp; Caves</em></p><p>A glossy-black, crystallizing fungus that forms sharp shards up to 6 ft long. Areas containing Darkshine act like caltrops: creatures moving through such a patch take [[/roll 1d10]] damage, and damaged creatures cannot be healed magically for 1 minute. A Darkshine patch has 20 hit points, resists piercing and slashing (takes half damage), and suffers 1 point of damage per hour when exposed to any light source stronger than a candle.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "_id": "kMZCY74ZCUWVcibk",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\\n<p>A rich green plant with fern-like leaves arrayed along a thin stem. Applying the leaves to a fresh wound heals 1 hit point if used within 3 rounds; the effect is not cumulative.</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>A rich green plant with fern-like leaves arrayed along a thin stem. Applying the leaves to a fresh wound heals 1 hit point if used within 3 rounds; the effect is not cumulative.</p>",
       "chat": "",
       "unidentified": ""
     },

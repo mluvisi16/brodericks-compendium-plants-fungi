@@ -40,7 +40,7 @@
   "_id": "8GcVVdpUOVp0fdw3",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles, Plains</em></p>\\n<p>A mustard-like shrub whose seeds can be turned into a powder that suppresses male fertility for [[/roll 3d4]] days (takes effect after 1 hour). A DC 15 Medicine or Nature check detects the effect; a DC 20 Medicine check can reverse it.</p>",
+      "value": "<p><em>Biome: Forests, Jungles, Plains</em></p><p>A mustard-like shrub whose seeds can be turned into a powder that suppresses male fertility for [[/roll 3d4]] days (takes effect after 1 hour). A DC 15 Medicine or Nature check detects the effect; a DC 20 Medicine check can reverse it.</p>",
       "chat": "",
       "unidentified": ""
     },

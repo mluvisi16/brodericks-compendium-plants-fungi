@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\\n<p>A plant that can grow up to five feet tall with soft green leaves and purple flowers and berries. The berries are steeped in water for a week; the distillate is then consumed. On a failed Constitution saving throw (DC 16) the drinker falls into a sleep for [[/roll 4d8]] hours and cannot be awakened. A natural 1 on the saving throw is lethal; a natural 20 causes partial insanity instead.</p>",
+      "value": "<p><em>Biome: Jungles</em></p><p>A plant that can grow up to five feet tall with soft green leaves and purple flowers and berries. The berries are steeped in water for a week; the distillate is then consumed. On a failed Constitution saving throw (DC 16) the drinker falls into a sleep for [[/roll 4d8]] hours and cannot be awakened. A natural 1 on the saving throw is lethal; a natural 20 causes partial insanity instead.</p>",
       "chat": "",
       "unidentified": ""
     },

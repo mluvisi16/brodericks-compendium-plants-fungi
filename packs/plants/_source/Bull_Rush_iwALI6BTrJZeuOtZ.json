@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps</em></p>\\n<p>Bull-rushes are tall, straight-stemmed plants with many small flowers atop their stalks. The flowers are ground into an ointment applied to a person’s eyes or tongue. On a successful Medicine check, the herb puts a target to sleep for [[/roll 3d12]] hours; a natural 1 on the check instead induces a coma.</p>",
+      "value": "<p><em>Biome: Swamps</em></p><p>Bull-rushes are tall, straight-stemmed plants with many small flowers atop their stalks. The flowers are ground into an ointment applied to a person’s eyes or tongue. On a successful Medicine check, the herb puts a target to sleep for [[/roll 3d12]] hours; a natural 1 on the check instead induces a coma.</p>",
       "chat": "",
       "unidentified": ""
     },

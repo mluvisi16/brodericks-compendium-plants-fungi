@@ -46,7 +46,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\\n<p>A strange-looking, dark-barked tree that seems to form face-like patterns in its bark. When its bark is peeled or twigs broken, the Edelwood drips a black oil that is as flammable as lamp oil and smells faintly of sulfur. According to legend, the Edelwood houses the lost souls of those who succumb to the woods, whether from failing mind or body; its oil is said to fuel the black lantern of the Dark Beast.</p>",
+      "value": "<p><em>Biome: Forests</em></p><p>A strange-looking, dark-barked tree that seems to form face-like patterns in its bark. When its bark is peeled or twigs broken, the Edelwood drips a black oil that is as flammable as lamp oil and smells faintly of sulfur. According to legend, the Edelwood houses the lost souls of those who succumb to the woods, whether from failing mind or body; its oil is said to fuel the black lantern of the Dark Beast.</p>",
       "chat": "",
       "unidentified": ""
     },
