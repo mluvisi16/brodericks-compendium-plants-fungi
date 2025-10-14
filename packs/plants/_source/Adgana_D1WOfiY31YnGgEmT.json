@@ -40,7 +40,7 @@
   "_id": "D1WOfiY31YnGgEmT",
   "system": {
     "description": {
-  "value": "<p><em>Biome: Plains</em></p>\n<p>This small herb grows close to the ground with broad, flat leaves. The leaves must be dried, then crushed and eaten. Its effects diminish with repeated use. On the first and second use, Adgana grants +2 to Strength, Dexterity, and Constitution for [[/roll 2d4+4]] minutes. On the third use, it grants +1 to Strength and Dexterity for the same duration; on the fourth use, it grants +1 to Strength only. After that, no benefit is gained. The herb is highly addictive: after the first or second use, the user must make a DC 16 Wisdom save or become addicted. This DC increases by +1 for each additional use. Addiction causes a -1 penalty to Strength, Dexterity, and Constitution until the next consumption of Adgana.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\n<p>This small herb grows close to the ground with broad, flat leaves. The leaves must be dried, then crushed and eaten. Its effects diminish with repeated use. On the first and second use, Adgana grants +2 to Strength, Dexterity, and Constitution for [[/roll 2d4+4]] minutes. On the third use, it grants +1 to Strength and Dexterity for the same duration; on the fourth use, it grants +1 to Strength only. After that, no benefit is gained. The herb is highly addictive: after the first or second use, the user must make a DC 16 Wisdom save or become addicted. This DC increases by +1 for each additional use. Addiction causes a -1 penalty to Strength, Dexterity, and Constitution until the next consumption of Adgana.</p>",
       "chat": "",
       "unidentified": ""
     },
