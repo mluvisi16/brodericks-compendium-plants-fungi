@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Forests, Mountains, Plains</em></p>\\n<p>Applying basil leaves to a venomous bite helps draw out poison and cures the poisoned condition; any damage already taken remains. The plant has an upright stalk, oily ovate leaves, and small white flowers.</p>",
+      "value": "<p><em>Biome: Cities, Forests, Mountains, Plains</em></p><p>Applying basil leaves to a venomous bite helps draw out poison and cures the poisoned condition; any damage already taken remains. The plant has an upright stalk, oily ovate leaves, and small white flowers.</p>",
       "chat": "",
       "unidentified": ""
     },

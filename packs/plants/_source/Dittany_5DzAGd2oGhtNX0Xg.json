@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\\n<p>This herb grows six to eight inches high with square stalks and short, round leaves. The leaves should be dried for two weeks and then boiled in ale or wine to make a lotion. Applied topically, Dittany draws splinters and small bone fragments from wounds, acts as an effective antiseptic, and helps bind tissue (+3 hit points if applied within 2 rounds of an injury).</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p><p>This herb grows six to eight inches high with square stalks and short, round leaves. The leaves should be dried for two weeks and then boiled in ale or wine to make a lotion. Applied topically, Dittany draws splinters and small bone fragments from wounds, acts as an effective antiseptic, and helps bind tissue (+3 hit points if applied within 2 rounds of an injury).</p>",
       "chat": "",
       "unidentified": ""
     },

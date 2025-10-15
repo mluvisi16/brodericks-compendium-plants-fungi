@@ -1,3 +1,8 @@
+3.0.1
+------
+* Linebreak issues with some plants
+* Fixed PF2e version file structure
+
 3.0.0
 ------
 * Added PF2E support

@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\\n<p>This small succulent sedum produces offshoots bearing 8–16 small leaves. Dried and ground, its leaves can be mixed into a poultice or potion to increase a healing die by one step (for example, d6 → d8). This effect can be applied during a short rest, added to healing magic as a poultice, or mixed into a health potion.</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p><p>This small succulent sedum produces offshoots bearing 8–16 small leaves. Dried and ground, its leaves can be mixed into a poultice or potion to increase a healing die by one step (for example, d6 → d8). This effect can be applied during a short rest, added to healing magic as a poultice, or mixed into a health potion.</p>",
       "chat": "",
       "unidentified": ""
     },

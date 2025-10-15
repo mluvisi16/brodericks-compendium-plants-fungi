@@ -40,7 +40,7 @@
   "_id": "62wV5UbBEtSvbqaa",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>The lilac flowers can be prepared into a potion that rapidly cures wounds. Make a medicine check; the flowers heal [[/roll 3d6]] hit points if properly prepared or [[/roll 1d4]] hit points if prepped poorly.</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>The lilac flowers can be prepared into a potion that rapidly cures wounds. Make a medicine check; the flowers heal [[/roll 3d6]] hit points if properly prepared or [[/roll 1d4]] hit points if prepped poorly.</p>",
       "chat": "",
       "unidentified": ""
     },

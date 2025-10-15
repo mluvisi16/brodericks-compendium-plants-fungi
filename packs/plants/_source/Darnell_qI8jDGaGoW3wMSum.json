@@ -40,7 +40,7 @@
   "_id": "qI8jDGaGoW3wMSum",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\\n<p>A thin-stemmed plant with green basal leaves that can cause itching if touched. It produces tiny yellow flowers that, when eaten, cause vision dimming for [[/roll 1d12]] hours. In bright light the affected character sees as if under moonlight. Darnell does not affect creatures with truesight, but it halves the range of darkvision.</p>",
+      "value": "<p><em>Biome: Forests</em></p><p>A thin-stemmed plant with green basal leaves that can cause itching if touched. It produces tiny yellow flowers that, when eaten, cause vision dimming for [[/roll 1d12]] hours. In bright light the affected character sees as if under moonlight. Darnell does not affect creatures with truesight, but it halves the range of darkvision.</p>",
       "chat": "",
       "unidentified": ""
     },

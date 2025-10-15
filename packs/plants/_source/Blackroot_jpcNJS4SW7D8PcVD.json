@@ -40,7 +40,7 @@
   "_id": "jpcNJS4SW7D8PcVD",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\\n<p>A thin vine with small dark leaves, blackroot grows underground near subterranean pools and lakes, often where faint light from phosphorescent moss reaches. Its roots applied to fresh wounds promote rapid healing (applied immediately, restores [[/roll 1d4]] hit points). The leaves can be crushed into blackroot poison: a blade coated with it forces a DC 13 Constitution save or the target suffers 16 (4d6) poison damage and is poisoned for 1 hour. If the target fails the save by 5 or more, they are Paralyzed for [[/roll 1d6]] minutes.</p>",
+      "value": "<p><em>Biome: Underdark & Caves</em></p><p>A thin vine with small dark leaves, blackroot grows underground near subterranean pools and lakes, often where faint light from phosphorescent moss reaches. Its roots applied to fresh wounds promote rapid healing (applied immediately, restores [[/roll 1d4]] hit points). The leaves can be crushed into blackroot poison: a blade coated with it forces a DC 13 Constitution save or the target suffers 16 (4d6) poison damage and is poisoned for 1 hour. If the target fails the save by 5 or more, they are Paralyzed for [[/roll 1d6]] minutes.</p>",
       "chat": "",
       "unidentified": ""
     },

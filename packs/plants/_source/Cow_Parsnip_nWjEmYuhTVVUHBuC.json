@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\\n<p>Cow parsnip has small leaves covered in tiny hairs. These hairs are shaved from the leaves with a sharp knife and processed into a salve. Applied to the forehead of an afflicted person, the salve can cure madness for a short period (1d4 hours). Repeated application over two weeks may (DM's discretion) cure more persistent insanity.</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>Cow parsnip has small leaves covered in tiny hairs. These hairs are shaved from the leaves with a sharp knife and processed into a salve. Applied to the forehead of an afflicted person, the salve can cure madness for a short period (1d4 hours). Repeated application over two weeks may (DM's discretion) cure more persistent insanity.</p>",
       "chat": "",
       "unidentified": ""
     },

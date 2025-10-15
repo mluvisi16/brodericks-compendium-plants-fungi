@@ -40,7 +40,7 @@
   "_id": "prT4MPmLJbkeVrEp",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\\n<p>A creeping vine with irregular leaves that produces large, trumpet-shaped yellow flowers in warmer months. These mature into yellow-orange fruits with a slightly salty taste. The seeds yield an oil used as an insect repellent; its odor is nearly imperceptible to people but deters many pests, imposing a -2 penalty on attack rolls for insectoid creatures.</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p><p>A creeping vine with irregular leaves that produces large, trumpet-shaped yellow flowers in warmer months. These mature into yellow-orange fruits with a slightly salty taste. The seeds yield an oil used as an insect repellent; its odor is nearly imperceptible to people but deters many pests, imposing a -2 penalty on attack rolls for insectoid creatures.</p>",
       "chat": "",
       "unidentified": ""
     },

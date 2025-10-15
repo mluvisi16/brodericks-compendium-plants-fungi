@@ -40,7 +40,7 @@
   "_id": "CThv11bImqhA0Ir2",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Jungles</em></p>\\n<p>A fragrant bush found in dense jungles and sparse deserts, the Calacaza has pale, veined leaves and branches and often reaches upward toward the canopy. At the end of each branch are clusters of small white flowers or, depending on the season, toxic white berries. Those who ingest the berries must make a DC 17 Constitution saving throw against poison or suffer 32 (8d6) poison damage and be poisoned for [[/roll 1d6]] hours. On a successful save, the target suffers only half damage and is not poisoned. Local tribes avoid the berries except when using them to coat arrowheads and blowgun darts; when applied this way, the toxin adds +2 poison damage to successful attacks made with a blowgun.</p>",
+      "value": "<p><em>Biome: Deserts, Jungles</em></p><p>A fragrant bush found in dense jungles and sparse deserts, the Calacaza has pale, veined leaves and branches and often reaches upward toward the canopy. At the end of each branch are clusters of small white flowers or, depending on the season, toxic white berries. Those who ingest the berries must make a DC 17 Constitution saving throw against poison or suffer 32 (8d6) poison damage and be poisoned for [[/roll 1d6]] hours. On a successful save, the target suffers only half damage and is not poisoned. Local tribes avoid the berries except when using them to coat arrowheads and blowgun darts; when applied this way, the toxin adds +2 poison damage to successful attacks made with a blowgun.</p>",
       "chat": "",
       "unidentified": ""
     },

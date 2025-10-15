@@ -40,7 +40,7 @@
   "_id": "mym9110puSRGn2nH",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\\n<p>A thin-trunked tree with white-to-beige bark. Boil the bark into a paste and smear it on the skin to repel insects (Insectoid attackers have disadvantage on initiative rolls); the paste's foul odor reduces the user's Charisma by [[/roll 1d2]]. The effect lasts [[/roll 5d6]] hours.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p><p>A thin-trunked tree with white-to-beige bark. Boil the bark into a paste and smear it on the skin to repel insects (Insectoid attackers have disadvantage on initiative rolls); the paste's foul odor reduces the user's Charisma by [[/roll 1d2]]. The effect lasts [[/roll 5d6]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },

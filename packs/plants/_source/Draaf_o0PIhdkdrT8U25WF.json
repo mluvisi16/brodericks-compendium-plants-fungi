@@ -40,7 +40,7 @@
   "_id": "o0PIhdkdrT8U25WF",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal</em></p>\\n<p>A small coastal herb resembling clover, with green leaves that have the texture of dry, cracked mud. Eating its leaves restores [[/roll 1d4]] hit points if consumed within 10 minutes of taking damage.</p>",
+      "value": "<p><em>Biome: Coastal</em></p><p>A small coastal herb resembling clover, with green leaves that have the texture of dry, cracked mud. Eating its leaves restores [[/roll 1d4]] hit points if consumed within 10 minutes of taking damage.</p>",
       "chat": "",
       "unidentified": ""
     },

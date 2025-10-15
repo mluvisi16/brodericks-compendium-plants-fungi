@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\\n<p>Burdock grows to about 3 feet tall with large leaves and purple flowers. Boiling the root and consuming both root and decoction is said to cure venereal disease; the person is reportedly cured within a week.</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>Burdock grows to about 3 feet tall with large leaves and purple flowers. Boiling the root and consuming both root and decoction is said to cure venereal disease; the person is reportedly cured within a week.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "_id": "p7eF4e8HdxgTYfDE",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal</em></p>\n<p>A deep red shrub that grows close to the ocean. The fronds are vibrant enough to be noticed from long distances. The root must be applied to a bleeding wound or wound that would cause bleed damage, like that of Stirge attacks. When applied within 3 rounds of receiving this wound, the damage is halved.</p>",
+      "value": "<p><em>Biome: Coastal</em></p><p>A deep red shrub that grows close to the ocean. The fronds are vibrant enough to be noticed from long distances. The root must be applied to a bleeding wound or wound that would cause bleed damage, like that of Stirge attacks. When applied within 3 rounds of receiving this wound, the damage is halved.</p>",
       "chat": "",
       "unidentified": ""
     },

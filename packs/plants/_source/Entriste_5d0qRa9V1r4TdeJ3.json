@@ -40,7 +40,7 @@
   "_id": "5d0qRa9V1r4TdeJ3",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\\n<p>A low-hugging ivy whose leaves absorb liquid; crushed and applied, they can draw poison from a wound. One leaf absorbs about a quarter-pint of liquid and causes [[/roll 1d4]] damage when applied, but if used within 5 rounds of poisoning it removes 100% of the poison, ending the effect. It does not work on inhaled poisons.</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p><p>A low-hugging ivy whose leaves absorb liquid; crushed and applied, they can draw poison from a wound. One leaf absorbs about a quarter-pint of liquid and causes [[/roll 1d4]] damage when applied, but if used within 5 rounds of poisoning it removes 100% of the poison, ending the effect. It does not work on inhaled poisons.</p>",
       "chat": "",
       "unidentified": ""
     },

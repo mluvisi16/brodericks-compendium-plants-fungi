@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\\n<p>Dog rose grows to about ten feet tall and bears very sharp thorns. In spring and early summer it produces pale pink flowers that mature into vivid orange seed pods by late summer. These pods should be dried and eaten at a rate of one every three days to prevent scurvy in long voyages. Some ancient cultures believed that placing a dog rose in a coffin would prevent the corpse within from rising as undead.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p><p>Dog rose grows to about ten feet tall and bears very sharp thorns. In spring and early summer it produces pale pink flowers that mature into vivid orange seed pods by late summer. These pods should be dried and eaten at a rate of one every three days to prevent scurvy in long voyages. Some ancient cultures believed that placing a dog rose in a coffin would prevent the corpse within from rising as undead.</p>",
       "chat": "",
       "unidentified": ""
     },

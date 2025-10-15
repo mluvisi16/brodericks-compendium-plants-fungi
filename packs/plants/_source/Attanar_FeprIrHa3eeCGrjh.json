@@ -40,7 +40,7 @@
   "_id": "FeprIrHa3eeCGrjh",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Rivers</em></p>\n<p>Attanar is a dark green moss that grows on riverside rocks and foliage, which when applied to the forehead of a stricken person, will cure fevers. It takes effect [[/roll 2d6]] hours after it is successfully administered.</p>",
+      "value": "<p><em>Biome: Rivers</em></p><p>Attanar is a dark green moss that grows on riverside rocks and foliage, which when applied to the forehead of a stricken person, will cure fevers. It takes effect [[/roll 2d6]] hours after it is successfully administered.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\\n<p>A low, ground-cover leafy green commonly used in salads and sandwiches in spring and summer throughout the realm. Combining fieldcress with a day's rations grants advantage on the Constitution save vs. exhaustion after a forced march the next day.</p>",
+      "value": "<p><em>Biome: Plains</em></p><p>A low, ground-cover leafy green commonly used in salads and sandwiches in spring and summer throughout the realm. Combining fieldcress with a day's rations grants advantage on the Constitution save vs. exhaustion after a forced march the next day.</p>",
       "chat": "",
       "unidentified": ""
     },

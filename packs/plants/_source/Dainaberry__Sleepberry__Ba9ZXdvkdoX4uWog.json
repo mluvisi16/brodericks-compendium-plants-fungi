@@ -40,7 +40,7 @@
   "effects": [],
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\\n<p>The Dainabush is a creeping, thorny vine similar to bramble. The vines are about 5 mm thick with 2 mm thorns, reddish brown darkening to black, and dark green leaves. They flower in early summer with light blue, bell-shaped blooms. In autumn they bear dark blue or purple berries that are fleshy and slightly crunchy. The berries are slightly sweet but induce sleep in mammals: a single berry can put a man-sized or smaller mammal to sleep (half-strength effect on half-mammals). There is no saving throw; the sleep is normal and can be ended by waking the creature. Dried and ground into powder, the berries are weaker (DC 14 Con save vs. poison to avoid) but much longer-lasting; the powder can be added to food or drink and tastes very sweet.</p>",
+      "value": "<p><em>Biome: Forests</em></p><p>The Dainabush is a creeping, thorny vine similar to bramble. The vines are about 5 mm thick with 2 mm thorns, reddish brown darkening to black, and dark green leaves. They flower in early summer with light blue, bell-shaped blooms. In autumn they bear dark blue or purple berries that are fleshy and slightly crunchy. The berries are slightly sweet but induce sleep in mammals: a single berry can put a man-sized or smaller mammal to sleep (half-strength effect on half-mammals). There is no saving throw; the sleep is normal and can be ended by waking the creature. Dried and ground into powder, the berries are weaker (DC 14 Con save vs. poison to avoid) but much longer-lasting; the powder can be added to food or drink and tastes very sweet.</p>",
       "chat": "",
       "unidentified": ""
     },

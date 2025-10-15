@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps</em></p>\\n<p>Resembling corn but much smaller, these plants grow on swamp edges. Blackcorn is difficult to cultivate, contributing to its rarity. Ripened ears bear violet-to-coal-colored kernels. The kernels taste bitter but are prized for distilling Blackcorn whiskey, a plum‑flavored spirit often mixed with fruit juices. A more potent dwarf‑distilled version can fetch up to 75 gold per bottle.</p>",
+      "value": "<p><em>Biome: Swamps</em></p><p>Resembling corn but much smaller, these plants grow on swamp edges. Blackcorn is difficult to cultivate, contributing to its rarity. Ripened ears bear violet-to-coal-colored kernels. The kernels taste bitter but are prized for distilling Blackcorn whiskey, a plum‑flavored spirit often mixed with fruit juices. A more potent dwarf‑distilled version can fetch up to 75 gold per bottle.</p>",
       "chat": "",
       "unidentified": ""
     },

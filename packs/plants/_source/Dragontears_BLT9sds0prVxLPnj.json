@@ -40,7 +40,7 @@
   "_id": "BLT9sds0prVxLPnj",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts</em></p>\\n<p>This rare translucent succulent grows in the low desert. When crushed it exudes a sweet, milky substance with numbing properties. Properly prepared, Dragontears promotes rapid healing and can prevent scarring when applied externally (heals [[/roll 3d8]] hit points on successful external application). Drinking Dragontears can be fatal, as its numbing effects may lead to choking or cardiac failure if used incorrectly.</p>",
+      "value": "<p><em>Biome: Deserts</em></p><p>This rare translucent succulent grows in the low desert. When crushed it exudes a sweet, milky substance with numbing properties. Properly prepared, Dragontears promotes rapid healing and can prevent scarring when applied externally (heals [[/roll 3d8]] hit points on successful external application). Drinking Dragontears can be fatal, as its numbing effects may lead to choking or cardiac failure if used incorrectly.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -40,7 +40,7 @@
   "_id": "EFjmwo2rNcJvFjyE",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps, Underdark &amp; Caves</em></p>\\n<p>A bright yellow mold found in caves and swamps that can create localized vacuums, potentially collapsing air-filled spaces. Creatures within 5 ft of a patch begin to suffocate as breathable air is pulled away; within 10 ft of a patch, open flames may sputter and go out.</p>",
+      "value": "<p><em>Biome: Swamps, Underdark &amp; Caves</em></p><p>A bright yellow mold found in caves and swamps that can create localized vacuums, potentially collapsing air-filled spaces. Creatures within 5 ft of a patch begin to suffocate as breathable air is pulled away; within 10 ft of a patch, open flames may sputter and go out.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -19,7 +19,7 @@
       "flags": {}
     }
   ],
-  "version": "3.0.0",
+  "version": "3.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "13",
@@ -120,6 +120,7 @@
           "color": "#265408",
           "packs": [
             "plants",
+            "plants-pf2e",
             "books"
           ],
           "folders": []
@@ -129,7 +130,8 @@
           "sorting": "a",
           "color": "#265408",
           "packs": [
-            "planttables"
+            "planttables",
+            "planttables-pf2e"
           ],
           "folders": []
         }
@@ -161,7 +163,7 @@
   ],
   "url": "https://github.com/mluvisi16/brodericks-compendium-plants-fungi",
   "manifest": "https://github.com/mluvisi16/brodericks-compendium-plants-fungi/releases/latest/download/module.json",
-  "download": "https://github.com/mluvisi16/brodericks-compendium-plants-fungi/releases/download/v3.0.0/module.zip",
+  "download": "https://github.com/mluvisi16/brodericks-compendium-plants-fungi/releases/download/v3.0.1/module.zip",
   "changelog": "https://github.com/mluvisi16/brodericks-compendium-plants-fungi/releases",
   "readme": "https://github.com/mluvisi16/brodericks-compendium-plants-fungi/blob/master/README.md",
   "flags": {}

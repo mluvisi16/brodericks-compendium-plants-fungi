@@ -40,7 +40,7 @@
   "_id": "UjerrTrjQQbOJz9y",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>A dwarf tree with downy leaves that produces waxy, white-beige nuts about the size of a bear's eye. The nuts taste slightly of sugared walnuts with an earthy note. Eating a nut restores [[/roll 1d4]] hit points, and [[/roll 2d8]] nuts can be harvested from a single plant.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p><p>A dwarf tree with downy leaves that produces waxy, white-beige nuts about the size of a bear's eye. The nuts taste slightly of sugared walnuts with an earthy note. Eating a nut restores [[/roll 1d4]] hit points, and [[/roll 2d8]] nuts can be harvested from a single plant.</p>",
       "chat": "",
       "unidentified": ""
     },

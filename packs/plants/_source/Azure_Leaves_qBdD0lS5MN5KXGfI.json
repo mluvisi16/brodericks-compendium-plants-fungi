@@ -40,7 +40,7 @@
   "_id": "qBdD0lS5MN5KXGfI",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>These tenacious vines grow in the darkest parts of deep forests, winding around tree trunks and branches. While the vines are deep green, the leaves are an unusual blue. Drying and smoking the leaves produces a sense of euphoria and calm that lasts [[/roll 1d4+4]] minutes. Smoking the leaves is often addictive; a DC 10 Wisdom saving throw is required each time to avoid addiction. Withdrawal from Azure Leaves includes heightened paranoia, imposing a -4 penalty to Wisdom and Intelligence saves against fear until the next consumption.</p>",
+      "value": "<p><em>Biome: Forests</em></p><p>These tenacious vines grow in the darkest parts of deep forests, winding around tree trunks and branches. While the vines are deep green, the leaves are an unusual blue. Drying and smoking the leaves produces a sense of euphoria and calm that lasts [[/roll 1d4+4]] minutes. Smoking the leaves is often addictive; a DC 10 Wisdom saving throw is required each time to avoid addiction. Withdrawal from Azure Leaves includes heightened paranoia, imposing a -4 penalty to Wisdom and Intelligence saves against fear until the next consumption.</p>",
       "chat": "",
       "unidentified": ""
     },

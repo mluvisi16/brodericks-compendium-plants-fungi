@@ -40,7 +40,7 @@
   "effects": [],
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Mountains</em></p>\\n<p>A stout stalk, nearly bare of leaves except near the base, Dragon's Breath is covered in fine red hairs that sting; each hair contains a trace of poison. The Red Wizards cultivate small amounts, but most supplies come from the Hill of Lost Souls. The plant is used in teas to treat frostbite and hypothermia; its hairs can also be fermented to potentiate poisons. Contact with the poison forces a DC 13 Con save or suffer 10 (3d6) poison damage and be poisoned for [[/roll 2d6]] minutes (a successful save halves the damage).</p>",
+      "value": "<p><em>Biome: Arctic, Mountains</em></p><p>A stout stalk, nearly bare of leaves except near the base, Dragon's Breath is covered in fine red hairs that sting; each hair contains a trace of poison. The Red Wizards cultivate small amounts, but most supplies come from the Hill of Lost Souls. The plant is used in teas to treat frostbite and hypothermia; its hairs can also be fermented to potentiate poisons. Contact with the poison forces a DC 13 Con save or suffer 10 (3d6) poison damage and be poisoned for [[/roll 2d6]] minutes (a successful save halves the damage).</p>",
       "chat": "",
       "unidentified": ""
     },

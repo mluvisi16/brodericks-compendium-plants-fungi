@@ -57,7 +57,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\\n<p>Elvish Galingale grows to about four feet and bears a triangular stem topped by a tuft of grass-like flowers. The roots are boiled and left to stand for a week; the resulting decoction is drunk. The herb increases the flow of blood, which is useful in cold conditions. However, if someone is bleeding (internally or externally) or has a bleed effect, the herb doubles the rate of blood loss, effectively doubling bleed damage. Its effect lasts [[/roll 1d6+1]] hours.</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p><p>Elvish Galingale grows to about four feet and bears a triangular stem topped by a tuft of grass-like flowers. The roots are boiled and left to stand for a week; the resulting decoction is drunk. The herb increases the flow of blood, which is useful in cold conditions. However, if someone is bleeding (internally or externally) or has a bleed effect, the herb doubles the rate of blood loss, effectively doubling bleed damage. Its effect lasts [[/roll 1d6+1]] hours.</p>",
       "chat": "",
       "unidentified": ""
     },
