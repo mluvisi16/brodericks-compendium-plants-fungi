@@ -1,3 +1,10 @@
+3.1.0
+------
+* DnD - Finished plants beginning with 'G' - 13 plants
+* PF2e - Finished half of the plants beginning with 'A' - 20 plants
+* Cleaned up syntax and sentence flow for plant descriptions
+* Added visual descriptions to the plants missing them
+
 3.0.1
 ------
 * Linebreak issues with some plants
