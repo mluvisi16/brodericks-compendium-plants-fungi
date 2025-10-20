@@ -1,3 +1,7 @@
+3.2.0
+------
+* PF2e - Finished the rest of the plants beginning with 'A' - 21 plants
+
 3.1.0
 ------
 * DnD - Finished plants beginning with 'G' - 13 plants
