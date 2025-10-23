@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/harpys-nest.webp",
   "effects": [],
   "_id": "pl7M8rwucbfTrNqC",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>The mottled trunk of these trees is often seen growing in rocky soil. The upper limbs of the tree curve inward upon the trunk, and become a large tangled mass. Various flying creatures, predominantly harpies, often cultivate the top of the tree, tearing away enough limbs in the center to form a protective nest. From the ground it is difficult to notice any creatures dwelling among the tangles, allowing cunning creatures to dive down and ambush their prey. The massive roots of the tree, while edible, are tough and require several hours of soaking in boiling water. Once prepared properly, the taste is said to be similar to salted potatoes.</p>",
+      "value": "<p><em>Biome: Forests, Jungles</em></p>\n<p>The mottled trunk of these trees is often seen growing in rocky soil. The upper limbs curve inward upon the trunk, forming a large tangled mass. Various flying creatures, predominantly harpies, often cultivate the top of the tree, tearing away limbs in the center to form a protective nest. This tangled mass makes it difficult to notice any creatures dwelling inside from the ground, allowing cunning creatures to dive down and ambush their prey. The massive roots of the tree, while edible, are tough and require several hours of soaking in boiling water. Once prepared properly, their taste is said to be similar to salted potatoes.</p>",
       "chat": "",
       "unidentified": ""
     },

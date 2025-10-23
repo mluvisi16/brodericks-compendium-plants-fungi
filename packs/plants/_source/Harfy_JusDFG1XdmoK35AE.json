@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/reed.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/harfy.webp",
   "effects": [],
   "_id": "JusDFG1XdmoK35AE",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Coastal, Rivers</em></p>\n<p>A small, brown, woody reed with symmetrical pairs of small ivy shaped leaves along the bottom of the reed. The resin of this herb must be applied to a bleeding wound. It will immediately stop any bleeding.</p>",
+      "value": "<p><em>Biome: Coastal, Rivers</em></p>\n<p>A small, brown, woody reed with symmetrical pairs of small ivy-shaped leaves along the bottom of the stalk. The resin of this herb, when applied to a bleeding wound, immediately stops the bleeding.</p>",
       "chat": "",
       "unidentified": ""
     },

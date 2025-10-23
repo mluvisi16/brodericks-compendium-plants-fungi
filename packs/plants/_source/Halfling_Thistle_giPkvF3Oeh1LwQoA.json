@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/shrub.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/halfling-thistle.webp",
   "effects": [],
   "_id": "giPkvF3Oeh1LwQoA",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p>\n<p>Small hardy thistle with a violet flower that grows in all temperature areas, especially highlands. Soaking Halfling Thistle in water overnight under the full moon will create Shinewater, which removes all rust and corrosion from metal objects left to soak in it overnight. One dose de-rusts a medium-sized metal weapon.</p>",
+      "value": "<p><em>Biome: Forests, Mountains, Plains</em></p>\n<p>This small, hardy thistle, with its violet flower, grows in all temperature areas, especially highlands. Soaking Halfling Thistle in water overnight under the full moon creates Shinewater, which removes all rust and corrosion from metal objects left to soak in it overnight. One dose removes rust from a medium-sized metal weapon.</p>",
       "chat": "",
       "unidentified": ""
     },

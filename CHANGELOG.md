@@ -1,3 +1,9 @@
+3.3.0
+------
+* DnD - Finished half of the plants beginning with 'H' - 9 plants
+* PF2e - Finished half of the plants beginning with 'B' - 17 plants
+* Updated biome for PF2e Entries
+
 3.2.0
 ------
 * PF2e - Finished the rest of the plants beginning with 'A' - 21 plants
