@@ -36,11 +36,11 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/harlequins-harp.webp",
   "effects": [],
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Coastal</em></p>\n<p>A multi-colored flower ranging between yellow and purple and everywhere in between with several strands of fiber attached to the petals across the empty space in the center of the flower. A few decades ago, an herbalist found that strumming the fibers would hold a tune, and since then, the flowers have become a common gift for friends and loved ones. Some talented herbalists have learned to breed the Harlequin&rsquo;s Harps in a way that the fibers can be tuned to specific notes for personalized gifts.</p>",
+      "value": "<p><em>Biome: Cities, Coastal</em></p>\n<p>A multi-colored flower, ranging from yellow to purple and all colors in between, with several strands of fiber attached to the petals across the center of the flower. A few decades ago, an herbalist found that strumming the fibers produces a tune. Since then, the flowers have become a common gift for friends and loved ones. Some talented herbalists have learned to breed Harlequin Harps in a way that the fibers can be tuned to specific notes for personalized gifts.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/haella.webp",
   "effects": [],
   "_id": "xzMS6dkCga9j2CIg",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Plains</em></p>\n<p>Growing in clumps, these tall purple flowers are often planted in tranquil gardens and are commonly seen on gently rolling fields. The stalks bear symmetrical pairs of long tapered leaves with purple veins. Farmers dislike the plants because they tend to choke out food crops, such as corn. The flowers emit a subtle and sweet fragrance which not only smells nice, but also is a repellant to certain predatory insects, such as mosquitoes and dragonflies. Those that can afford to pay for it often rub Haella Fragrance on their unprotected skin during warmer months to repel such vermin (-5 to rolls for initiative for Insectoids).</p>",
+      "value": "<p><em>Biome: Cities, Plains</em></p>\n<p>Growing in clumps, these tall purple flowers are often planted in tranquil gardens. The stalks bear symmetrical pairs of long tapered leaves with purple veins. Farmers dislike the plants because they tend to choke out food crops, such as corn. The flowers emit a subtle, sweet fragrance that is also a potent repellant to predatory insects like mosquitoes and dragonflies. Those who can afford it often rub Haella Fragrance on their unprotected skin during warmer months to repel such vermin (-5 to rolls for initiative for Insectoids).</p>",
       "chat": "",
       "unidentified": ""
     },
