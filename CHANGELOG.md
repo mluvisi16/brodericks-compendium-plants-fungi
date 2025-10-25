@@ -1,3 +1,9 @@
+3.5.0
+------
+* PF2e - First half of plants beginning with 'C' - 21 plants
+* Updated automation for saving throws and damage rolls for previously added PF2e plants
+* Removed a few DnD specific mechanics leftover in the same range of plants and added PF2e effects
+
 3.4.0
 ------
 * DnD - Finished the rest of the plants beginning with 'H' - 9 plants
