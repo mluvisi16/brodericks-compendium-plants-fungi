@@ -1,3 +1,8 @@
+3.6.0
+------
+* DnD - Finished all of the plants beginning in 'I' - 8 plants
+* PF2e - Finished all of the plants beginning in 'C' - 21 plants
+
 3.5.0
 ------
 * PF2e - First half of plants beginning with 'C' - 21 plants
