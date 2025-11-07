@@ -1,3 +1,8 @@
+3.7.0
+------
+* DnD - Finished all of the plants beginning in 'J' - 7 plants
+* PF2e - Finished a portion of the plants beginning in 'D'
+
 3.6.0
 ------
 * DnD - Finished all of the plants beginning in 'I' - 8 plants
