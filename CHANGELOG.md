@@ -1,3 +1,7 @@
+3.7.1
+------
+Foundry V11 and V12 bugfix
+
 3.7.0
 ------
 * DnD - Finished all of the plants beginning in 'J' - 7 plants
