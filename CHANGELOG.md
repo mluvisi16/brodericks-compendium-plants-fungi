@@ -1,3 +1,7 @@
+3.8.0
+------
+* PF2e - Finished another group of plants beginning in 'D'
+
 3.7.1
 ------
 Foundry V11 and V12 bugfix
