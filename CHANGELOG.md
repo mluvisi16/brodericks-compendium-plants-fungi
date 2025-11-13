@@ -1,3 +1,7 @@
+3.9.0
+------
+* PF2e - Finished the rest of the plants beginning in 'D'
+
 3.8.0
 ------
 * PF2e - Finished another group of plants beginning in 'D'

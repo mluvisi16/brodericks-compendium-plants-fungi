@@ -1,10 +1,12 @@
 # Broderick's Compendium: Plants and Fungi Across the Realm
 
+![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/total)
 ![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/module.zip?color=2b82fc&label=%20Downloads%20%28all%29&style=for-the-badge)
 ![Latest Release Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/latest/module.zip?label=Downloads%20%28latest%20release%29&style=for-the-badge)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mluvisi16/brodericks-compendium-plants-fungi?label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge) 
 ![Foundry Core Minimal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Fbrodericks-compendium-plants-fungi%2Fmaster%2Fmodule.json&label=Foundry%20Minimal%20Version&query=$.compatibility.minimum&colorB=orange&style=for-the-badge)
 ![Foundry Core Maximal Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Ffoundryvtt-brodericks-compendium%2Fmaster%2Fmodule.json&label=Foundry%20Maximal%20Version&query=$.compatibility.maximum&colorB=orange&style=for-the-badge)
+
 
 A module for FoundryVTT that includes over 600 fantasy plants from Broderick's Compendium: Plants and Fungi Across the Realm (version 2.0)
 (Source: <https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/>).
