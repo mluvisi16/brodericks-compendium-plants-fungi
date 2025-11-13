@@ -160,11 +160,15 @@
     "systems": [
       {
         "id": "dnd5e",
-        "type": "system"
+        "type": "system",
+        "compatibility": {
+        }
       },
       {
         "id": "pf2e",
-        "type": "system"
+        "type": "system",
+        "compatibility": {
+        }
       }
     ]
   },
