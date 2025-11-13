@@ -161,13 +161,17 @@
       {
         "id": "dnd5e",
         "type": "system",
+        "manifest": "https://github.com/foundryvtt/dnd5e/releases/latest/download/system.json",
         "compatibility": {
+          "verified": "5.0.0"
         }
       },
       {
         "id": "pf2e",
         "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
         "compatibility": {
+          "verified": "7.0.0"
         }
       }
     ]
