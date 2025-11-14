@@ -1,4 +1,4 @@
-<h1 align="center">Broderick's Compendium: Plants and Fungi Across the Realm</h1>
+<h1 align="center">Broderick's Compendium of Plants and Fungi</h1>
 
 <p align="center">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fsystem%3FnameType%3Dshort%26style%3Dflat%26url%3Dhttps%3A%2F%2Fgithub.com%2Fmluvisi16%2Fbrodericks-compendium-plants-fungi%2Freleases%2Flatest%2Fdownload%2Fmodule.json"/>
