@@ -1,6 +1,7 @@
 3.9.0
 ------
 * PF2e - Finished the rest of the plants beginning in 'D'
+* Readme changes to better display systems and information about the module
 
 3.8.0
 ------
