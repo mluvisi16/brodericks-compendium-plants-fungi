@@ -1,7 +1,7 @@
 # Broderick's Compendium: Plants and Fungi Across the Realm
 
 
-![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/total?style=for-the-badge)
+![All Releases Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/total?style=for-the-badge&label=%20Downloads%20%28all%29)
 ![All Releases .zip Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/module.zip?color=2b82fc&label=%20Downloads%20%28zip%29&style=for-the-badge)
 ![Latest Release Download Count](https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/latest/total?sort=date&style=for-the-badge&label=Downloads%20Latest)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mluvisi16/brodericks-compendium-plants-fungi?label=Latest%20Release&prefix=v&query=$.version&colorB=red&style=for-the-badge) 
