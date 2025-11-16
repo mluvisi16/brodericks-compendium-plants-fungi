@@ -1,3 +1,9 @@
+3.10.0
+------
+* DnD - Finished all plants beginning in K
+* PF2e - Finished all plants beginning in E
+* Readme clarity adjustments
+
 3.9.0
 ------
 * PF2e - Finished the rest of the plants beginning in 'D'
