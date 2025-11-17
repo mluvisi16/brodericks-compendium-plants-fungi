@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/berries.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/kelventari.webp",
   "effects": [],
   "_id": "reFBAImrQ0aUcOqL",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts</em></p>\n<p>If the crushed Kelventari berries are applied to a burn within one turn of being taken, they will heal [[/roll 1d4]] Quarters of all damage caused by the burn, no matter how much damage was taken (i.e. if 20 points of damage were taken from fire, a roll of 1 would heal for 5 points).</p>",
+      "value": "<p><em>Biome: Deserts</em></p>\n<p>A desert bramble that grows sky blue berries for short periods. If the crushed Kelventari berries are applied to a burn within one turn of being taken, they will heal [[/roll 1d4]] Quarters of all damage caused by the burn, no matter how much damage was taken (i.e. if 20 points of damage were taken from fire, a roll of 1 would heal for 5 points).</p>",
       "chat": "",
       "unidentified": ""
     },

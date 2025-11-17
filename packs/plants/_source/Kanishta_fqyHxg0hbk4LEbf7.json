@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/root.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/kanishta.webp",
   "effects": [],
   "_id": "fqyHxg0hbk4LEbf7",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic</em></p>\n<p>A short plant that grows in tendrils across the ground sprouting broad fluffy leaves, the Kanishta thrives in the cold environment. Growing beneath the ground is a thick, dark-colored root. Although it is extremely bitter tasting, chewing on the root provides temporary relief from the cold weather. Those that chew it express a feeling of warmth passing through their body, and a sense of renewed strength (resistance to cold/frost damage, and +1 to Str. Checks for the next [[/roll 1d6]] hours).</p>",
+      "value": "<p><em>Biome: Arctic</em></p>\n<p>A short plant that grows in tendrils across the ground sprouting broad yellow-white fluffy leaves, the Kanishta thrives in the cold environment. Growing beneath the ground is a thick, dark-colored root. Although it is extremely bitter tasting, chewing on the root provides temporary relief from the cold weather. Those that chew it express a feeling of warmth passing through their body, and a sense of renewed strength (resistance to cold/frost damage, and +1 to Str. Checks for the next [[/roll 1d6]] hours).</p>",
       "chat": "",
       "unidentified": ""
     },

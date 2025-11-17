@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/mushroom.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/korogg.webp",
   "effects": [],
   "_id": "JQgHsNwbt4Mvbcno",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Korogg is a rare underdark fungus that typically grows on the corpses of dead miners and dwarves who aren&rsquo;t properly buried. Black, bulbous bodies with fine black mycelia produce a fungal fruit called Korogg Pods, which can then be reduced to their juice and distilled. This rich liquor is sought after for its taste and smell. When a character imbibes Korogg Liquor, they must make a DC 14 Wisdom Save. The liquor quells freethinking: no person who drinks it need make an Investigation check while under its influence for the duration of a day, as the result will incur a -8 penalty since they can&rsquo;t think of anything their investigation might mean, and the consumer takes a -1d6 penalty to wisdom checks after consumption until the next long rest.</p>",
+      "value": "<p><em>Biome: Underdark & Caves</em></p>\n<p>Korogg is a rare underdark fungus that typically grows on the corpses of dead miners and dwarves who aren&rsquo;t properly buried. Black, bulbous bodies with fine black mycelia produce a bright blue fungal fruit called Korogg Pods, which can then be reduced to their juice and distilled. This rich liquor is sought after for its taste and smell as well as its distinct bright almost fluorescent blue color. When a character imbibes Korogg Liquor, they must make a DC 14 Wisdom Save. The liquor quells freethinking: no person who drinks it need make an Investigation check while under its influence for the duration of a day, as the result will incur a -8 penalty since they can&rsquo;t think of anything their investigation might mean, and the consumer takes a -1d6 penalty to wisdom checks after consumption until the next long rest.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/leaf.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/kathkusa.webp",
   "effects": [],
   "_id": "KRQE8eHYLET9BrA7",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic, Mountains</em></p>\n<p>This plant is found only in the most inhospitable regions. When a leaf of the plant is eaten, it will (if used successfully) raise a person&rsquo;s strength +2 for [[/roll 1d10]] rounds. However, if the nature check is failed by more than three, the plant was prepared incorrectly, and the person will collapse into unconsciousness for one hour.</p>",
+      "value": "<p><em>Biome: Arctic, Mountains</em></p>\n<p>A short arctic plant with orange/yellow leaves. This plant is found only in the most inhospitable regions. When a leaf of the plant is eaten, it will (if used successfully) raise a person&rsquo;s strength +2 for [[/roll 1d10]] rounds. However, if the nature check is failed by more than three, the plant was prepared incorrectly, and the person will collapse into unconsciousness for one hour.</p>",
       "chat": "",
       "unidentified": ""
     },

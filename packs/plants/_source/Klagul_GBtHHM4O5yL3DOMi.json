@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/klagul.webp",
   "effects": [],
   "_id": "GBtHHM4O5yL3DOMi",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Arctic</em></p>\n<p>Resembling a small tree, growing no more than 2 feet tall, the springtime buds of this plant must be boiled for a day and then eaten. After boiling they will keep for six weeks. When eaten, they will if successful give the recipient truesight for six hours.</p>",
+      "value": "<p><em>Biome: Arctic</em></p>\n<p>Resembling a small tree, growing no more than 2 feet tall, the small yellow fuzzy springtime buds of this plant must be boiled for a day and then eaten. After boiling they will keep for six weeks. When eaten, they will if successful give the recipient truesight for six hours.</p>",
       "chat": "",
       "unidentified": ""
     },

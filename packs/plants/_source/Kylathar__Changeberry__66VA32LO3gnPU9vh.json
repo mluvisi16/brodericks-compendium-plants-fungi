@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/berries.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/kylathar.webp",
   "effects": [],
   "_id": "66VA32LO3gnPU9vh",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>Anyone who eats the yellow, soft, plum sized fruits instantly has two random stats exchanged; Strength with Constitution, Wisdom with Dexterity; anything is possible (the DM should determine which statistics are exchanged). There is no saving throw, and no cure (DM&rsquo;s discretion). Eating more of the berries will simply cause more stats to be randomly exchanged. Short of magical storage, the fruits will spoil and rot within 2 days after plucking. The bush itself grows about 2 meters high, with long, dusty green leaves, which are slightly sawed. The flowers grow in groups of 4 to 8, and are yellowish white with orange edges. The flowers grow in late spring, the fruits are ripe in autumn.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\n<p>A tree with light brown bark and light pastel green leaves, it grows fruit during the summer months. Anyone who eats the yellow, soft, plum sized fruits instantly has two random stats exchanged; Strength with Constitution, Wisdom with Dexterity; anything is possible (the DM should determine which statistics are exchanged). There is no saving throw, and no cure (DM&rsquo;s discretion). Eating more of the berries will simply cause more stats to be randomly exchanged. Short of magical storage, the fruits will spoil and rot within 2 days after plucking. The bush itself grows about 2 meters high, with long, dusty green leaves, which are slightly sawed. The flowers grow in groups of 4 to 8, and are yellowish white with orange edges. The flowers grow in late spring, the fruits are ripe in autumn.</p>",
       "chat": "",
       "unidentified": ""
     },
