@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fsystem%3FnameType%3Dshort%26style%3Dflat%26url%3Dhttps%3A%2F%2Fgithub.com%2Fmluvisi16%2Fbrodericks-compendium-plants-fungi%2Freleases%2Flatest%2Fdownload%2Fmodule.json"/>
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Fbrodericks-compendium-plants-fungi%2Fmaster%2Fmodule.json&label=Foundry%20Minimal%20Version&query=$.compatibility.minimum&colorB=orange&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Ffoundryvtt-brodericks-compendium%2Fmaster%2Fmodule.json&label=Foundry%20Maximal%20Version&query=$.compatibility.maximum&colorB=orange&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Fbrodericks-compendium-plants-fungi%2Fmaster%2Fmodule.json&label=Foundry%20Min%20Version&query=$.compatibility.minimum&colorB=orange&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmluvisi16%2Ffoundryvtt-brodericks-compendium%2Fmaster%2Fmodule.json&label=Foundry%20Max%20Version&query=$.compatibility.maximum&colorB=orange&style=for-the-badge"/>
 <br/>
 <br/>
 <img src="https://img.shields.io/github/downloads/mluvisi16/brodericks-compendium-plants-fungi/total?style=for-the-badge&label=%20Downloads%20%28all%29"/>
@@ -82,5 +82,5 @@ am fortunate enough to not need to go that route. If you want to show support fe
 [Malaria Consortium](https://www.malariaconsortium.org/donate-to-malaria-consortium)
 [Doctors without Borders](https://give.doctorswithoutborders.org/)
 
-Feel free to visit my repo or message me on discord "vitamorte" to report issues or create suggestions for future content or plant updates.
+Feel free to open an issue or discussion post in my repo or message me on discord "vitamorte" to report issues or make suggestions for future content or plant updates.
 Enjoy your wilderness foraging!
