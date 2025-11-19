@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/tree.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/lish.webp",
   "effects": [],
   "_id": "YPJS4ykvrZcZy52K",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>Small tree, which grows dozens of small nuts in the spring in temperate forests. A handful of the nuts sustains a medium creature for a day. Eating a Lish Nut as a full-round action provides limited protection from vermin of size medium or smaller, which must succeed a DC 11 Constitution save or become violently ill for [[/roll 2d4]] rounds due to the odor of the Lish Nut coming from the consumer&rsquo;s skin. The affected creatures have disadvantage on all checks, saves, and rolls to hit while in the presence of someone who has recently eaten a Lish Nut, and an additional -3 to rolls that would directly impact the consumer.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\n<p>A small tree, around the height of a tall halfling, that resides in temperate forests. It grows dozens of small nuts along with sparse light olive green leaves in the spring. A handful of the nuts sustains a medium creature for a day. Eating a Lish Nut as a full-round action provides limited protection from vermin of size medium or smaller, which must succeed a DC 11 Constitution save or become violently ill for [[/roll 2d4]] rounds due to the odor of the Lish Nut coming from the consumer&rsquo;s skin. The affected creatures have disadvantage on all checks, saves, and rolls to hit while in the presence of someone who has recently eaten a Lish Nut, and an additional -3 to rolls that would directly impact the consumer.</p>",
       "chat": "",
       "unidentified": ""
     },
