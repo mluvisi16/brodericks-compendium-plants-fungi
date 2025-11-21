@@ -1,3 +1,8 @@
+3.12.0
+------
+* DnD - Finished the plants beginning in L
+* PF2e - Finished the plants beginning in F
+
 3.11.0
 ------
 * DnD - Finished half the plants beginning in L
