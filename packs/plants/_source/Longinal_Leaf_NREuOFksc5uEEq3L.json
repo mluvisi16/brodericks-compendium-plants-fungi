@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/images/longinal-leaf.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/icons/pipeweed.svg",
   "effects": [],
   "_id": "NREuOFksc5uEEq3L",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Forests</em></p>\n<p>A well-known variety of pipeweed that looks like an offshoot of bamboo with long leaves that dry excellently. It is associated with improved memory recall and grown regularly in cities for consumption. When smoked for at least five minutes, the creature gains a +1 bonus to History checks for 1 hour. This herb has no effect when used again on the same creature until the creature completes a short rest.</p>",
+      "value": "<p><em>Biome: Cities</em></p>\n<p>A well-known variety of pipeweed with long serrated leaves that dry excellently and is associated with improved memory recall. When smoked for at least five minutes, the creature gains a +1 bonus to History checks for 1 hour. This herb has no effect when used again on the same creature until the creature completes a short rest.</p>",
       "chat": "",
       "unidentified": ""
     },
