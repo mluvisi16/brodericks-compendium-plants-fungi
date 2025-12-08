@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/shoot.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/masthin.webp",
   "effects": [],
   "_id": "Rg3vrGps5Nqzd44k",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>Plant native to Q'barra jungle that produces natural intoxicants when young that attract wild animals. If its shoots are used as a component for any enchantment spell targeting animals or magical beasts, they have a 40% chance of doubling spell duration.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>A weed looking plant with many shoots native to Q'barra jungle that produces natural intoxicants when young that attract wild animals. If its shoots are used as a component for any enchantment spell targeting animals or magical beasts, they have a 40% chance of doubling spell duration.</p>",
       "chat": "",
       "unidentified": ""
     },
