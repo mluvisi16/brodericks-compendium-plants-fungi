@@ -40,7 +40,7 @@
   "_id": "yrbLaOEj9y0WLpLU",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>This woody herb's bark can be stripped and chewed as a gum. For [[/roll 1d4]] hours, eyesight is incredibly enhanced, doubling ranged attack range and granting a +2 bonus to attack rolls for ranged attacks.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\n<p>This woody herb&rsquo;s bark can be stripped and chewed as a gum. For [[/roll 1d4]] hours, eyesight is incredibly enhanced, doubling ranged attack range and granting a +2 bonus to attack rolls for ranged attacks.</p>",
       "chat": "",
       "unidentified": ""
     },
