@@ -1,3 +1,9 @@
+3.14.0
+------
+* DnD - Finished the plants beginning in M
+* PF2e - Finished the plants beginning in G
+* Fixed bug with some DnD L plants
+
 3.13.0
 ------
 * DnD - Finished half the plants beginning in M

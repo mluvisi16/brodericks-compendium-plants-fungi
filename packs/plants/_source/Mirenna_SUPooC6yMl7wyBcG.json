@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/berries.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/mirenna.webp",
   "effects": [],
   "_id": "SUPooC6yMl7wyBcG",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests</em></p>\n<p>The berries of Mirenna will heal [[/roll 1d4-1]] hit points when eaten. A typical bush will yield [[/roll 3d10]] berries.</p>",
+      "value": "<p><em>Biome: Forests</em></p>\n<p>A small bush growing in forest environments that grows berries that are similar in appearance to cherries. The berries of Mirenna will heal [[/roll 1d4-1]] hit points when eaten. A typical bush will yield [[/roll 3d10]] berries.</p>",
       "chat": "",
       "unidentified": ""
     },

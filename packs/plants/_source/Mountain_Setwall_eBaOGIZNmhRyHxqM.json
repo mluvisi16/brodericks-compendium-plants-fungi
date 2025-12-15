@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/herbs.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/mountain-setwall.webp",
   "effects": [],
   "_id": "eBaOGIZNmhRyHxqM",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Mountains</em></p>\n<p>Handling or ingesting this herb causes hair to grow on a character&rsquo;s eyelids and palms, which, although not causing any incredibly detrimental effects, looks and feels awful.</p>",
+      "value": "<p><em>Biome: Mountains</em></p>\n<p>A bright green spriggy herb growing in the nooks of mountainous outcroppings. Handling or ingesting this herb causes hair to grow on a character&rsquo;s eyelids and palms, which, although not causing any incredibly detrimental effects, looks and feels awful.</p>",
       "chat": "",
       "unidentified": ""
     },

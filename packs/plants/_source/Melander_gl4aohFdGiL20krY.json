@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/lichen-moss.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/melander.webp",
   "effects": [],
   "_id": "gl4aohFdGiL20krY",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles, Rivers</em></p>\n<p>Melander is a moss that must be brewed in clear water. The resultant distillation must then be drunk. Tasting slightly of ale, it will then add +1 to all Constitution saving throws vs disease for a period of [[/roll 1d10]] days.</p>",
+      "value": "<p><em>Biome: Jungles, Rivers</em></p>\n<p>Melander is a rich green moss that turns orange around the surfaces most exposed to sunlight. It must be brewed in clear water. The resultant distillation must then be drunk. Tasting slightly of ale, it will then add +1 to all Constitution saving throws vs disease for a period of [[/roll 1d10]] days.</p>",
       "chat": "",
       "unidentified": ""
     },
