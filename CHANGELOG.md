@@ -1,3 +1,8 @@
+3.15.0
+------
+* DnD - Finished the plats beginning in N
+* PF2e - Finished half of the plants beginning in H
+
 3.14.0
 ------
 * DnD - Finished the plants beginning in M

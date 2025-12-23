@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/seeds.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/navew.webp",
   "effects": [],
   "_id": "PahM83foFSy4pvQB",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Cities, Plains</em></p>\n<p>The seeds of Navew dropped in a drink or on to food before it is eaten acts as counteragent to ingested poisons. It prevents the death of a person poisoned in that meal, though they may still be very ill.</p>",
+      "value": "<p><em>Biome: Cities, Plains</em></p>\n<p>A small plains plant looking like some common weeds, it grows white conical bunches of seeds. The seeds of Navew dropped in a drink or on to food before it is eaten acts as counteragent to ingested poisons. It prevents the death of a person poisoned in that meal, though they may still be very ill.</p>",
       "chat": "",
       "unidentified": ""
     },
