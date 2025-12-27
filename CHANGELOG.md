@@ -1,7 +1,7 @@
 3.16.0
 ------
 * DnD - Finished the plants beginning in O
-* PF2e - Finished the planes beginning in H
+* PF2e - Finished the plants beginning in H
 * fixed some typos
 
 3.15.0
