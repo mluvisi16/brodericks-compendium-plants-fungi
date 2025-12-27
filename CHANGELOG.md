@@ -1,6 +1,12 @@
+3.16.0
+------
+* DnD - Finished the plants beginning in O
+* PF2e - Finished the planes beginning in H
+* fixed some typos
+
 3.15.0
 ------
-* DnD - Finished the plats beginning in N
+* DnD - Finished the plants beginning in N
 * PF2e - Finished half of the plants beginning in H
 
 3.14.0
