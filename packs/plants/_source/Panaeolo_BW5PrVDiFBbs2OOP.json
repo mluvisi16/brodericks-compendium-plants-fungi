@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/herbs.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/panaeolo.webp",
   "effects": [],
   "_id": "BW5PrVDiFBbs2OOP",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Rivers</em></p>\n<p>Magical herb whose leaves tastes like leather and function as an ingested drug with no initial effect. Secondary effect after [[/roll 1d4]] hours is to increase all arcane spell save DCs by 2 for [[/roll 1d4]] hours and [[/roll 1d8]] psychic damage. A second dose within an hour of the first improves the effect to a +3 to save DCs and deals [[/roll 2d8]] psychic damage. Further doses only cause more and increasing psychic damage.</p>",
+      "value": "<p><em>Biome: Rivers</em></p>\n<p>A greenish brown leathery textured river herb. It is magical with leaves that taste like leather and function as an ingested drug with no initial effect. Secondary effect after [[/roll 1d4]] hours is to increase all arcane spell save DCs by 2 for [[/roll 1d4]] hours and [[/roll 1d8]] psychic damage. A second dose within an hour of the first improves the effect to a +3 to save DCs and deals [[/roll 2d8]] psychic damage. Further doses only cause more and increasing psychic damage.</p>",
       "chat": "",
       "unidentified": ""
     },

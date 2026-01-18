@@ -1,3 +1,8 @@
+3.17.0
+------
+* DnD - Finished the plants beginning in P
+* PF2e - Finished the plants beginning in I
+
 3.16.0
 ------
 * DnD - Finished the plants beginning in O

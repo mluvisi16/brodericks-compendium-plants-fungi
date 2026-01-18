@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/herbs.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/palma-eldath.webp",
   "effects": [],
   "_id": "gN77ZmwSihSNMB0H",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains, Rivers</em></p>\n<p>This herb keeps a person warm for one night or one day, and prevents them suffering from exposure. This can mean the difference between life and death.</p>",
+      "value": "<p><em>Biome: Plains, Rivers</em></p>\n<p>A small riverside herb that has large fuzzy leaves despite its small size. This herb keeps a person warm for one night or one day, and prevents them suffering from exposure. This can mean the difference between life and death.</p>",
       "chat": "",
       "unidentified": ""
     },
