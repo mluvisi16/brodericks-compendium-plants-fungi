@@ -1,7 +1,6 @@
-3.19.0
+3.18.1
 ------
-* DnD - Finished half of the plants beginning in R
-* PF2e - Finished the plants beginning in K
+* Fixes module.json bug
 
 3.18.0
 ------
