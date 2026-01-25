@@ -1,3 +1,7 @@
+3.18.1
+------
+* Fixes module.json bug
+
 3.18.0
 ------
 * DnD - Finished the plants beginning in Q
