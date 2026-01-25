@@ -1,3 +1,8 @@
+3.19.0
+------
+* DnD - Finished half of the R plants
+* PF2e - Finished the K plants
+
 3.18.1
 ------
 * Fixes module.json bug
