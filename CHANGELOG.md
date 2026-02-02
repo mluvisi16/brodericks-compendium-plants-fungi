@@ -1,3 +1,7 @@
+3.19.0
+------
+* PF2e - Finished half of the K plants
+
 3.18.1
 ------
 * Fixes module.json bug
