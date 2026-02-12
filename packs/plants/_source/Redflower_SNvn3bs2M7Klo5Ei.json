@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/redflower.webp",
   "effects": [],
   "_id": "SNvn3bs2M7Klo5Ei",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Swamps</em></p>\n<p>Tiny red-bog flower that can be made into a crushed leaf drug, no initial effect, secondary effect for 10 minutes that grants the ability to use an action to gain +4 on the roll to attack a single creature. Overdose if second dose taken during duration causes [[/roll 1d4]] x 10 minutes nauseated.</p>",
+      "value": "<p><em>Biome: Swamps</em></p>\n<p>Tiny red-bog flower that can be made into a crushed leaf drug, no initial effect, secondary effect for 10 minutes that grants the ability to use an action to gain +4 on the roll to attack a single creature. Creature experiences an overdose if a second dose taken during duration. It causes [[/roll 1d4]] x 10 minutes nauseated.</p>",
       "chat": "",
       "unidentified": ""
     },

@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/vines.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/reath.webp",
   "effects": [],
   "_id": "ErE6351Siv5IUfZa",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>Parasitic vine that grows on many types of jungle tree, whose leaves when used as a component for a plant or plant-creature targeting spell has a 50% chance of increasing the DC by 2.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>Parasitic vine that grows on many types of jungle trees, whose leaves when used as a component for a plant or plant-creature targeting spell has a 50% chance of increasing the DC by 2.</p>",
       "chat": "",
       "unidentified": ""
     },

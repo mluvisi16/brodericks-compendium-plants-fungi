@@ -1,3 +1,8 @@
+3.20.0
+------
+* DnD - Finished half of the plants beginning in R
+* PF2e - Finished the K plants
+
 3.19.0
 ------
 * PF2e - Finished half of the K plants
