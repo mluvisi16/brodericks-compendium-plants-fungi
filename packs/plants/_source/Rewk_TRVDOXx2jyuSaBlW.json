@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/wood-stick.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/rewk.webp",
   "effects": [],
   "_id": "TRVDOXx2jyuSaBlW",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>The nodules of the stem of Rewk must be brewed in clear water for one whole day before drinking. It will then cure [[/roll 1d8]] points of damage.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\n<p>A plains growing plant that looks vaguely like a miniature tree. It has many spherical nodules along its stem. The nodules must be brewed in clear water for one whole day before drinking. It will then cure [[/roll 1d8]] points of damage.</p>",
       "chat": "",
       "unidentified": ""
     },
