@@ -1,3 +1,8 @@
+3.22.0
+------
+* DnD - Finished the first quarter of the plants beginning in S
+* PF2e - Finished the plants beginning in L
+
 3.21.0
 ------
 * DnD - Finished the plants beginning in R
@@ -6,11 +11,11 @@
 3.20.0
 ------
 * DnD - Finished half of the plants beginning in R
-* PF2e - Finished the K plants
+* PF2e - Finished the plants beginning in K
 
 3.19.0
 ------
-* PF2e - Finished half of the K plants
+* PF2e - Finished half of the plants beginning in K
 
 3.18.1
 ------
