@@ -1,6 +1,6 @@
 3.22.0
 ------
-* DnD - Finished the first quarter of the plants beginning in S
+* DnD - Added images for A plants on roll tables
 * PF2e - Finished the plants beginning in L
 
 3.21.0
