@@ -47,9 +47,9 @@ A module for FoundryVTT that includes over 600 fantasy plants from Broderick's C
 
 ## What's to come?
 
-- Add images for plants that lack them
-- Add PF2E Support
-- Add in game uses for some of the plants lacking a distinct usecase in game
+- Finish adding images for plants that lack them
+- Finish PF2E Support
+- Create in game uses for some of the plants lacking a distinct usecase in game
 - Update visual description of some plants that have a use, but no description
 - Automate the foraging/crafting likely through integration with the suggested use section modules
 
@@ -78,6 +78,7 @@ This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github
 
 Since someone reached out regarding this, I didn't start working on this module for financial gain and
 am fortunate enough to not need to go that route. If you want to show support feel free to do so at one of the links below.
+
 [UNICEF USA](https://www.unicefusa.org/?form=donate)
 [Malaria Consortium](https://www.malariaconsortium.org/donate-to-malaria-consortium)
 [Doctors without Borders](https://give.doctorswithoutborders.org/)
