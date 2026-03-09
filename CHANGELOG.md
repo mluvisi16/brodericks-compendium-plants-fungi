@@ -1,3 +1,8 @@
+3.24.0
+------
+* DnD - Finished another quarter of the plants beginning in S
+* PF2e - Finished another quarter of the plants beginning in M
+
 3.23.0
 ------
 * DnD - Finished the first quarter of the plants beginning in S
