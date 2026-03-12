@@ -1,14 +1,14 @@
-2026/03/10-22:18:41.330797 16ef73000 Recovering log #596
-2026/03/10-22:18:41.331697 16ef73000 Delete type=3 #595
-2026/03/10-22:18:41.331731 16ef73000 Delete type=0 #596
-2026/03/10-22:18:41.335951 16f80b000 Level-0 table #600: started
-2026/03/10-22:18:41.339070 16f80b000 Level-0 table #600: 641608 bytes OK
-2026/03/10-22:18:41.339154 16f80b000 Delete type=0 #598
-2026/03/10-22:18:41.339233 16f80b000 Manual compaction at level-0 from '!items!001jIixEEGZbCpQk' @ 72057594037927935 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at '!items!zwoXrccDOeiXDOJ1' @ 38865 : 1
-2026/03/10-22:18:41.339238 16f80b000 Compacting 1@0 + 1@1 files
-2026/03/10-22:18:41.342767 16f80b000 Generated table #601@0: 639 keys, 641608 bytes
-2026/03/10-22:18:41.342771 16f80b000 Compacted 1@0 + 1@1 files => 641608 bytes
-2026/03/10-22:18:41.342813 16f80b000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/10-22:18:41.342856 16f80b000 Delete type=2 #600
-2026/03/10-22:18:41.342920 16f80b000 Delete type=2 #594
-2026/03/10-22:18:41.342988 16f80b000 Manual compaction at level-0 from '!items!zwoXrccDOeiXDOJ1' @ 38865 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at (end)
+2026/03/11-23:01:19.952673 17319f000 Recovering log #603
+2026/03/11-23:01:19.953510 17319f000 Delete type=0 #603
+2026/03/11-23:01:19.953539 17319f000 Delete type=3 #602
+2026/03/11-23:01:19.958841 173a37000 Level-0 table #607: started
+2026/03/11-23:01:19.961964 173a37000 Level-0 table #607: 641642 bytes OK
+2026/03/11-23:01:19.962045 173a37000 Delete type=0 #605
+2026/03/11-23:01:19.962137 173a37000 Manual compaction at level-0 from '!items!001jIixEEGZbCpQk' @ 72057594037927935 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at '!items!zwoXrccDOeiXDOJ1' @ 39504 : 1
+2026/03/11-23:01:19.962145 173a37000 Compacting 1@0 + 1@1 files
+2026/03/11-23:01:19.965651 173a37000 Generated table #608@0: 639 keys, 641642 bytes
+2026/03/11-23:01:19.965659 173a37000 Compacted 1@0 + 1@1 files => 641642 bytes
+2026/03/11-23:01:19.965704 173a37000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/11-23:01:19.965734 173a37000 Delete type=2 #607
+2026/03/11-23:01:19.965785 173a37000 Delete type=2 #601
+2026/03/11-23:01:19.966438 173a37000 Manual compaction at level-0 from '!items!zwoXrccDOeiXDOJ1' @ 39504 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at (end)
