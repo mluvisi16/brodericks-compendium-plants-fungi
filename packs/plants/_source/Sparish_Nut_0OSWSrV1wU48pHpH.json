@@ -40,7 +40,7 @@
   "_id": "0OSWSrV1wU48pHpH",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles</em></p>\n<p>This herb is a powerful aphrodisiac. If successfully administered the DM/PC should act accordingly, but if a method of using dice to simulate its effect is wanted, anyone who attempts to seduce the recipient should have a bonus of +5 to their Persuasion checks for a period of [[/roll 2d10]] minutes.</p>",
+      "value": "<p><em>Biome: Jungles</em></p>\n<p>A oblong crescent shaped nut harvested from a thin and twiggy jungle tree. Grinding up this hard nut into a power creates a powerful aphrodisiac. If successfully administered the DM/PC should act accordingly, but if a method of using dice to simulate its effect is wanted, anyone who attempts to seduce the recipient should have a bonus of +5 to their Persuasion checks for a period of [[/roll 2d10]] minutes.</p>",
       "chat": "",
       "unidentified": ""
     },
