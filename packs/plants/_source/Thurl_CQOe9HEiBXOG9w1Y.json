@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/garlic.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/thurl.webp",
   "effects": [],
   "_id": "CQOe9HEiBXOG9w1Y",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Deserts, Mountains</em></p>\n<p>The clove of Thurl must be brewed for one whole day. When the mixture is drunk it will restore 1 hit point and grant the user 5 hit points worth of resistance toward fire and cold damage.</p>",
+      "value": "<p><em>Biome: Deserts, Mountains</em></p>\n<p>A small plant that thrives in dry rocky regions, it produces a small vegetable similar to garlic with multiple cloves per growth. The clove of Thurl must be brewed for one whole day. When the mixture is drunk it will restore 1 hit point and grant the user 5 hit points worth of resistance toward fire and cold damage.</p>",
       "chat": "",
       "unidentified": ""
     },

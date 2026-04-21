@@ -1,3 +1,8 @@
+3.28.0
+------
+* DnD - Finished another third of the plants beginning in T
+* PF2e - Finished the plants beginning in N
+
 3.27.0
 ------
 * DnD - Finished a third of the plants beginning in T
