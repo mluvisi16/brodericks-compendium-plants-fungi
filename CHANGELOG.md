@@ -1,8 +1,12 @@
+
+
 3.29.0
 ------
 * DnD - Finished the plants beginning in T
 * PF2e - Finished the plants beginning in O
-* 
+* Several bugfixes across plants with image pathing issues
+* Typos fixed
+
 3.28.0
 ------
 * DnD - Finished another third of the plants beginning in T
