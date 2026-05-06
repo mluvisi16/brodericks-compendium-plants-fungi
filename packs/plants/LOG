@@ -1,14 +1,17 @@
-2026/05/05-19:39:45.049615 1730cf000 Recovering log #761
-2026/05/05-19:39:45.050524 1730cf000 Delete type=0 #761
-2026/05/05-19:39:45.050565 1730cf000 Delete type=3 #760
-2026/05/05-19:39:45.055700 173967000 Level-0 table #765: started
-2026/05/05-19:39:45.058423 173967000 Level-0 table #765: 641813 bytes OK
-2026/05/05-19:39:45.058495 173967000 Delete type=0 #763
-2026/05/05-19:39:45.058565 173967000 Manual compaction at level-0 from '!items!001jIixEEGZbCpQk' @ 72057594037927935 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at '!items!zwoXrccDOeiXDOJ1' @ 53562 : 1
-2026/05/05-19:39:45.058572 173967000 Compacting 1@0 + 1@1 files
-2026/05/05-19:39:45.062741 173967000 Generated table #766@0: 639 keys, 641813 bytes
-2026/05/05-19:39:45.062746 173967000 Compacted 1@0 + 1@1 files => 641813 bytes
-2026/05/05-19:39:45.062783 173967000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/05/05-19:39:45.062811 173967000 Delete type=2 #765
-2026/05/05-19:39:45.062860 173967000 Delete type=2 #757
-2026/05/05-19:39:45.063012 173967000 Manual compaction at level-0 from '!items!zwoXrccDOeiXDOJ1' @ 53562 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at (end)
+2026/05/05-19:51:59.838964 16f9af000 Recovering log #772
+2026/05/05-19:51:59.840498 16f9af000 Level-0 table #774: started
+2026/05/05-19:51:59.840919 16f9af000 Level-0 table #774: 9880 bytes OK
+2026/05/05-19:51:59.841619 16f9af000 Delete type=0 #772
+2026/05/05-19:51:59.841721 16f9af000 Delete type=3 #771
+2026/05/05-19:51:59.858241 170247000 Level-0 table #777: started
+2026/05/05-19:51:59.863771 170247000 Level-0 table #777: 641762 bytes OK
+2026/05/05-19:51:59.863913 170247000 Delete type=0 #775
+2026/05/05-19:51:59.864073 170247000 Manual compaction at level-0 from '!items!001jIixEEGZbCpQk' @ 72057594037927935 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at '!items!wcOit03E1OCAsUIR' @ 53851 : 1
+2026/05/05-19:51:59.864079 170247000 Compacting 2@0 + 1@1 files
+2026/05/05-19:51:59.876489 170247000 Generated table #778@0: 639 keys, 641762 bytes
+2026/05/05-19:51:59.876500 170247000 Compacted 2@0 + 1@1 files => 641762 bytes
+2026/05/05-19:51:59.876548 170247000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/05-19:51:59.876592 170247000 Delete type=2 #766
+2026/05/05-19:51:59.876958 170247000 Delete type=2 #774
+2026/05/05-19:51:59.877010 170247000 Delete type=2 #777
+2026/05/05-19:51:59.877065 170247000 Manual compaction at level-0 from '!items!wcOit03E1OCAsUIR' @ 53851 : 1 .. '!items!zwoXrccDOeiXDOJ1' @ 0 : 0; will stop at (end)
