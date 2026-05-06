@@ -1,7 +1,7 @@
 {
   "name": "Periwinkle",
   "type": "consumable",
-  "img": "assets/periwinkle.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/images/periwinkle.webp",
   "effects": [],
   "folder": null,
   "flags": {
