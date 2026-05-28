@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/shrub.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/ur.webp",
   "effects": [],
   "_id": "c6k3tqHEdrwVh7Dt",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Plains</em></p>\n<p>The leafy, verdant Ur can be used as a substitute for one day&rsquo;s food. It cannot be used for more than three days or a character will begin to suffer -2 to all statistics. When any statistic is less than 3 the character become comatose, when any statistic reaches 0 they die. A character will regain 1 statistic point per day with food and medical care, but will remain incapacitated until all statistics reach normal levels.</p>",
+      "value": "<p><em>Biome: Plains</em></p>\n<p>The leafy, verdant Ur can be used as a substitute for one day&rsquo;s food. It provides substantial nourishment from the plump succulent-like leaves, but cannot sustain a humanoid sized creature indefinitely. It cannot be used for more than three days or a character will begin to suffer -2 to all statistics. When any statistic is less than 3 the character become comatose, when any statistic reaches 0 they die. A character will regain 1 statistic point per day with food and medical care, but will remain incapacitated until all statistics reach normal levels.</p>",
       "chat": "",
       "unidentified": ""
     },
