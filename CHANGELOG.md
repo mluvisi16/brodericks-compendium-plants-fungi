@@ -1,3 +1,8 @@
+3.31.0
+------
+* DnD - Finished the plants beginning in V
+* PF2e - Finished the plants beginning in Q
+
 3.30.0
 ------
 * DnD - Finished the plants beginning in U
