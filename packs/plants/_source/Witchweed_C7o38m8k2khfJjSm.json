@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/shrub.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/witchweed.webp",
   "effects": [],
   "_id": "C7o38m8k2khfJjSm",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Jungles, Plains</em></p>\n<p>A plant whose leaves and stalks can be refined into a paste, which is then rolled into a smoke-stick of sorts that creates 10 ft cube of light smoke (no concealment) that forces casters to make a concentration check as if casting defensively or lose focus on the spell due to bouts of uncontrollable sneezing. The smoke is effective for 30 seconds.</p>",
+      "value": "<p><em>Biome: Jungles, Plains</em></p>\n<p>A plant with turquoise leaves that have dark blue veins and a wispy stalk. Its leaves and stalks can be refined into a paste, which is then rolled into a smoke-stick of sorts that creates 10 ft cube of light smoke (no concealment) that forces casters to make a concentration check as if casting defensively or lose focus on the spell due to bouts of uncontrollable sneezing. The smoke is effective for 30 seconds.</p>",
       "chat": "",
       "unidentified": ""
     },
