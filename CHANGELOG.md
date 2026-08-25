@@ -1,7 +1,7 @@
 3.34.0
 ------
 * DnD - Finished the plants beginning in X, Y, and Z
-* PF2e - Finished the plants beginning in S
+* PF2e - Finished a third of the plants beginning in S
 
 3.33.0
 ------
