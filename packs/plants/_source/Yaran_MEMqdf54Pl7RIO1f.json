@@ -35,12 +35,12 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/icons/flower.svg",
+  "img": "modules/brodericks-compendium-plants-fungi/images/yaran.webp",
   "effects": [],
   "_id": "MEMqdf54Pl7RIO1f",
   "system": {
     "description": {
-      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>The pollen of this flower must be inhaled. A successful roll means that a person&rsquo;s sense of smell and of taste are doubled for one hour (advantage on perception checks for this period of time). The herb must still be growing or have been cut in the last 10 minutes.</p>",
+      "value": "<p><em>Biome: Forests, Plains</em></p>\n<p>A small herb that grows a singular green flower. The pollen of this flower must be inhaled. A successful roll means that a person&rsquo;s sense of smell and of taste are doubled for one hour (advantage on perception checks for this period of time). The herb must still be growing or have been cut in the last 10 minutes.</p>",
       "chat": "",
       "unidentified": ""
     },
