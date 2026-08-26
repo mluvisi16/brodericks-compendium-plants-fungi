@@ -1,6 +1,7 @@
 3.35.0
 ------
-* DnD - Began automation and adding use cases
+* DnD - Began adding automation
+    * Arctic Plants Table adjusted to modern formatting
 * PF2e - Continued the plants beginning in S
 
 3.34.0
