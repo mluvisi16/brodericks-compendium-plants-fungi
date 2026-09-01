@@ -47,10 +47,8 @@ A module for FoundryVTT that includes over 600 fantasy plants from Broderick's C
 
 ## What's to come?
 
-- Finish adding images for plants that lack them
 - Finish PF2E Support
 - Create in game uses for some of the plants lacking a distinct usecase in game
-- Update visual description of some plants that have a use, but no description
 - Automate the foraging/crafting likely through integration with the suggested use section modules
 
 ## Optional Dependencies
@@ -60,7 +58,7 @@ A module for FoundryVTT that includes over 600 fantasy plants from Broderick's C
 ## Suggested Use
 
 - I am planning to use this with TheRipper93s [Gatherer](https://theripper93.com/module/gatherer) and [Mastercrafted](https://theripper93.com/module/mastercrafted)
-- I will be creating another module for animal/monster parts as well as non plant/fungi reagents and potions specifically for integration with this and the above modules.
+- I will eventually be creating another module for animal/monster parts as well as non plant/fungi reagents and potions specifically for integration with this and the above modules.
 
 ## Wait a minute... I've already seen this!
 

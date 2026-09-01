@@ -1,3 +1,9 @@
+3.35.0
+------
+* DnD - Began adding automation
+    * Arctic Plants Table adjusted to modern formatting
+* PF2e - Continued the plants beginning in S
+
 3.34.0
 ------
 * DnD - Finished the plants beginning in X, Y, and Z
