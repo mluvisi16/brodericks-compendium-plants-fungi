@@ -1,3 +1,9 @@
+3.36.0
+------
+* DnD - Continued automation for various plants
+    * Cave Plants Table adjusted to modern formatting
+* PF2e - Finished the plants beginning in S
+
 3.35.0
 ------
 * DnD - Began adding automation
