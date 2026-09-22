@@ -1,6 +1,7 @@
 3.37.0
 ------
-* DnD - ...
+* DnD - Continued automation for various plants
+    * City Plants Table adjusted to modern formatting
 * PF2e - Finished the plants beginning in S
 
 3.36.0
