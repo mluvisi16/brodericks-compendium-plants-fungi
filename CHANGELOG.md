@@ -1,3 +1,9 @@
+3.38.0
+------
+* DnD - Continued automation for various plants
+    * Coastal Plants Table adjusted to modern formatting
+* PF2e - Began the plants beginning in T
+
 3.37.0
 ------
 * DnD - Continued automation for various plants
