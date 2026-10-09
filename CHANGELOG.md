@@ -5,12 +5,6 @@
 * DnD - Removed AI images and replaced with FoundryVTT icons
 * PF2e - Removed AI images and replaced with FoundryVTT icons
 
-3.38.0
-------
-* DnD - Continued automation for various plants
-    * Coastal Plants Table adjusted to modern formatting
-* PF2e - Began the plants beginning in T
-
 3.37.0
 ------
 * DnD - Continued automation for various plants
