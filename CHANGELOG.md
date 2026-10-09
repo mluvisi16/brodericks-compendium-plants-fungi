@@ -1,3 +1,10 @@
+4.0.0
+------
+* Removed all AI to abide by FoundryVTT's AI Policy
+* Updated to Foundry v14
+* DnD - Removed AI images and replaced with FoundryVTT icons
+* PF2e - Removed AI images and replaced with FoundryVTT icons
+
 3.38.0
 ------
 * DnD - Continued automation for various plants
