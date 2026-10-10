@@ -2,7 +2,7 @@
   "_id": "7ctkSKyKXSRA290L",
   "name": "Mandrake",
   "type": "consumable",
-  "img": "modules/brodericks-compendium-plants-fungi/images/mandrake.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/icons/root.svg",
   "effects": [],
   "folder": null,
   "sort": 7600000,
