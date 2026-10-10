@@ -36,7 +36,7 @@
       }
     }
   },
-  "img": "modules/brodericks-compendium-plants-fungi/images/dungeon-fungus.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/icons/mushroom.svg",
   "effects": [],
   "system": {
     "description": {
