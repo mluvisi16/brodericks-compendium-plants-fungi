@@ -79,12 +79,11 @@ FoundryVTT recently changed their policy regarding AI generated content in modul
 
 ## Support 
 
-Since someone reached out regarding this, I didn't start working on this module for financial gain and
-am fortunate enough to not need to go that route. If you want to show support feel free to do so at one of the links below.
+Since someone reached out regarding this, I did not start working on this module for financial gain and am fortunate enough to not need to go that route. If you want to show support feel free to do so at one of the links below.
 
 [UNICEF USA](https://www.unicefusa.org/?form=donate)
 [Malaria Consortium](https://www.malariaconsortium.org/donate-to-malaria-consortium)
 [Doctors without Borders](https://give.doctorswithoutborders.org/)
 
-Feel free to open an issue or discussion post in my repo or message me on discord "vitamorte" to report issues or make suggestions for future content or plant updates.
-Enjoy your wilderness foraging!
+Feel free to open an issue or discussion post in my repo or message me on discord "vitamorte" to report issues, offer artwork, or give suggestions for more plants to add.
+Thanks again for the support and enjoy your wilderness foraging!
