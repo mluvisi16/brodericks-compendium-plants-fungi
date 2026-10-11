@@ -47,10 +47,10 @@ A module for FoundryVTT that includes over 600 fantasy plants from Broderick's C
 
 ## What's to come?
 
-- Finish PF2E Support
+- Finish adding all plants to PF2e and add roll tables
 - Create in game uses for some of the plants lacking a distinct usecase in game
 - Automate the foraging/crafting likely through integration with the suggested use section modules
-- Adding images over time as community submissions come in
+- Add images over time as images are submitted
 
 ## Optional Dependencies
 
