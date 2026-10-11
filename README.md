@@ -50,6 +50,7 @@ A module for FoundryVTT that includes over 600 fantasy plants from Broderick's C
 - Finish PF2E Support
 - Create in game uses for some of the plants lacking a distinct usecase in game
 - Automate the foraging/crafting likely through integration with the suggested use section modules
+- Adding images over time as community submissions come in
 
 ## Optional Dependencies
 
@@ -71,6 +72,10 @@ This module is a fork of the wonderful [FoundryVTT-FantasyPlants](https://github
 - Rebalanced roll tables.
 - Compatibility for the new rarity setting, which got introduced by the DND5E 1.4.0 system.
 - and more
+
+## Where did all the images go?
+
+FoundryVTT recently changed their policy regarding AI generated content in modules. With over 400 plants needing images and it being too expansive to try and commission that many images I will be opening it to submissions from users or artists and providing credit to them in the repo and the entries in game
 
 ## Support 
 

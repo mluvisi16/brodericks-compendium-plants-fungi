@@ -2,8 +2,9 @@
 ------
 * Removed all AI to abide by FoundryVTT's AI Policy
 * Updated to Foundry v14
-* DnD - Removed AI images and replaced with FoundryVTT icons
-* PF2e - Removed AI images and replaced with FoundryVTT icons
+* Added popup asking for community art with option to permanently hide the popup
+* DnD - Removed AI images and replaced with sourced icons
+* PF2e - Removed AI images and replaced with sourced icons
 
 3.37.0
 ------
