@@ -85,5 +85,5 @@ Since someone reached out regarding this, I did not start working on this module
 [Malaria Consortium](https://www.malariaconsortium.org/donate-to-malaria-consortium)
 [Doctors without Borders](https://give.doctorswithoutborders.org/)
 
-Feel free to open an issue or discussion post in my repo or message me on discord "vitamorte" to report issues, offer artwork, or give suggestions for more plants to add.
+Please open an issue or discussion post in my repo or message me on discord "vitamorte" to report issues, offer artwork, or give suggestions for more plants to add.
 Thanks again for the support and enjoy your wilderness foraging!
