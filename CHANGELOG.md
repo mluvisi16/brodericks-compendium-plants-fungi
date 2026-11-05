@@ -1,3 +1,8 @@
+4.2.0
+------
+* DnD - Coastal Plants Table adjusted to modern formatting
+* PF2e - Continued the plants beginning with T
+
 4.1.0
 ------
 * DnD - Desert Plants Table adjusted to modern formatting
